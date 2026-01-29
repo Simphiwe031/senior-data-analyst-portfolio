@@ -1,0 +1,3001 @@
+user_id,signup_date,acquisition_channel,country
+U_000001,2022-08-17,Organic,United Kingdom
+U_000002,2023-05-17,Paid Search,United States
+U_000003,2022-07-29,Partnership,South Africa
+U_000004,2024-05-14,Organic,South Africa
+U_000005,2022-07-11,Paid Search,United States
+U_000006,2024-10-31,Partnership,South Africa
+U_000007,2023-02-12,Partnership,Germany
+U_000008,2023-03-28,Social,India
+U_000009,2023-07-24,Organic,United States
+U_000010,2024-05-15,Referral,United Kingdom
+U_000011,2022-11-15,Paid Search,United Kingdom
+U_000012,2022-07-29,Organic,Germany
+U_000013,2022-07-18,Referral,United Kingdom
+U_000014,2023-06-26,Organic,Germany
+U_000015,2022-09-13,Social,South Africa
+U_000016,2023-08-24,Partnership,United Kingdom
+U_000017,2023-01-29,Organic,South Africa
+U_000018,2023-04-12,Referral,South Africa
+U_000019,2023-04-22,Organic,Germany
+U_000020,2023-07-24,Social,United Kingdom
+U_000021,2022-11-30,Referral,United Kingdom
+U_000022,2023-03-06,Referral,South Africa
+U_000023,2022-12-17,Partnership,United States
+U_000024,2022-12-01,Social,Germany
+U_000025,2023-07-07,Partnership,United States
+U_000026,2023-10-27,Organic,United States
+U_000027,2022-03-07,Referral,Germany
+U_000028,2023-07-03,Organic,United States
+U_000029,2023-10-07,Paid Search,Germany
+U_000030,2024-03-21,Social,United States
+U_000031,2023-06-27,Paid Search,United States
+U_000032,2023-06-23,Partnership,Germany
+U_000033,2024-03-28,Referral,United States
+U_000034,2022-10-11,Partnership,Germany
+U_000035,2022-07-06,Organic,South Africa
+U_000036,2022-11-10,Paid Search,Germany
+U_000037,2022-05-11,Social,Germany
+U_000038,2024-08-16,Partnership,United Kingdom
+U_000039,2022-01-24,Organic,India
+U_000040,2023-07-01,Referral,South Africa
+U_000041,2023-08-25,Social,United States
+U_000042,2024-07-18,Organic,United Kingdom
+U_000043,2024-10-22,Paid Search,India
+U_000044,2022-08-06,Referral,India
+U_000045,2023-02-12,Paid Search,United Kingdom
+U_000046,2022-11-27,Partnership,India
+U_000047,2022-01-02,Partnership,United Kingdom
+U_000048,2024-09-27,Organic,South Africa
+U_000049,2024-01-14,Referral,United States
+U_000050,2022-04-29,Paid Search,India
+U_000051,2022-06-11,Organic,Germany
+U_000052,2022-05-22,Partnership,United States
+U_000053,2022-09-20,Social,India
+U_000054,2022-12-05,Referral,India
+U_000055,2024-05-16,Paid Search,India
+U_000056,2023-02-16,Referral,Germany
+U_000057,2024-02-04,Social,India
+U_000058,2024-07-13,Organic,United States
+U_000059,2023-04-06,Organic,United Kingdom
+U_000060,2022-02-13,Partnership,India
+U_000061,2023-04-17,Partnership,United States
+U_000062,2022-01-15,Organic,South Africa
+U_000063,2023-04-14,Organic,South Africa
+U_000064,2023-11-08,Organic,India
+U_000065,2023-05-03,Referral,Germany
+U_000066,2023-03-15,Partnership,United States
+U_000067,2024-08-26,Paid Search,Germany
+U_000068,2024-04-13,Paid Search,South Africa
+U_000069,2022-07-18,Social,United Kingdom
+U_000070,2024-05-17,Social,Germany
+U_000071,2022-04-21,Organic,South Africa
+U_000072,2024-04-04,Referral,South Africa
+U_000073,2023-05-25,Paid Search,United States
+U_000074,2024-07-07,Paid Search,Germany
+U_000075,2023-01-11,Referral,Germany
+U_000076,2023-05-27,Organic,Germany
+U_000077,2022-07-20,Organic,India
+U_000078,2022-01-31,Organic,United States
+U_000079,2022-12-07,Social,Germany
+U_000080,2024-09-12,Paid Search,Germany
+U_000081,2022-05-01,Paid Search,Germany
+U_000082,2022-01-05,Social,United Kingdom
+U_000083,2024-07-20,Referral,Germany
+U_000084,2024-09-23,Paid Search,United States
+U_000085,2023-08-31,Paid Search,South Africa
+U_000086,2022-05-05,Referral,South Africa
+U_000087,2022-04-13,Partnership,Germany
+U_000088,2024-10-26,Partnership,United States
+U_000089,2022-04-27,Partnership,South Africa
+U_000090,2023-01-16,Organic,India
+U_000091,2022-05-20,Paid Search,Germany
+U_000092,2022-09-03,Partnership,United States
+U_000093,2022-03-23,Partnership,South Africa
+U_000094,2024-05-08,Partnership,India
+U_000095,2024-12-06,Referral,United Kingdom
+U_000096,2023-02-23,Referral,United States
+U_000097,2023-06-28,Social,United States
+U_000098,2023-09-07,Social,United Kingdom
+U_000099,2022-05-29,Organic,Germany
+U_000100,2022-07-24,Organic,India
+U_000101,2023-03-13,Partnership,United Kingdom
+U_000102,2022-09-29,Referral,South Africa
+U_000103,2023-05-16,Referral,United Kingdom
+U_000104,2022-11-20,Social,India
+U_000105,2023-09-12,Partnership,India
+U_000106,2022-01-17,Partnership,United Kingdom
+U_000107,2022-08-01,Paid Search,United Kingdom
+U_000108,2022-08-25,Organic,India
+U_000109,2022-11-15,Referral,United Kingdom
+U_000110,2023-03-08,Referral,United States
+U_000111,2023-06-25,Partnership,Germany
+U_000112,2023-05-30,Organic,South Africa
+U_000113,2024-05-17,Referral,South Africa
+U_000114,2022-01-08,Referral,United States
+U_000115,2023-06-21,Paid Search,Germany
+U_000116,2024-05-25,Partnership,South Africa
+U_000117,2022-08-18,Organic,United States
+U_000118,2022-03-15,Referral,India
+U_000119,2022-10-31,Social,United States
+U_000120,2022-03-27,Referral,United Kingdom
+U_000121,2022-03-23,Referral,United States
+U_000122,2023-05-27,Organic,United Kingdom
+U_000123,2024-04-12,Partnership,United States
+U_000124,2023-04-30,Paid Search,United States
+U_000125,2024-04-24,Organic,United States
+U_000126,2023-11-12,Social,United States
+U_000127,2023-07-01,Paid Search,South Africa
+U_000128,2024-02-23,Organic,Germany
+U_000129,2023-04-01,Paid Search,Germany
+U_000130,2023-12-18,Referral,United States
+U_000131,2023-04-02,Organic,United States
+U_000132,2024-03-27,Referral,United Kingdom
+U_000133,2022-05-23,Referral,United Kingdom
+U_000134,2024-11-09,Social,India
+U_000135,2023-11-10,Organic,South Africa
+U_000136,2023-06-19,Paid Search,India
+U_000137,2023-06-28,Organic,South Africa
+U_000138,2024-06-08,Referral,United Kingdom
+U_000139,2024-06-12,Partnership,India
+U_000140,2022-08-25,Social,India
+U_000141,2023-01-25,Referral,South Africa
+U_000142,2024-06-12,Organic,India
+U_000143,2023-02-08,Referral,Germany
+U_000144,2022-05-24,Referral,India
+U_000145,2023-10-05,Organic,United Kingdom
+U_000146,2024-11-04,Referral,Germany
+U_000147,2023-10-31,Social,United Kingdom
+U_000148,2022-09-18,Paid Search,Germany
+U_000149,2024-02-16,Paid Search,India
+U_000150,2023-09-09,Social,India
+U_000151,2022-01-01,Referral,United Kingdom
+U_000152,2023-03-07,Social,India
+U_000153,2023-10-22,Social,Germany
+U_000154,2024-06-24,Paid Search,India
+U_000155,2024-08-27,Paid Search,South Africa
+U_000156,2023-08-05,Partnership,India
+U_000157,2023-11-18,Organic,United States
+U_000158,2023-09-28,Paid Search,United States
+U_000159,2022-10-29,Organic,South Africa
+U_000160,2023-05-17,Social,India
+U_000161,2022-05-30,Social,Germany
+U_000162,2023-02-03,Social,Germany
+U_000163,2024-03-29,Paid Search,United States
+U_000164,2022-01-12,Organic,Germany
+U_000165,2023-03-25,Paid Search,India
+U_000166,2024-08-09,Organic,India
+U_000167,2023-05-26,Organic,Germany
+U_000168,2022-10-01,Social,India
+U_000169,2023-10-12,Social,India
+U_000170,2024-10-30,Social,India
+U_000171,2024-07-02,Paid Search,Germany
+U_000172,2024-07-10,Referral,United States
+U_000173,2023-07-22,Partnership,Germany
+U_000174,2023-05-05,Referral,Germany
+U_000175,2022-06-08,Referral,United States
+U_000176,2023-07-11,Referral,United Kingdom
+U_000177,2022-06-15,Paid Search,United States
+U_000178,2023-04-19,Social,United States
+U_000179,2023-03-15,Organic,Germany
+U_000180,2024-04-14,Referral,India
+U_000181,2024-08-12,Social,South Africa
+U_000182,2023-02-28,Social,Germany
+U_000183,2022-02-10,Partnership,Germany
+U_000184,2024-09-03,Organic,United Kingdom
+U_000185,2023-09-04,Social,Germany
+U_000186,2023-03-28,Social,United States
+U_000187,2023-07-13,Social,Germany
+U_000188,2022-03-01,Social,United Kingdom
+U_000189,2024-04-08,Paid Search,Germany
+U_000190,2022-09-19,Partnership,India
+U_000191,2022-02-25,Social,India
+U_000192,2022-02-25,Organic,Germany
+U_000193,2022-10-05,Social,United States
+U_000194,2022-04-13,Referral,Germany
+U_000195,2023-11-02,Paid Search,Germany
+U_000196,2023-11-01,Referral,Germany
+U_000197,2023-07-24,Social,United Kingdom
+U_000198,2022-06-17,Social,South Africa
+U_000199,2022-04-17,Referral,United States
+U_000200,2022-05-21,Organic,South Africa
+U_000201,2023-05-22,Paid Search,South Africa
+U_000202,2022-11-09,Paid Search,United States
+U_000203,2024-08-27,Organic,India
+U_000204,2023-03-23,Social,United Kingdom
+U_000205,2024-01-26,Paid Search,India
+U_000206,2022-08-23,Paid Search,United Kingdom
+U_000207,2022-08-10,Partnership,South Africa
+U_000208,2023-10-01,Partnership,Germany
+U_000209,2024-03-23,Paid Search,South Africa
+U_000210,2023-05-13,Organic,United Kingdom
+U_000211,2022-09-05,Partnership,South Africa
+U_000212,2023-12-13,Partnership,Germany
+U_000213,2024-01-29,Organic,India
+U_000214,2023-11-30,Organic,Germany
+U_000215,2024-09-30,Organic,Germany
+U_000216,2024-01-12,Social,United States
+U_000217,2024-06-10,Paid Search,India
+U_000218,2023-07-08,Partnership,India
+U_000219,2024-09-17,Social,Germany
+U_000220,2023-07-04,Referral,United States
+U_000221,2022-06-27,Referral,Germany
+U_000222,2023-05-15,Social,India
+U_000223,2024-02-16,Referral,South Africa
+U_000224,2024-10-09,Referral,United States
+U_000225,2024-09-25,Paid Search,United Kingdom
+U_000226,2023-06-14,Referral,United Kingdom
+U_000227,2023-07-20,Partnership,South Africa
+U_000228,2024-11-24,Paid Search,South Africa
+U_000229,2023-05-10,Social,Germany
+U_000230,2023-05-08,Social,Germany
+U_000231,2024-07-06,Organic,South Africa
+U_000232,2023-08-26,Paid Search,Germany
+U_000233,2023-05-14,Referral,India
+U_000234,2024-01-26,Social,India
+U_000235,2024-12-23,Referral,Germany
+U_000236,2023-11-09,Referral,Germany
+U_000237,2023-07-09,Referral,United Kingdom
+U_000238,2023-04-18,Organic,United States
+U_000239,2023-10-09,Organic,India
+U_000240,2023-01-15,Paid Search,United States
+U_000241,2024-09-18,Referral,India
+U_000242,2024-12-10,Partnership,United Kingdom
+U_000243,2022-07-25,Paid Search,United Kingdom
+U_000244,2023-04-11,Referral,United States
+U_000245,2023-09-12,Organic,India
+U_000246,2022-09-17,Referral,South Africa
+U_000247,2022-04-22,Partnership,United Kingdom
+U_000248,2022-09-16,Social,South Africa
+U_000249,2022-01-26,Partnership,United Kingdom
+U_000250,2024-08-19,Social,Germany
+U_000251,2023-11-29,Paid Search,South Africa
+U_000252,2023-06-02,Social,South Africa
+U_000253,2022-05-14,Social,Germany
+U_000254,2022-06-01,Partnership,South Africa
+U_000255,2022-11-07,Paid Search,India
+U_000256,2023-09-15,Organic,United States
+U_000257,2022-08-31,Partnership,Germany
+U_000258,2023-04-08,Partnership,Germany
+U_000259,2024-07-11,Social,United Kingdom
+U_000260,2024-05-28,Referral,India
+U_000261,2022-05-04,Partnership,South Africa
+U_000262,2023-03-02,Paid Search,United Kingdom
+U_000263,2022-06-16,Paid Search,United States
+U_000264,2022-12-22,Partnership,South Africa
+U_000265,2022-11-17,Organic,Germany
+U_000266,2024-07-11,Partnership,Germany
+U_000267,2023-08-20,Organic,United States
+U_000268,2023-08-14,Referral,Germany
+U_000269,2022-05-26,Paid Search,United Kingdom
+U_000270,2023-02-10,Social,South Africa
+U_000271,2023-04-06,Paid Search,United Kingdom
+U_000272,2022-10-19,Organic,South Africa
+U_000273,2022-12-06,Referral,India
+U_000274,2023-08-15,Social,South Africa
+U_000275,2024-08-17,Referral,Germany
+U_000276,2023-07-12,Partnership,India
+U_000277,2024-10-08,Social,South Africa
+U_000278,2022-03-23,Social,United Kingdom
+U_000279,2023-05-28,Organic,South Africa
+U_000280,2023-04-14,Partnership,India
+U_000281,2022-02-12,Referral,India
+U_000282,2022-03-24,Paid Search,Germany
+U_000283,2024-11-28,Social,United Kingdom
+U_000284,2023-01-07,Partnership,Germany
+U_000285,2024-10-04,Organic,Germany
+U_000286,2023-12-14,Social,United Kingdom
+U_000287,2023-10-20,Organic,United States
+U_000288,2023-11-07,Social,Germany
+U_000289,2023-08-14,Social,India
+U_000290,2022-03-17,Social,South Africa
+U_000291,2023-10-07,Referral,United Kingdom
+U_000292,2022-08-26,Social,India
+U_000293,2022-01-03,Partnership,Germany
+U_000294,2024-04-26,Organic,United States
+U_000295,2024-11-27,Referral,India
+U_000296,2024-10-17,Social,South Africa
+U_000297,2023-02-21,Referral,India
+U_000298,2022-09-26,Referral,Germany
+U_000299,2024-09-19,Organic,South Africa
+U_000300,2023-05-06,Paid Search,United Kingdom
+U_000301,2022-01-29,Partnership,Germany
+U_000302,2022-07-10,Paid Search,South Africa
+U_000303,2024-08-03,Organic,United States
+U_000304,2024-10-17,Referral,India
+U_000305,2023-07-14,Social,Germany
+U_000306,2024-08-25,Paid Search,Germany
+U_000307,2022-10-24,Social,United States
+U_000308,2024-11-06,Paid Search,South Africa
+U_000309,2023-07-20,Social,United Kingdom
+U_000310,2024-11-05,Referral,South Africa
+U_000311,2023-08-03,Referral,India
+U_000312,2024-09-29,Paid Search,Germany
+U_000313,2024-09-18,Referral,United Kingdom
+U_000314,2024-02-12,Social,United Kingdom
+U_000315,2023-01-22,Paid Search,India
+U_000316,2024-02-24,Paid Search,Germany
+U_000317,2022-03-31,Referral,Germany
+U_000318,2024-02-20,Social,United States
+U_000319,2024-10-11,Organic,United States
+U_000320,2024-10-25,Partnership,United Kingdom
+U_000321,2022-07-25,Social,South Africa
+U_000322,2024-12-13,Social,South Africa
+U_000323,2022-10-23,Social,United States
+U_000324,2022-06-03,Social,United Kingdom
+U_000325,2023-11-25,Partnership,Germany
+U_000326,2022-06-14,Referral,India
+U_000327,2024-02-18,Referral,Germany
+U_000328,2022-03-15,Partnership,South Africa
+U_000329,2023-04-26,Referral,United States
+U_000330,2022-07-05,Social,South Africa
+U_000331,2022-07-25,Social,United States
+U_000332,2023-09-06,Organic,South Africa
+U_000333,2023-10-27,Organic,United Kingdom
+U_000334,2024-01-05,Referral,Germany
+U_000335,2022-10-26,Paid Search,India
+U_000336,2024-04-23,Partnership,United States
+U_000337,2022-12-15,Paid Search,South Africa
+U_000338,2024-02-23,Partnership,United States
+U_000339,2024-10-16,Partnership,United States
+U_000340,2023-04-21,Social,United Kingdom
+U_000341,2024-07-30,Referral,South Africa
+U_000342,2024-08-10,Referral,India
+U_000343,2022-11-20,Organic,Germany
+U_000344,2023-12-09,Partnership,United Kingdom
+U_000345,2024-05-18,Referral,Germany
+U_000346,2023-09-11,Paid Search,Germany
+U_000347,2024-09-16,Organic,United States
+U_000348,2024-02-21,Partnership,United Kingdom
+U_000349,2023-08-29,Referral,South Africa
+U_000350,2024-03-21,Referral,South Africa
+U_000351,2022-04-11,Partnership,Germany
+U_000352,2023-08-10,Paid Search,India
+U_000353,2023-12-23,Paid Search,United States
+U_000354,2023-05-29,Paid Search,South Africa
+U_000355,2022-03-22,Referral,Germany
+U_000356,2022-03-10,Partnership,United Kingdom
+U_000357,2022-09-27,Organic,United Kingdom
+U_000358,2023-11-01,Social,United States
+U_000359,2023-02-16,Paid Search,India
+U_000360,2024-01-20,Partnership,India
+U_000361,2023-07-13,Paid Search,United Kingdom
+U_000362,2024-09-13,Referral,United Kingdom
+U_000363,2022-08-24,Social,South Africa
+U_000364,2022-10-16,Paid Search,Germany
+U_000365,2024-01-20,Organic,Germany
+U_000366,2022-01-29,Referral,India
+U_000367,2022-09-11,Social,United Kingdom
+U_000368,2023-06-21,Partnership,Germany
+U_000369,2024-01-31,Organic,United States
+U_000370,2024-08-23,Organic,India
+U_000371,2023-11-03,Partnership,United States
+U_000372,2022-05-10,Social,United Kingdom
+U_000373,2024-04-16,Organic,United States
+U_000374,2022-04-03,Organic,United Kingdom
+U_000375,2024-10-05,Organic,South Africa
+U_000376,2023-04-26,Partnership,United States
+U_000377,2024-03-06,Social,United Kingdom
+U_000378,2024-05-08,Partnership,United States
+U_000379,2024-04-29,Organic,Germany
+U_000380,2024-04-15,Referral,South Africa
+U_000381,2024-01-29,Paid Search,Germany
+U_000382,2024-06-29,Paid Search,United Kingdom
+U_000383,2022-07-23,Referral,India
+U_000384,2024-01-05,Organic,Germany
+U_000385,2023-07-20,Paid Search,South Africa
+U_000386,2024-07-20,Organic,United States
+U_000387,2022-02-13,Organic,United Kingdom
+U_000388,2023-05-14,Paid Search,India
+U_000389,2023-02-25,Organic,India
+U_000390,2023-03-01,Partnership,United States
+U_000391,2023-04-23,Referral,United States
+U_000392,2022-01-06,Referral,United States
+U_000393,2022-09-24,Partnership,United Kingdom
+U_000394,2022-12-24,Organic,South Africa
+U_000395,2022-09-27,Organic,United Kingdom
+U_000396,2023-05-03,Partnership,United Kingdom
+U_000397,2022-02-02,Paid Search,United Kingdom
+U_000398,2022-04-18,Paid Search,Germany
+U_000399,2024-12-13,Organic,South Africa
+U_000400,2024-09-02,Social,United Kingdom
+U_000401,2024-11-17,Partnership,South Africa
+U_000402,2024-07-14,Partnership,United States
+U_000403,2022-03-30,Partnership,United Kingdom
+U_000404,2024-07-27,Organic,South Africa
+U_000405,2024-09-07,Social,Germany
+U_000406,2022-08-10,Social,Germany
+U_000407,2022-05-31,Organic,United Kingdom
+U_000408,2022-10-31,Organic,United States
+U_000409,2023-07-18,Partnership,India
+U_000410,2023-10-28,Social,India
+U_000411,2024-12-22,Referral,Germany
+U_000412,2024-11-01,Partnership,Germany
+U_000413,2022-07-23,Organic,India
+U_000414,2023-03-17,Social,Germany
+U_000415,2023-04-13,Social,United Kingdom
+U_000416,2024-07-17,Social,Germany
+U_000417,2022-07-14,Referral,Germany
+U_000418,2023-10-03,Referral,United Kingdom
+U_000419,2022-11-09,Social,South Africa
+U_000420,2022-07-06,Organic,South Africa
+U_000421,2024-06-03,Organic,United Kingdom
+U_000422,2022-09-24,Partnership,South Africa
+U_000423,2023-11-07,Organic,Germany
+U_000424,2023-12-26,Social,South Africa
+U_000425,2023-08-13,Partnership,United Kingdom
+U_000426,2023-12-22,Organic,India
+U_000427,2024-11-05,Paid Search,United States
+U_000428,2024-09-14,Paid Search,South Africa
+U_000429,2023-12-19,Partnership,United Kingdom
+U_000430,2022-08-24,Referral,India
+U_000431,2023-04-09,Social,India
+U_000432,2022-02-23,Partnership,United Kingdom
+U_000433,2022-03-01,Paid Search,United Kingdom
+U_000434,2023-09-25,Referral,United Kingdom
+U_000435,2022-01-13,Paid Search,United States
+U_000436,2024-03-31,Organic,United States
+U_000437,2022-03-04,Organic,India
+U_000438,2023-03-17,Social,Germany
+U_000439,2024-07-18,Referral,United States
+U_000440,2024-01-28,Referral,United Kingdom
+U_000441,2022-06-23,Organic,United States
+U_000442,2022-11-19,Partnership,South Africa
+U_000443,2022-06-17,Referral,Germany
+U_000444,2024-05-18,Social,India
+U_000445,2024-06-24,Social,United Kingdom
+U_000446,2023-03-18,Partnership,South Africa
+U_000447,2023-12-08,Social,South Africa
+U_000448,2023-08-04,Partnership,Germany
+U_000449,2024-12-15,Referral,South Africa
+U_000450,2023-03-28,Social,India
+U_000451,2022-04-23,Organic,United States
+U_000452,2023-09-10,Paid Search,United States
+U_000453,2023-06-08,Referral,United Kingdom
+U_000454,2022-09-03,Organic,Germany
+U_000455,2024-05-31,Paid Search,United States
+U_000456,2024-02-18,Partnership,United States
+U_000457,2024-10-21,Partnership,United Kingdom
+U_000458,2022-05-28,Social,South Africa
+U_000459,2024-06-12,Organic,Germany
+U_000460,2022-06-09,Referral,India
+U_000461,2024-05-29,Partnership,Germany
+U_000462,2024-05-05,Referral,South Africa
+U_000463,2024-04-09,Organic,United Kingdom
+U_000464,2022-12-18,Partnership,Germany
+U_000465,2024-01-12,Organic,Germany
+U_000466,2022-08-05,Paid Search,Germany
+U_000467,2024-03-31,Partnership,South Africa
+U_000468,2024-03-21,Referral,United Kingdom
+U_000469,2023-03-30,Referral,United States
+U_000470,2022-06-06,Partnership,South Africa
+U_000471,2024-12-22,Partnership,United States
+U_000472,2023-12-17,Referral,United States
+U_000473,2023-04-29,Organic,United States
+U_000474,2023-06-09,Paid Search,United States
+U_000475,2022-11-10,Organic,United States
+U_000476,2024-10-08,Social,India
+U_000477,2024-07-08,Partnership,India
+U_000478,2023-10-24,Referral,United States
+U_000479,2024-06-19,Organic,Germany
+U_000480,2024-06-24,Referral,United Kingdom
+U_000481,2022-04-26,Referral,India
+U_000482,2022-06-01,Referral,Germany
+U_000483,2024-07-14,Organic,South Africa
+U_000484,2024-01-26,Referral,South Africa
+U_000485,2022-07-04,Partnership,India
+U_000486,2024-11-04,Social,Germany
+U_000487,2022-03-26,Social,India
+U_000488,2023-01-21,Referral,India
+U_000489,2024-09-01,Partnership,United States
+U_000490,2022-05-07,Social,South Africa
+U_000491,2023-12-05,Organic,India
+U_000492,2022-12-20,Organic,United States
+U_000493,2024-06-15,Social,India
+U_000494,2024-12-06,Partnership,United States
+U_000495,2024-01-16,Referral,United Kingdom
+U_000496,2024-03-04,Social,United Kingdom
+U_000497,2022-04-18,Referral,South Africa
+U_000498,2023-11-07,Organic,India
+U_000499,2024-03-02,Referral,United Kingdom
+U_000500,2022-11-04,Referral,South Africa
+U_000501,2022-10-17,Referral,United Kingdom
+U_000502,2024-03-13,Paid Search,India
+U_000503,2022-06-23,Referral,India
+U_000504,2024-02-11,Referral,United States
+U_000505,2024-12-14,Organic,Germany
+U_000506,2024-11-07,Referral,South Africa
+U_000507,2024-01-13,Referral,United States
+U_000508,2023-03-15,Referral,Germany
+U_000509,2023-01-29,Paid Search,United States
+U_000510,2022-11-14,Organic,United Kingdom
+U_000511,2022-07-27,Partnership,India
+U_000512,2024-12-14,Organic,United Kingdom
+U_000513,2022-09-26,Partnership,Germany
+U_000514,2022-11-12,Paid Search,United States
+U_000515,2022-12-06,Social,South Africa
+U_000516,2024-04-21,Referral,United States
+U_000517,2024-06-28,Partnership,United Kingdom
+U_000518,2024-07-08,Paid Search,India
+U_000519,2023-05-05,Referral,Germany
+U_000520,2023-02-02,Referral,India
+U_000521,2024-06-21,Social,United Kingdom
+U_000522,2024-02-22,Partnership,India
+U_000523,2024-05-07,Paid Search,United States
+U_000524,2022-10-11,Referral,South Africa
+U_000525,2024-09-11,Referral,India
+U_000526,2022-07-30,Partnership,South Africa
+U_000527,2023-08-07,Organic,United States
+U_000528,2023-07-13,Social,India
+U_000529,2022-10-29,Social,South Africa
+U_000530,2023-03-31,Social,United Kingdom
+U_000531,2022-02-24,Social,South Africa
+U_000532,2024-03-22,Partnership,United Kingdom
+U_000533,2023-04-28,Social,South Africa
+U_000534,2024-02-07,Paid Search,South Africa
+U_000535,2023-10-15,Organic,United Kingdom
+U_000536,2022-10-27,Paid Search,South Africa
+U_000537,2023-08-11,Social,United States
+U_000538,2024-08-18,Social,India
+U_000539,2022-01-11,Organic,South Africa
+U_000540,2023-06-09,Paid Search,United States
+U_000541,2024-12-16,Social,South Africa
+U_000542,2023-08-14,Paid Search,United Kingdom
+U_000543,2022-09-07,Organic,United States
+U_000544,2024-05-09,Partnership,Germany
+U_000545,2022-05-09,Organic,Germany
+U_000546,2022-02-03,Partnership,India
+U_000547,2023-05-11,Paid Search,United Kingdom
+U_000548,2024-05-29,Organic,India
+U_000549,2023-12-24,Paid Search,India
+U_000550,2024-05-03,Paid Search,South Africa
+U_000551,2024-12-08,Referral,South Africa
+U_000552,2024-12-13,Partnership,India
+U_000553,2024-11-05,Partnership,South Africa
+U_000554,2024-03-10,Social,South Africa
+U_000555,2024-03-03,Referral,United Kingdom
+U_000556,2022-02-03,Referral,South Africa
+U_000557,2023-12-08,Paid Search,South Africa
+U_000558,2023-11-12,Paid Search,South Africa
+U_000559,2023-12-23,Partnership,United Kingdom
+U_000560,2022-12-25,Social,Germany
+U_000561,2023-01-09,Paid Search,South Africa
+U_000562,2024-07-26,Organic,United Kingdom
+U_000563,2023-02-17,Organic,United States
+U_000564,2022-03-27,Referral,United Kingdom
+U_000565,2024-11-21,Social,India
+U_000566,2024-08-27,Referral,South Africa
+U_000567,2023-01-27,Referral,United Kingdom
+U_000568,2022-04-08,Referral,United Kingdom
+U_000569,2022-09-12,Referral,Germany
+U_000570,2024-03-30,Social,Germany
+U_000571,2023-11-26,Paid Search,Germany
+U_000572,2024-10-15,Referral,India
+U_000573,2023-07-01,Organic,Germany
+U_000574,2022-06-11,Social,India
+U_000575,2023-01-05,Partnership,United Kingdom
+U_000576,2023-10-20,Organic,South Africa
+U_000577,2023-11-03,Referral,United Kingdom
+U_000578,2024-07-02,Partnership,Germany
+U_000579,2022-12-08,Social,United Kingdom
+U_000580,2024-07-04,Organic,United Kingdom
+U_000581,2024-06-09,Referral,South Africa
+U_000582,2022-06-03,Social,United Kingdom
+U_000583,2024-11-16,Paid Search,South Africa
+U_000584,2022-10-20,Partnership,Germany
+U_000585,2022-03-13,Paid Search,South Africa
+U_000586,2023-04-29,Referral,United Kingdom
+U_000587,2024-02-24,Partnership,South Africa
+U_000588,2022-11-11,Social,United Kingdom
+U_000589,2024-02-01,Social,South Africa
+U_000590,2022-10-09,Partnership,United Kingdom
+U_000591,2024-03-26,Referral,United Kingdom
+U_000592,2023-05-27,Organic,South Africa
+U_000593,2023-01-17,Social,India
+U_000594,2024-03-03,Partnership,South Africa
+U_000595,2023-06-21,Referral,Germany
+U_000596,2023-03-16,Partnership,United Kingdom
+U_000597,2024-10-02,Paid Search,South Africa
+U_000598,2022-10-05,Organic,Germany
+U_000599,2022-12-20,Social,South Africa
+U_000600,2023-10-17,Referral,South Africa
+U_000601,2023-08-18,Referral,United States
+U_000602,2022-12-23,Referral,India
+U_000603,2023-04-05,Organic,United States
+U_000604,2022-10-12,Paid Search,Germany
+U_000605,2022-02-23,Referral,India
+U_000606,2024-01-26,Social,India
+U_000607,2022-09-23,Partnership,South Africa
+U_000608,2022-05-15,Referral,Germany
+U_000609,2024-09-07,Partnership,Germany
+U_000610,2024-04-18,Partnership,South Africa
+U_000611,2022-09-14,Referral,South Africa
+U_000612,2024-07-10,Social,India
+U_000613,2023-12-07,Paid Search,India
+U_000614,2023-01-08,Paid Search,Germany
+U_000615,2024-10-26,Organic,South Africa
+U_000616,2024-11-27,Paid Search,United Kingdom
+U_000617,2022-12-04,Paid Search,United Kingdom
+U_000618,2023-04-07,Referral,India
+U_000619,2023-08-05,Organic,United Kingdom
+U_000620,2023-02-07,Partnership,United Kingdom
+U_000621,2022-09-14,Referral,India
+U_000622,2024-12-28,Organic,India
+U_000623,2022-12-12,Partnership,India
+U_000624,2022-11-12,Paid Search,India
+U_000625,2023-11-23,Partnership,South Africa
+U_000626,2022-02-28,Organic,South Africa
+U_000627,2023-06-27,Paid Search,India
+U_000628,2024-05-03,Partnership,South Africa
+U_000629,2024-10-16,Partnership,United Kingdom
+U_000630,2023-09-11,Social,United States
+U_000631,2024-04-11,Referral,Germany
+U_000632,2022-05-30,Organic,United States
+U_000633,2024-06-19,Social,Germany
+U_000634,2024-08-09,Paid Search,United Kingdom
+U_000635,2022-10-22,Referral,United Kingdom
+U_000636,2023-12-09,Social,United States
+U_000637,2024-01-29,Partnership,India
+U_000638,2022-08-06,Referral,United States
+U_000639,2024-08-13,Organic,United Kingdom
+U_000640,2024-07-09,Paid Search,United States
+U_000641,2022-07-18,Organic,United Kingdom
+U_000642,2024-02-26,Partnership,Germany
+U_000643,2023-05-24,Paid Search,United Kingdom
+U_000644,2023-10-03,Paid Search,United States
+U_000645,2024-10-17,Partnership,Germany
+U_000646,2024-10-18,Referral,Germany
+U_000647,2022-02-17,Organic,Germany
+U_000648,2024-11-01,Social,United States
+U_000649,2023-03-17,Partnership,United Kingdom
+U_000650,2022-04-10,Organic,United Kingdom
+U_000651,2024-10-10,Partnership,Germany
+U_000652,2023-08-09,Partnership,South Africa
+U_000653,2022-08-09,Social,United States
+U_000654,2023-06-26,Referral,Germany
+U_000655,2024-01-20,Organic,Germany
+U_000656,2022-04-15,Partnership,India
+U_000657,2023-02-03,Referral,India
+U_000658,2023-08-15,Organic,Germany
+U_000659,2024-10-29,Social,India
+U_000660,2023-07-27,Partnership,India
+U_000661,2022-09-01,Paid Search,South Africa
+U_000662,2024-03-17,Referral,United Kingdom
+U_000663,2024-01-19,Paid Search,United States
+U_000664,2024-11-08,Social,India
+U_000665,2022-03-24,Organic,South Africa
+U_000666,2022-10-08,Referral,Germany
+U_000667,2024-11-29,Social,United States
+U_000668,2024-11-21,Paid Search,United Kingdom
+U_000669,2023-10-15,Paid Search,Germany
+U_000670,2023-09-05,Partnership,United Kingdom
+U_000671,2024-11-04,Partnership,India
+U_000672,2024-09-30,Partnership,United Kingdom
+U_000673,2024-08-30,Organic,United Kingdom
+U_000674,2023-11-10,Organic,Germany
+U_000675,2023-09-23,Organic,India
+U_000676,2024-08-29,Referral,India
+U_000677,2023-04-12,Organic,India
+U_000678,2024-09-10,Paid Search,India
+U_000679,2024-02-18,Paid Search,United States
+U_000680,2022-03-06,Partnership,South Africa
+U_000681,2023-01-26,Organic,Germany
+U_000682,2023-10-05,Social,United States
+U_000683,2024-04-25,Paid Search,Germany
+U_000684,2024-10-24,Partnership,Germany
+U_000685,2022-05-08,Paid Search,India
+U_000686,2023-03-01,Partnership,United Kingdom
+U_000687,2024-09-06,Partnership,Germany
+U_000688,2023-10-05,Paid Search,Germany
+U_000689,2024-12-27,Referral,India
+U_000690,2023-12-27,Referral,India
+U_000691,2024-09-18,Paid Search,United States
+U_000692,2023-07-26,Partnership,United Kingdom
+U_000693,2023-04-06,Referral,United Kingdom
+U_000694,2023-03-01,Social,United Kingdom
+U_000695,2024-09-09,Referral,India
+U_000696,2023-07-15,Referral,South Africa
+U_000697,2024-02-17,Social,United Kingdom
+U_000698,2022-10-27,Referral,South Africa
+U_000699,2023-08-13,Organic,United Kingdom
+U_000700,2024-06-24,Referral,Germany
+U_000701,2023-03-15,Paid Search,India
+U_000702,2023-07-10,Partnership,United Kingdom
+U_000703,2022-10-09,Organic,India
+U_000704,2023-05-06,Paid Search,South Africa
+U_000705,2024-12-23,Paid Search,United States
+U_000706,2022-04-18,Organic,Germany
+U_000707,2023-11-08,Social,South Africa
+U_000708,2022-10-09,Organic,India
+U_000709,2022-11-20,Social,Germany
+U_000710,2024-09-04,Paid Search,United Kingdom
+U_000711,2023-10-20,Referral,South Africa
+U_000712,2022-07-03,Partnership,United States
+U_000713,2024-12-31,Organic,United States
+U_000714,2024-05-05,Paid Search,South Africa
+U_000715,2024-03-24,Social,United States
+U_000716,2023-08-16,Organic,South Africa
+U_000717,2023-09-04,Partnership,India
+U_000718,2022-08-08,Referral,United Kingdom
+U_000719,2024-07-19,Partnership,India
+U_000720,2024-10-08,Paid Search,India
+U_000721,2024-08-16,Referral,United States
+U_000722,2022-08-19,Referral,United States
+U_000723,2024-07-28,Referral,United States
+U_000724,2022-01-29,Referral,United Kingdom
+U_000725,2023-01-31,Paid Search,India
+U_000726,2024-04-10,Social,India
+U_000727,2023-11-03,Organic,Germany
+U_000728,2022-07-15,Paid Search,United States
+U_000729,2024-09-04,Referral,United States
+U_000730,2022-01-14,Referral,Germany
+U_000731,2023-04-28,Social,United Kingdom
+U_000732,2023-11-07,Referral,India
+U_000733,2022-01-24,Referral,United Kingdom
+U_000734,2023-04-29,Organic,South Africa
+U_000735,2024-08-11,Referral,United States
+U_000736,2024-04-10,Partnership,United Kingdom
+U_000737,2022-08-29,Referral,United Kingdom
+U_000738,2023-03-29,Paid Search,United States
+U_000739,2024-09-06,Paid Search,Germany
+U_000740,2024-02-05,Social,India
+U_000741,2024-08-22,Partnership,United States
+U_000742,2023-05-22,Partnership,South Africa
+U_000743,2024-12-12,Social,India
+U_000744,2024-01-11,Organic,India
+U_000745,2022-08-18,Organic,India
+U_000746,2024-11-01,Paid Search,India
+U_000747,2022-11-03,Paid Search,United Kingdom
+U_000748,2024-12-01,Social,South Africa
+U_000749,2023-02-25,Partnership,Germany
+U_000750,2022-07-06,Partnership,Germany
+U_000751,2022-04-24,Social,United States
+U_000752,2024-11-17,Social,Germany
+U_000753,2022-04-29,Partnership,Germany
+U_000754,2023-09-24,Organic,Germany
+U_000755,2023-06-06,Organic,United States
+U_000756,2022-05-30,Organic,Germany
+U_000757,2023-12-07,Organic,India
+U_000758,2022-05-04,Organic,Germany
+U_000759,2022-03-06,Referral,Germany
+U_000760,2023-01-04,Paid Search,Germany
+U_000761,2024-02-06,Social,Germany
+U_000762,2024-02-13,Social,South Africa
+U_000763,2022-09-30,Referral,South Africa
+U_000764,2023-01-01,Partnership,Germany
+U_000765,2024-12-19,Paid Search,United States
+U_000766,2022-01-08,Organic,United Kingdom
+U_000767,2024-08-06,Partnership,Germany
+U_000768,2024-12-25,Social,United States
+U_000769,2023-05-22,Social,United Kingdom
+U_000770,2022-11-14,Referral,United States
+U_000771,2022-08-20,Organic,Germany
+U_000772,2022-02-02,Paid Search,United States
+U_000773,2022-05-18,Organic,India
+U_000774,2022-03-10,Social,India
+U_000775,2022-04-10,Paid Search,South Africa
+U_000776,2024-04-03,Social,United States
+U_000777,2023-03-21,Organic,United States
+U_000778,2024-10-28,Referral,United States
+U_000779,2023-10-16,Partnership,India
+U_000780,2023-10-19,Paid Search,United Kingdom
+U_000781,2022-10-21,Partnership,United States
+U_000782,2024-04-26,Referral,United Kingdom
+U_000783,2022-05-05,Partnership,India
+U_000784,2022-12-25,Social,India
+U_000785,2024-10-12,Organic,United Kingdom
+U_000786,2024-02-20,Partnership,United Kingdom
+U_000787,2024-05-02,Social,United States
+U_000788,2023-09-07,Social,United States
+U_000789,2024-08-27,Paid Search,United States
+U_000790,2023-09-08,Paid Search,Germany
+U_000791,2022-04-29,Partnership,Germany
+U_000792,2024-05-03,Partnership,India
+U_000793,2022-10-02,Social,United States
+U_000794,2023-06-07,Paid Search,United Kingdom
+U_000795,2022-06-11,Social,United Kingdom
+U_000796,2022-07-09,Partnership,United States
+U_000797,2022-04-16,Referral,Germany
+U_000798,2022-03-22,Organic,United States
+U_000799,2023-03-21,Social,United States
+U_000800,2023-11-13,Referral,South Africa
+U_000801,2023-03-10,Paid Search,South Africa
+U_000802,2024-09-07,Paid Search,India
+U_000803,2023-02-23,Social,United States
+U_000804,2023-10-21,Referral,Germany
+U_000805,2024-08-12,Partnership,United Kingdom
+U_000806,2023-09-24,Referral,United Kingdom
+U_000807,2024-11-16,Social,Germany
+U_000808,2022-07-21,Social,United Kingdom
+U_000809,2023-02-21,Referral,United Kingdom
+U_000810,2024-04-27,Organic,India
+U_000811,2023-03-30,Paid Search,South Africa
+U_000812,2023-06-19,Partnership,India
+U_000813,2024-05-05,Referral,United States
+U_000814,2023-02-06,Referral,United States
+U_000815,2024-02-17,Partnership,United States
+U_000816,2024-10-19,Partnership,United Kingdom
+U_000817,2023-06-12,Social,Germany
+U_000818,2024-08-01,Paid Search,United Kingdom
+U_000819,2022-12-13,Paid Search,India
+U_000820,2024-09-27,Paid Search,India
+U_000821,2022-05-01,Partnership,South Africa
+U_000822,2022-06-02,Organic,South Africa
+U_000823,2024-04-24,Paid Search,United States
+U_000824,2022-05-20,Paid Search,South Africa
+U_000825,2023-03-24,Partnership,Germany
+U_000826,2024-02-04,Organic,India
+U_000827,2024-09-16,Social,South Africa
+U_000828,2022-01-14,Partnership,India
+U_000829,2024-04-22,Organic,South Africa
+U_000830,2024-12-20,Referral,India
+U_000831,2023-08-11,Organic,India
+U_000832,2024-05-31,Paid Search,South Africa
+U_000833,2022-07-17,Partnership,United States
+U_000834,2023-05-09,Paid Search,India
+U_000835,2024-12-14,Referral,United Kingdom
+U_000836,2023-07-02,Social,South Africa
+U_000837,2024-02-04,Social,Germany
+U_000838,2023-05-14,Paid Search,United Kingdom
+U_000839,2022-06-15,Organic,South Africa
+U_000840,2024-04-10,Social,Germany
+U_000841,2024-09-01,Organic,South Africa
+U_000842,2022-12-17,Organic,Germany
+U_000843,2024-06-07,Referral,India
+U_000844,2022-07-15,Partnership,South Africa
+U_000845,2023-04-16,Paid Search,India
+U_000846,2024-08-31,Referral,South Africa
+U_000847,2022-06-02,Referral,India
+U_000848,2022-03-09,Paid Search,United Kingdom
+U_000849,2022-02-02,Paid Search,India
+U_000850,2022-10-23,Social,South Africa
+U_000851,2023-09-05,Paid Search,India
+U_000852,2023-05-08,Partnership,Germany
+U_000853,2023-11-11,Social,United States
+U_000854,2022-06-10,Partnership,United Kingdom
+U_000855,2022-04-20,Organic,Germany
+U_000856,2023-04-21,Organic,United Kingdom
+U_000857,2024-03-23,Referral,South Africa
+U_000858,2023-07-14,Social,Germany
+U_000859,2023-04-13,Referral,India
+U_000860,2024-02-08,Social,United States
+U_000861,2024-02-18,Organic,India
+U_000862,2023-08-28,Paid Search,South Africa
+U_000863,2022-06-18,Referral,United States
+U_000864,2024-02-18,Paid Search,Germany
+U_000865,2023-10-11,Referral,South Africa
+U_000866,2022-07-07,Organic,United Kingdom
+U_000867,2024-06-29,Referral,United Kingdom
+U_000868,2022-07-29,Paid Search,South Africa
+U_000869,2023-01-19,Social,Germany
+U_000870,2024-11-15,Social,South Africa
+U_000871,2022-02-23,Organic,United Kingdom
+U_000872,2022-07-10,Partnership,India
+U_000873,2023-10-27,Social,South Africa
+U_000874,2023-08-21,Social,Germany
+U_000875,2022-06-23,Partnership,United States
+U_000876,2024-12-03,Paid Search,Germany
+U_000877,2022-12-14,Paid Search,United Kingdom
+U_000878,2023-09-09,Referral,Germany
+U_000879,2022-10-26,Organic,United States
+U_000880,2024-06-09,Referral,Germany
+U_000881,2023-09-06,Social,South Africa
+U_000882,2024-01-10,Referral,United States
+U_000883,2024-10-12,Partnership,India
+U_000884,2023-02-05,Social,South Africa
+U_000885,2022-10-05,Referral,South Africa
+U_000886,2024-03-21,Referral,India
+U_000887,2024-02-18,Referral,Germany
+U_000888,2023-11-17,Social,India
+U_000889,2022-10-06,Referral,United Kingdom
+U_000890,2023-02-16,Social,United Kingdom
+U_000891,2022-12-30,Social,United Kingdom
+U_000892,2023-08-20,Social,India
+U_000893,2023-05-12,Referral,Germany
+U_000894,2023-07-29,Social,United Kingdom
+U_000895,2022-08-22,Partnership,United States
+U_000896,2023-01-04,Partnership,South Africa
+U_000897,2024-08-03,Paid Search,Germany
+U_000898,2023-08-20,Organic,Germany
+U_000899,2024-10-19,Paid Search,United Kingdom
+U_000900,2023-05-11,Referral,United States
+U_000901,2024-05-16,Social,South Africa
+U_000902,2024-07-08,Partnership,Germany
+U_000903,2024-03-31,Partnership,India
+U_000904,2024-05-06,Partnership,South Africa
+U_000905,2024-01-07,Partnership,India
+U_000906,2022-06-24,Organic,United States
+U_000907,2023-12-29,Paid Search,India
+U_000908,2022-04-01,Partnership,Germany
+U_000909,2023-11-11,Social,South Africa
+U_000910,2022-01-22,Organic,United Kingdom
+U_000911,2023-03-31,Partnership,India
+U_000912,2023-03-29,Social,United Kingdom
+U_000913,2024-03-12,Social,India
+U_000914,2024-10-21,Paid Search,United Kingdom
+U_000915,2022-02-20,Social,South Africa
+U_000916,2023-08-29,Social,South Africa
+U_000917,2022-08-26,Paid Search,United Kingdom
+U_000918,2023-10-01,Referral,Germany
+U_000919,2023-02-28,Partnership,Germany
+U_000920,2023-12-15,Social,South Africa
+U_000921,2024-06-16,Social,United Kingdom
+U_000922,2022-05-18,Referral,South Africa
+U_000923,2022-08-24,Organic,United Kingdom
+U_000924,2022-08-12,Paid Search,United States
+U_000925,2024-11-22,Paid Search,India
+U_000926,2022-11-24,Referral,India
+U_000927,2024-05-23,Social,United States
+U_000928,2024-04-09,Paid Search,United States
+U_000929,2024-06-04,Social,South Africa
+U_000930,2023-02-09,Social,India
+U_000931,2024-05-29,Social,South Africa
+U_000932,2023-03-16,Paid Search,United Kingdom
+U_000933,2022-05-09,Partnership,South Africa
+U_000934,2023-01-18,Referral,United Kingdom
+U_000935,2023-02-08,Social,South Africa
+U_000936,2023-06-22,Social,India
+U_000937,2023-10-04,Partnership,Germany
+U_000938,2024-03-14,Partnership,South Africa
+U_000939,2023-12-14,Referral,Germany
+U_000940,2022-12-20,Referral,India
+U_000941,2022-06-23,Paid Search,United Kingdom
+U_000942,2022-08-30,Paid Search,United Kingdom
+U_000943,2022-08-28,Paid Search,United Kingdom
+U_000944,2022-10-17,Partnership,Germany
+U_000945,2024-05-06,Partnership,United States
+U_000946,2024-02-25,Social,United States
+U_000947,2024-09-23,Partnership,United States
+U_000948,2022-12-08,Social,United Kingdom
+U_000949,2022-10-15,Paid Search,United Kingdom
+U_000950,2024-07-12,Partnership,South Africa
+U_000951,2024-01-06,Organic,Germany
+U_000952,2022-10-07,Paid Search,Germany
+U_000953,2024-11-01,Social,Germany
+U_000954,2024-10-04,Social,Germany
+U_000955,2024-09-27,Paid Search,South Africa
+U_000956,2022-03-05,Paid Search,United Kingdom
+U_000957,2022-03-08,Referral,United States
+U_000958,2023-08-15,Paid Search,Germany
+U_000959,2024-10-11,Partnership,India
+U_000960,2022-08-20,Partnership,South Africa
+U_000961,2023-07-03,Partnership,United Kingdom
+U_000962,2022-03-27,Social,India
+U_000963,2023-03-24,Social,South Africa
+U_000964,2023-05-22,Referral,South Africa
+U_000965,2024-07-10,Referral,United Kingdom
+U_000966,2022-06-28,Social,South Africa
+U_000967,2023-05-01,Paid Search,India
+U_000968,2023-12-20,Partnership,Germany
+U_000969,2022-12-06,Partnership,United States
+U_000970,2023-02-28,Paid Search,South Africa
+U_000971,2023-12-20,Partnership,United Kingdom
+U_000972,2022-12-11,Referral,United Kingdom
+U_000973,2023-08-16,Partnership,United Kingdom
+U_000974,2024-11-19,Organic,United States
+U_000975,2024-04-22,Organic,United Kingdom
+U_000976,2022-09-17,Paid Search,United States
+U_000977,2022-10-27,Referral,United States
+U_000978,2024-03-15,Social,United States
+U_000979,2023-07-05,Social,Germany
+U_000980,2024-07-14,Organic,South Africa
+U_000981,2024-04-05,Partnership,United Kingdom
+U_000982,2024-01-26,Social,Germany
+U_000983,2023-11-02,Partnership,South Africa
+U_000984,2022-07-10,Social,United Kingdom
+U_000985,2022-05-10,Partnership,Germany
+U_000986,2023-03-23,Social,United States
+U_000987,2024-10-10,Referral,United Kingdom
+U_000988,2023-08-04,Referral,India
+U_000989,2022-09-25,Partnership,Germany
+U_000990,2023-12-05,Organic,South Africa
+U_000991,2022-07-23,Social,South Africa
+U_000992,2022-09-12,Paid Search,Germany
+U_000993,2024-07-23,Organic,Germany
+U_000994,2023-02-19,Paid Search,United Kingdom
+U_000995,2022-11-22,Referral,South Africa
+U_000996,2024-01-09,Referral,South Africa
+U_000997,2024-02-01,Paid Search,South Africa
+U_000998,2024-03-22,Referral,United States
+U_000999,2024-05-29,Organic,South Africa
+U_001000,2022-01-03,Paid Search,Germany
+U_001001,2022-06-09,Paid Search,India
+U_001002,2023-04-09,Partnership,Germany
+U_001003,2022-01-20,Organic,United Kingdom
+U_001004,2022-09-04,Social,United States
+U_001005,2024-09-05,Organic,United States
+U_001006,2024-02-24,Organic,South Africa
+U_001007,2022-07-31,Referral,United Kingdom
+U_001008,2023-09-05,Paid Search,Germany
+U_001009,2022-09-30,Paid Search,South Africa
+U_001010,2024-12-22,Partnership,South Africa
+U_001011,2022-12-03,Social,United Kingdom
+U_001012,2023-03-13,Paid Search,Germany
+U_001013,2024-06-25,Paid Search,South Africa
+U_001014,2022-07-25,Paid Search,South Africa
+U_001015,2024-02-26,Referral,Germany
+U_001016,2023-10-07,Paid Search,United States
+U_001017,2023-07-22,Organic,United States
+U_001018,2023-08-07,Organic,United Kingdom
+U_001019,2023-02-25,Partnership,India
+U_001020,2024-11-09,Paid Search,Germany
+U_001021,2023-08-29,Organic,United States
+U_001022,2024-10-10,Social,South Africa
+U_001023,2023-05-09,Social,India
+U_001024,2022-05-26,Partnership,South Africa
+U_001025,2024-01-10,Referral,United States
+U_001026,2024-03-03,Partnership,Germany
+U_001027,2024-01-19,Partnership,United States
+U_001028,2024-08-22,Organic,South Africa
+U_001029,2022-05-19,Organic,United Kingdom
+U_001030,2023-03-18,Organic,South Africa
+U_001031,2024-03-26,Partnership,United Kingdom
+U_001032,2024-10-23,Social,Germany
+U_001033,2024-04-03,Organic,India
+U_001034,2022-11-09,Referral,South Africa
+U_001035,2023-09-27,Organic,India
+U_001036,2023-02-21,Paid Search,India
+U_001037,2023-11-01,Social,India
+U_001038,2022-05-16,Referral,Germany
+U_001039,2023-05-04,Organic,United States
+U_001040,2022-06-26,Social,South Africa
+U_001041,2024-07-17,Partnership,India
+U_001042,2022-04-23,Referral,United States
+U_001043,2022-09-02,Organic,United States
+U_001044,2022-01-24,Paid Search,Germany
+U_001045,2023-12-12,Partnership,India
+U_001046,2023-06-15,Paid Search,United Kingdom
+U_001047,2022-09-17,Referral,South Africa
+U_001048,2022-03-02,Referral,Germany
+U_001049,2023-07-12,Partnership,South Africa
+U_001050,2023-06-23,Partnership,South Africa
+U_001051,2024-10-13,Social,India
+U_001052,2024-01-08,Organic,Germany
+U_001053,2022-12-08,Referral,United States
+U_001054,2023-06-07,Organic,India
+U_001055,2022-08-25,Paid Search,India
+U_001056,2022-01-06,Organic,South Africa
+U_001057,2023-05-16,Organic,Germany
+U_001058,2024-01-16,Social,United States
+U_001059,2023-01-02,Organic,India
+U_001060,2024-05-08,Paid Search,United Kingdom
+U_001061,2023-05-24,Social,United Kingdom
+U_001062,2023-07-10,Organic,India
+U_001063,2024-02-03,Organic,India
+U_001064,2022-04-18,Paid Search,United States
+U_001065,2024-11-22,Organic,Germany
+U_001066,2022-05-22,Social,United Kingdom
+U_001067,2023-09-29,Referral,South Africa
+U_001068,2024-07-24,Organic,United Kingdom
+U_001069,2023-02-15,Referral,India
+U_001070,2023-09-15,Partnership,United States
+U_001071,2024-08-08,Referral,India
+U_001072,2024-10-07,Paid Search,India
+U_001073,2023-05-18,Paid Search,South Africa
+U_001074,2024-04-19,Organic,United States
+U_001075,2023-12-11,Organic,United Kingdom
+U_001076,2022-01-03,Social,United Kingdom
+U_001077,2022-08-01,Paid Search,India
+U_001078,2023-05-03,Social,Germany
+U_001079,2022-05-03,Paid Search,United Kingdom
+U_001080,2022-07-10,Organic,United States
+U_001081,2024-11-30,Social,United Kingdom
+U_001082,2024-07-27,Organic,India
+U_001083,2022-07-15,Partnership,United States
+U_001084,2024-03-18,Organic,India
+U_001085,2022-05-08,Social,United States
+U_001086,2023-04-30,Referral,United Kingdom
+U_001087,2023-10-08,Social,United Kingdom
+U_001088,2023-10-14,Social,United Kingdom
+U_001089,2023-04-24,Organic,United States
+U_001090,2022-10-06,Partnership,South Africa
+U_001091,2022-11-15,Organic,United States
+U_001092,2024-07-09,Social,United Kingdom
+U_001093,2024-04-12,Organic,India
+U_001094,2024-01-04,Paid Search,Germany
+U_001095,2023-09-24,Social,United Kingdom
+U_001096,2022-09-03,Organic,United States
+U_001097,2023-09-16,Partnership,South Africa
+U_001098,2023-03-17,Referral,United States
+U_001099,2022-07-06,Paid Search,United Kingdom
+U_001100,2024-03-22,Partnership,South Africa
+U_001101,2023-09-05,Referral,United States
+U_001102,2022-03-05,Social,Germany
+U_001103,2023-05-27,Organic,Germany
+U_001104,2022-07-28,Paid Search,South Africa
+U_001105,2022-01-25,Organic,United States
+U_001106,2022-09-25,Paid Search,Germany
+U_001107,2024-02-02,Organic,India
+U_001108,2023-06-15,Organic,South Africa
+U_001109,2022-05-13,Paid Search,Germany
+U_001110,2022-09-21,Organic,United Kingdom
+U_001111,2022-09-08,Organic,Germany
+U_001112,2022-04-14,Paid Search,India
+U_001113,2024-06-06,Social,Germany
+U_001114,2022-03-02,Social,Germany
+U_001115,2022-12-20,Referral,United States
+U_001116,2023-01-19,Referral,United Kingdom
+U_001117,2024-07-02,Paid Search,South Africa
+U_001118,2023-05-19,Referral,Germany
+U_001119,2024-04-23,Partnership,Germany
+U_001120,2022-05-05,Organic,United Kingdom
+U_001121,2024-02-24,Paid Search,Germany
+U_001122,2023-02-13,Partnership,United States
+U_001123,2022-02-09,Social,United Kingdom
+U_001124,2024-09-09,Partnership,Germany
+U_001125,2023-12-06,Partnership,India
+U_001126,2023-10-21,Social,United Kingdom
+U_001127,2023-01-04,Organic,United Kingdom
+U_001128,2023-03-25,Organic,United Kingdom
+U_001129,2022-04-30,Social,India
+U_001130,2024-01-03,Partnership,United States
+U_001131,2022-11-23,Organic,United States
+U_001132,2023-05-09,Referral,India
+U_001133,2022-04-25,Paid Search,India
+U_001134,2024-03-06,Referral,United States
+U_001135,2022-12-27,Paid Search,India
+U_001136,2023-10-14,Referral,India
+U_001137,2022-02-27,Referral,India
+U_001138,2022-10-19,Partnership,United States
+U_001139,2024-10-05,Partnership,United Kingdom
+U_001140,2022-12-26,Social,South Africa
+U_001141,2022-07-04,Organic,United States
+U_001142,2023-03-25,Organic,India
+U_001143,2024-09-05,Organic,United Kingdom
+U_001144,2023-02-17,Paid Search,United Kingdom
+U_001145,2022-12-30,Referral,South Africa
+U_001146,2022-02-14,Paid Search,India
+U_001147,2022-10-18,Organic,India
+U_001148,2024-01-18,Organic,United Kingdom
+U_001149,2024-03-21,Partnership,South Africa
+U_001150,2023-11-21,Referral,United Kingdom
+U_001151,2022-10-07,Paid Search,Germany
+U_001152,2024-09-24,Referral,United States
+U_001153,2024-01-01,Paid Search,India
+U_001154,2022-12-26,Social,United Kingdom
+U_001155,2023-08-27,Paid Search,United States
+U_001156,2022-01-04,Partnership,Germany
+U_001157,2022-03-08,Paid Search,India
+U_001158,2023-10-14,Partnership,United States
+U_001159,2022-08-02,Social,United States
+U_001160,2023-11-10,Organic,United States
+U_001161,2023-12-12,Referral,United States
+U_001162,2022-07-01,Referral,Germany
+U_001163,2022-01-24,Referral,United States
+U_001164,2023-05-27,Organic,United Kingdom
+U_001165,2023-06-10,Organic,South Africa
+U_001166,2022-04-09,Social,Germany
+U_001167,2024-05-09,Paid Search,Germany
+U_001168,2024-10-06,Social,United Kingdom
+U_001169,2024-02-08,Organic,Germany
+U_001170,2023-04-07,Paid Search,Germany
+U_001171,2022-05-31,Organic,United Kingdom
+U_001172,2022-02-11,Referral,United Kingdom
+U_001173,2022-08-03,Organic,United Kingdom
+U_001174,2022-12-15,Social,United States
+U_001175,2022-06-03,Partnership,South Africa
+U_001176,2023-11-24,Partnership,India
+U_001177,2024-09-15,Organic,Germany
+U_001178,2022-12-04,Partnership,Germany
+U_001179,2022-11-18,Organic,South Africa
+U_001180,2023-11-10,Paid Search,United States
+U_001181,2024-04-18,Partnership,India
+U_001182,2023-06-28,Referral,United Kingdom
+U_001183,2023-05-02,Organic,South Africa
+U_001184,2024-03-15,Partnership,India
+U_001185,2024-10-02,Paid Search,South Africa
+U_001186,2024-01-09,Organic,Germany
+U_001187,2022-06-29,Referral,India
+U_001188,2024-09-10,Paid Search,South Africa
+U_001189,2022-02-22,Paid Search,United States
+U_001190,2023-08-21,Organic,Germany
+U_001191,2022-08-25,Referral,Germany
+U_001192,2024-08-22,Social,United Kingdom
+U_001193,2022-07-06,Partnership,Germany
+U_001194,2023-01-14,Referral,Germany
+U_001195,2024-01-27,Paid Search,Germany
+U_001196,2022-04-02,Referral,Germany
+U_001197,2024-08-10,Referral,United States
+U_001198,2023-07-05,Partnership,South Africa
+U_001199,2022-11-06,Organic,South Africa
+U_001200,2023-12-06,Partnership,Germany
+U_001201,2023-04-11,Partnership,South Africa
+U_001202,2024-03-03,Partnership,Germany
+U_001203,2025-01-01,Social,India
+U_001204,2023-04-28,Social,United Kingdom
+U_001205,2022-06-11,Social,South Africa
+U_001206,2024-10-25,Partnership,India
+U_001207,2022-10-29,Organic,Germany
+U_001208,2022-12-21,Paid Search,United States
+U_001209,2023-01-30,Paid Search,South Africa
+U_001210,2024-05-17,Organic,Germany
+U_001211,2023-02-18,Paid Search,India
+U_001212,2023-06-13,Referral,South Africa
+U_001213,2022-06-28,Social,India
+U_001214,2024-03-24,Partnership,United Kingdom
+U_001215,2023-07-20,Partnership,Germany
+U_001216,2022-01-26,Partnership,India
+U_001217,2024-12-06,Social,South Africa
+U_001218,2024-04-28,Paid Search,United States
+U_001219,2022-07-25,Organic,India
+U_001220,2022-07-26,Referral,India
+U_001221,2023-12-06,Social,United Kingdom
+U_001222,2024-02-24,Social,India
+U_001223,2024-08-26,Organic,United States
+U_001224,2023-07-19,Social,United States
+U_001225,2024-04-02,Organic,Germany
+U_001226,2023-11-10,Paid Search,South Africa
+U_001227,2024-08-31,Referral,United Kingdom
+U_001228,2022-02-11,Referral,United Kingdom
+U_001229,2023-09-29,Referral,Germany
+U_001230,2022-07-21,Paid Search,United States
+U_001231,2023-09-08,Social,United Kingdom
+U_001232,2023-07-06,Social,India
+U_001233,2022-07-02,Paid Search,Germany
+U_001234,2023-03-09,Social,Germany
+U_001235,2024-11-23,Referral,South Africa
+U_001236,2024-11-21,Paid Search,South Africa
+U_001237,2023-09-30,Partnership,Germany
+U_001238,2022-10-05,Partnership,India
+U_001239,2022-03-01,Paid Search,United States
+U_001240,2023-02-16,Organic,United States
+U_001241,2022-03-09,Social,South Africa
+U_001242,2024-01-09,Paid Search,United Kingdom
+U_001243,2024-01-25,Social,India
+U_001244,2024-03-23,Organic,South Africa
+U_001245,2023-05-11,Referral,Germany
+U_001246,2024-07-02,Paid Search,Germany
+U_001247,2023-12-18,Referral,United States
+U_001248,2023-06-14,Organic,United Kingdom
+U_001249,2022-02-26,Social,South Africa
+U_001250,2022-11-30,Partnership,United States
+U_001251,2023-03-30,Paid Search,United States
+U_001252,2023-07-06,Social,India
+U_001253,2022-02-11,Organic,Germany
+U_001254,2022-09-28,Paid Search,India
+U_001255,2022-01-18,Paid Search,United Kingdom
+U_001256,2023-09-18,Referral,Germany
+U_001257,2024-02-11,Referral,Germany
+U_001258,2023-06-01,Paid Search,Germany
+U_001259,2023-09-11,Partnership,India
+U_001260,2024-03-24,Partnership,South Africa
+U_001261,2022-01-16,Partnership,United Kingdom
+U_001262,2023-08-02,Referral,South Africa
+U_001263,2024-09-13,Organic,United Kingdom
+U_001264,2023-07-21,Referral,United Kingdom
+U_001265,2023-06-19,Referral,United States
+U_001266,2022-11-04,Partnership,United States
+U_001267,2022-04-27,Partnership,Germany
+U_001268,2023-10-17,Paid Search,South Africa
+U_001269,2024-10-15,Referral,United Kingdom
+U_001270,2024-05-07,Social,Germany
+U_001271,2022-03-14,Partnership,India
+U_001272,2023-01-24,Referral,United States
+U_001273,2024-12-30,Social,United Kingdom
+U_001274,2024-11-04,Referral,United States
+U_001275,2023-01-06,Referral,South Africa
+U_001276,2024-08-22,Paid Search,United Kingdom
+U_001277,2023-01-10,Referral,South Africa
+U_001278,2023-04-01,Referral,United States
+U_001279,2023-09-21,Social,United Kingdom
+U_001280,2024-02-01,Referral,India
+U_001281,2023-08-26,Social,South Africa
+U_001282,2024-08-21,Organic,India
+U_001283,2022-05-26,Social,United States
+U_001284,2024-10-21,Organic,Germany
+U_001285,2024-12-21,Referral,Germany
+U_001286,2022-04-21,Paid Search,United States
+U_001287,2023-02-15,Referral,Germany
+U_001288,2024-07-26,Paid Search,United Kingdom
+U_001289,2023-01-05,Organic,Germany
+U_001290,2023-11-13,Paid Search,United Kingdom
+U_001291,2022-04-29,Organic,Germany
+U_001292,2023-07-15,Paid Search,United States
+U_001293,2022-11-21,Social,South Africa
+U_001294,2022-09-23,Partnership,Germany
+U_001295,2024-05-29,Social,Germany
+U_001296,2024-09-04,Social,South Africa
+U_001297,2022-03-19,Partnership,United States
+U_001298,2024-02-04,Organic,United Kingdom
+U_001299,2024-12-23,Paid Search,South Africa
+U_001300,2022-01-09,Paid Search,United States
+U_001301,2023-12-07,Referral,United States
+U_001302,2022-07-30,Social,India
+U_001303,2023-09-19,Paid Search,South Africa
+U_001304,2022-04-04,Referral,United Kingdom
+U_001305,2024-07-22,Partnership,India
+U_001306,2024-12-09,Referral,Germany
+U_001307,2022-10-02,Referral,Germany
+U_001308,2024-01-06,Paid Search,United States
+U_001309,2024-04-06,Organic,United States
+U_001310,2023-04-05,Paid Search,United States
+U_001311,2022-02-14,Partnership,India
+U_001312,2022-12-13,Organic,United Kingdom
+U_001313,2022-03-18,Social,United Kingdom
+U_001314,2024-12-31,Partnership,South Africa
+U_001315,2022-04-09,Organic,South Africa
+U_001316,2022-04-09,Organic,Germany
+U_001317,2024-06-28,Social,South Africa
+U_001318,2023-06-02,Social,United States
+U_001319,2023-02-25,Organic,United Kingdom
+U_001320,2024-05-11,Organic,India
+U_001321,2023-07-07,Partnership,India
+U_001322,2022-10-08,Social,South Africa
+U_001323,2024-11-13,Partnership,South Africa
+U_001324,2023-08-02,Organic,South Africa
+U_001325,2024-10-16,Paid Search,India
+U_001326,2023-02-14,Referral,India
+U_001327,2023-02-18,Referral,Germany
+U_001328,2023-08-28,Paid Search,South Africa
+U_001329,2024-10-13,Paid Search,Germany
+U_001330,2023-11-09,Paid Search,South Africa
+U_001331,2022-01-27,Organic,South Africa
+U_001332,2024-10-08,Paid Search,South Africa
+U_001333,2024-11-13,Organic,South Africa
+U_001334,2023-06-09,Paid Search,Germany
+U_001335,2023-08-30,Referral,Germany
+U_001336,2022-04-13,Organic,United States
+U_001337,2022-03-22,Referral,United Kingdom
+U_001338,2023-10-03,Social,South Africa
+U_001339,2022-07-14,Organic,South Africa
+U_001340,2022-10-11,Paid Search,United Kingdom
+U_001341,2024-01-03,Social,India
+U_001342,2023-07-04,Organic,United Kingdom
+U_001343,2023-12-03,Paid Search,South Africa
+U_001344,2024-03-31,Social,Germany
+U_001345,2023-07-11,Social,Germany
+U_001346,2024-05-13,Paid Search,South Africa
+U_001347,2022-09-29,Organic,United States
+U_001348,2022-08-01,Social,India
+U_001349,2024-09-15,Partnership,Germany
+U_001350,2023-01-07,Partnership,Germany
+U_001351,2024-01-05,Partnership,South Africa
+U_001352,2022-09-25,Social,Germany
+U_001353,2022-08-20,Social,Germany
+U_001354,2022-04-05,Organic,United Kingdom
+U_001355,2023-10-06,Organic,India
+U_001356,2023-04-04,Referral,India
+U_001357,2024-12-07,Partnership,South Africa
+U_001358,2024-06-05,Paid Search,Germany
+U_001359,2023-12-10,Social,United States
+U_001360,2022-04-22,Organic,United States
+U_001361,2024-11-01,Social,Germany
+U_001362,2022-12-05,Organic,Germany
+U_001363,2023-10-19,Paid Search,United Kingdom
+U_001364,2023-07-24,Organic,India
+U_001365,2023-04-02,Partnership,Germany
+U_001366,2024-04-05,Paid Search,South Africa
+U_001367,2024-07-29,Social,India
+U_001368,2024-07-06,Organic,Germany
+U_001369,2024-07-04,Referral,South Africa
+U_001370,2024-10-15,Organic,South Africa
+U_001371,2024-04-06,Social,South Africa
+U_001372,2022-01-01,Organic,India
+U_001373,2023-09-16,Partnership,India
+U_001374,2023-02-28,Social,United Kingdom
+U_001375,2024-01-15,Organic,United States
+U_001376,2024-07-19,Referral,India
+U_001377,2024-08-26,Referral,Germany
+U_001378,2022-08-22,Organic,United States
+U_001379,2022-01-05,Referral,United Kingdom
+U_001380,2023-08-21,Partnership,India
+U_001381,2024-02-05,Organic,South Africa
+U_001382,2022-12-03,Social,United States
+U_001383,2024-04-18,Organic,United Kingdom
+U_001384,2023-02-06,Paid Search,South Africa
+U_001385,2024-03-15,Paid Search,Germany
+U_001386,2023-01-26,Referral,South Africa
+U_001387,2024-04-28,Organic,India
+U_001388,2022-09-10,Social,Germany
+U_001389,2024-10-29,Paid Search,Germany
+U_001390,2022-01-09,Partnership,South Africa
+U_001391,2024-06-05,Partnership,Germany
+U_001392,2024-11-07,Paid Search,India
+U_001393,2022-12-22,Paid Search,South Africa
+U_001394,2024-03-04,Partnership,India
+U_001395,2023-10-22,Partnership,Germany
+U_001396,2024-05-07,Partnership,United States
+U_001397,2023-07-15,Social,United Kingdom
+U_001398,2023-08-26,Social,United States
+U_001399,2022-10-10,Social,India
+U_001400,2024-11-15,Referral,India
+U_001401,2023-10-05,Partnership,United States
+U_001402,2023-02-16,Paid Search,India
+U_001403,2023-08-19,Referral,United States
+U_001404,2022-12-31,Partnership,India
+U_001405,2023-10-23,Organic,United Kingdom
+U_001406,2024-09-10,Partnership,India
+U_001407,2024-05-04,Partnership,United Kingdom
+U_001408,2024-05-15,Organic,India
+U_001409,2022-08-07,Organic,Germany
+U_001410,2022-10-25,Organic,South Africa
+U_001411,2023-02-14,Referral,United States
+U_001412,2023-08-10,Referral,United States
+U_001413,2022-05-08,Referral,United States
+U_001414,2022-03-08,Referral,Germany
+U_001415,2022-07-29,Partnership,India
+U_001416,2023-04-05,Partnership,Germany
+U_001417,2023-05-02,Partnership,United Kingdom
+U_001418,2022-04-07,Social,Germany
+U_001419,2024-05-03,Referral,India
+U_001420,2022-04-21,Organic,United Kingdom
+U_001421,2023-02-20,Partnership,Germany
+U_001422,2023-04-07,Referral,India
+U_001423,2023-02-07,Paid Search,United Kingdom
+U_001424,2024-07-08,Paid Search,South Africa
+U_001425,2023-01-18,Paid Search,India
+U_001426,2022-09-02,Social,South Africa
+U_001427,2024-05-27,Referral,India
+U_001428,2023-06-26,Paid Search,United States
+U_001429,2023-06-07,Organic,United Kingdom
+U_001430,2024-08-13,Paid Search,South Africa
+U_001431,2022-11-11,Referral,India
+U_001432,2022-04-15,Partnership,United Kingdom
+U_001433,2024-10-01,Partnership,India
+U_001434,2024-01-04,Organic,United Kingdom
+U_001435,2024-12-12,Paid Search,United States
+U_001436,2024-12-02,Organic,India
+U_001437,2022-11-23,Social,India
+U_001438,2024-04-06,Organic,United Kingdom
+U_001439,2023-03-30,Paid Search,United Kingdom
+U_001440,2023-11-10,Referral,United Kingdom
+U_001441,2023-03-24,Partnership,India
+U_001442,2024-08-30,Partnership,South Africa
+U_001443,2022-08-23,Referral,Germany
+U_001444,2023-05-08,Partnership,India
+U_001445,2023-05-15,Organic,United Kingdom
+U_001446,2024-02-21,Organic,Germany
+U_001447,2023-06-10,Partnership,United Kingdom
+U_001448,2022-02-20,Partnership,United Kingdom
+U_001449,2024-11-19,Partnership,Germany
+U_001450,2024-09-23,Organic,United Kingdom
+U_001451,2023-01-30,Referral,India
+U_001452,2022-06-18,Organic,United States
+U_001453,2024-12-28,Organic,South Africa
+U_001454,2023-03-08,Paid Search,Germany
+U_001455,2022-08-01,Paid Search,India
+U_001456,2024-06-10,Organic,United States
+U_001457,2022-02-18,Social,United Kingdom
+U_001458,2022-03-19,Organic,South Africa
+U_001459,2022-04-22,Paid Search,United Kingdom
+U_001460,2022-05-25,Partnership,United States
+U_001461,2023-06-14,Social,Germany
+U_001462,2024-07-12,Social,Germany
+U_001463,2023-10-10,Organic,Germany
+U_001464,2022-08-31,Partnership,South Africa
+U_001465,2022-05-10,Partnership,South Africa
+U_001466,2022-05-29,Referral,India
+U_001467,2022-08-06,Referral,United Kingdom
+U_001468,2022-06-27,Referral,Germany
+U_001469,2024-02-21,Social,South Africa
+U_001470,2024-08-28,Paid Search,India
+U_001471,2023-03-27,Paid Search,Germany
+U_001472,2023-08-28,Paid Search,United Kingdom
+U_001473,2024-02-04,Organic,India
+U_001474,2022-10-17,Organic,South Africa
+U_001475,2022-01-11,Partnership,India
+U_001476,2024-03-18,Partnership,India
+U_001477,2022-06-24,Referral,United States
+U_001478,2023-12-06,Paid Search,Germany
+U_001479,2024-11-15,Paid Search,United States
+U_001480,2023-01-12,Paid Search,India
+U_001481,2023-06-02,Paid Search,South Africa
+U_001482,2023-01-07,Partnership,South Africa
+U_001483,2024-08-02,Partnership,South Africa
+U_001484,2023-08-19,Organic,United Kingdom
+U_001485,2022-07-21,Paid Search,India
+U_001486,2024-09-24,Referral,United Kingdom
+U_001487,2022-09-20,Paid Search,South Africa
+U_001488,2023-08-07,Partnership,South Africa
+U_001489,2023-02-01,Referral,Germany
+U_001490,2024-07-11,Referral,India
+U_001491,2023-09-19,Partnership,United States
+U_001492,2024-01-17,Referral,Germany
+U_001493,2022-12-12,Organic,United Kingdom
+U_001494,2023-05-20,Paid Search,Germany
+U_001495,2023-07-21,Referral,United States
+U_001496,2023-11-11,Social,Germany
+U_001497,2024-07-01,Referral,United Kingdom
+U_001498,2024-09-24,Partnership,South Africa
+U_001499,2022-12-26,Partnership,South Africa
+U_001500,2023-07-29,Paid Search,India
+U_001501,2023-02-07,Referral,South Africa
+U_001502,2022-06-04,Organic,India
+U_001503,2022-03-05,Partnership,India
+U_001504,2024-04-09,Partnership,United States
+U_001505,2022-03-17,Partnership,United Kingdom
+U_001506,2024-08-24,Paid Search,United Kingdom
+U_001507,2024-03-14,Paid Search,India
+U_001508,2023-08-19,Paid Search,Germany
+U_001509,2024-10-23,Partnership,South Africa
+U_001510,2024-03-23,Referral,India
+U_001511,2022-01-22,Paid Search,India
+U_001512,2022-12-06,Partnership,United States
+U_001513,2024-07-02,Paid Search,United States
+U_001514,2022-10-27,Social,United Kingdom
+U_001515,2022-03-24,Paid Search,Germany
+U_001516,2023-04-20,Organic,United Kingdom
+U_001517,2024-01-27,Paid Search,South Africa
+U_001518,2023-02-28,Partnership,United Kingdom
+U_001519,2024-03-05,Social,Germany
+U_001520,2022-04-06,Organic,United Kingdom
+U_001521,2022-07-31,Partnership,United Kingdom
+U_001522,2023-06-24,Partnership,India
+U_001523,2022-12-23,Social,Germany
+U_001524,2024-01-19,Partnership,South Africa
+U_001525,2024-11-24,Referral,Germany
+U_001526,2023-04-02,Partnership,Germany
+U_001527,2023-12-24,Referral,Germany
+U_001528,2024-09-14,Partnership,South Africa
+U_001529,2024-10-24,Paid Search,Germany
+U_001530,2022-12-06,Paid Search,South Africa
+U_001531,2024-11-19,Referral,United States
+U_001532,2022-11-04,Paid Search,United States
+U_001533,2024-01-12,Partnership,South Africa
+U_001534,2023-04-17,Social,United Kingdom
+U_001535,2022-08-21,Social,Germany
+U_001536,2024-09-08,Paid Search,India
+U_001537,2022-11-27,Social,South Africa
+U_001538,2023-05-15,Organic,United States
+U_001539,2022-11-26,Paid Search,India
+U_001540,2022-03-22,Partnership,United States
+U_001541,2022-04-25,Paid Search,United Kingdom
+U_001542,2023-01-04,Partnership,Germany
+U_001543,2022-02-08,Referral,South Africa
+U_001544,2023-03-20,Social,India
+U_001545,2024-08-23,Social,United States
+U_001546,2023-03-26,Social,India
+U_001547,2022-10-20,Partnership,United States
+U_001548,2024-11-12,Referral,United States
+U_001549,2023-12-03,Social,India
+U_001550,2022-05-21,Paid Search,Germany
+U_001551,2024-02-29,Paid Search,South Africa
+U_001552,2022-02-03,Paid Search,India
+U_001553,2024-10-29,Social,United States
+U_001554,2022-07-17,Paid Search,Germany
+U_001555,2022-03-21,Partnership,India
+U_001556,2022-08-29,Organic,Germany
+U_001557,2022-09-24,Partnership,India
+U_001558,2022-01-03,Social,India
+U_001559,2024-05-11,Referral,South Africa
+U_001560,2024-12-21,Social,United States
+U_001561,2024-09-14,Social,United Kingdom
+U_001562,2022-07-20,Social,United States
+U_001563,2023-06-06,Social,United States
+U_001564,2022-06-21,Referral,India
+U_001565,2024-04-16,Referral,United States
+U_001566,2022-01-12,Organic,India
+U_001567,2024-12-06,Organic,India
+U_001568,2022-01-15,Social,United States
+U_001569,2023-10-09,Social,United Kingdom
+U_001570,2022-08-07,Paid Search,Germany
+U_001571,2023-06-04,Referral,India
+U_001572,2024-05-17,Partnership,United Kingdom
+U_001573,2023-07-19,Social,United States
+U_001574,2024-04-26,Partnership,India
+U_001575,2024-09-15,Paid Search,United Kingdom
+U_001576,2024-09-17,Referral,United Kingdom
+U_001577,2023-12-07,Social,United States
+U_001578,2022-09-01,Paid Search,Germany
+U_001579,2022-11-28,Organic,United States
+U_001580,2024-11-07,Social,United Kingdom
+U_001581,2022-04-17,Paid Search,Germany
+U_001582,2022-01-11,Organic,United States
+U_001583,2024-08-23,Partnership,Germany
+U_001584,2022-06-30,Organic,United Kingdom
+U_001585,2023-03-31,Referral,South Africa
+U_001586,2022-03-19,Social,Germany
+U_001587,2024-12-03,Referral,India
+U_001588,2022-04-28,Paid Search,Germany
+U_001589,2024-06-18,Organic,United States
+U_001590,2024-11-27,Referral,United States
+U_001591,2022-03-10,Partnership,India
+U_001592,2024-11-22,Paid Search,India
+U_001593,2022-12-14,Organic,United Kingdom
+U_001594,2023-05-05,Organic,United States
+U_001595,2022-06-27,Referral,Germany
+U_001596,2023-12-25,Social,Germany
+U_001597,2023-02-15,Partnership,South Africa
+U_001598,2022-05-21,Organic,India
+U_001599,2023-08-06,Partnership,India
+U_001600,2023-12-14,Referral,United Kingdom
+U_001601,2023-04-09,Partnership,United States
+U_001602,2024-07-20,Social,India
+U_001603,2022-01-10,Referral,United States
+U_001604,2024-04-13,Partnership,South Africa
+U_001605,2022-05-29,Partnership,United Kingdom
+U_001606,2023-11-28,Organic,India
+U_001607,2023-06-12,Partnership,India
+U_001608,2023-05-28,Social,Germany
+U_001609,2024-09-17,Paid Search,United Kingdom
+U_001610,2024-07-28,Social,India
+U_001611,2022-02-26,Social,South Africa
+U_001612,2023-06-13,Organic,Germany
+U_001613,2023-03-28,Paid Search,United Kingdom
+U_001614,2024-04-24,Referral,India
+U_001615,2022-01-20,Referral,United States
+U_001616,2023-08-12,Organic,Germany
+U_001617,2023-12-02,Organic,India
+U_001618,2023-01-01,Social,United Kingdom
+U_001619,2023-12-26,Paid Search,India
+U_001620,2023-07-06,Paid Search,United States
+U_001621,2024-10-18,Paid Search,United States
+U_001622,2023-05-11,Referral,United States
+U_001623,2023-04-15,Paid Search,United States
+U_001624,2023-12-31,Paid Search,South Africa
+U_001625,2022-09-03,Organic,Germany
+U_001626,2022-01-14,Partnership,South Africa
+U_001627,2024-09-14,Referral,India
+U_001628,2023-10-08,Social,India
+U_001629,2023-07-17,Social,United States
+U_001630,2024-11-12,Referral,Germany
+U_001631,2023-03-31,Partnership,United States
+U_001632,2022-04-21,Partnership,Germany
+U_001633,2024-09-06,Partnership,South Africa
+U_001634,2024-10-26,Referral,Germany
+U_001635,2022-12-24,Social,South Africa
+U_001636,2024-11-27,Social,United Kingdom
+U_001637,2022-01-18,Organic,United States
+U_001638,2024-02-17,Partnership,South Africa
+U_001639,2023-10-29,Referral,India
+U_001640,2023-06-16,Paid Search,India
+U_001641,2023-06-23,Paid Search,United Kingdom
+U_001642,2024-08-23,Partnership,United Kingdom
+U_001643,2024-01-20,Paid Search,Germany
+U_001644,2024-05-18,Paid Search,Germany
+U_001645,2024-02-02,Referral,Germany
+U_001646,2023-07-27,Social,United States
+U_001647,2022-09-26,Partnership,United States
+U_001648,2022-07-24,Referral,United States
+U_001649,2024-06-04,Social,United States
+U_001650,2022-10-26,Paid Search,Germany
+U_001651,2022-01-20,Paid Search,Germany
+U_001652,2024-10-20,Paid Search,India
+U_001653,2024-12-29,Referral,Germany
+U_001654,2023-09-07,Referral,India
+U_001655,2022-04-08,Social,South Africa
+U_001656,2022-12-01,Organic,United States
+U_001657,2023-06-05,Social,South Africa
+U_001658,2024-07-10,Referral,United Kingdom
+U_001659,2024-01-10,Referral,India
+U_001660,2023-06-12,Referral,South Africa
+U_001661,2024-04-23,Organic,United Kingdom
+U_001662,2023-02-12,Partnership,India
+U_001663,2022-12-24,Referral,United Kingdom
+U_001664,2023-10-28,Partnership,Germany
+U_001665,2024-07-04,Organic,Germany
+U_001666,2023-08-10,Social,United States
+U_001667,2022-12-10,Referral,Germany
+U_001668,2024-04-08,Organic,South Africa
+U_001669,2022-11-28,Referral,United States
+U_001670,2023-10-05,Referral,United Kingdom
+U_001671,2023-07-02,Partnership,Germany
+U_001672,2023-07-10,Social,United Kingdom
+U_001673,2024-12-02,Social,Germany
+U_001674,2022-12-09,Paid Search,South Africa
+U_001675,2022-09-14,Paid Search,United Kingdom
+U_001676,2022-06-13,Paid Search,United States
+U_001677,2024-03-24,Organic,South Africa
+U_001678,2022-05-11,Social,India
+U_001679,2022-04-21,Organic,Germany
+U_001680,2024-12-09,Organic,South Africa
+U_001681,2023-06-22,Partnership,United States
+U_001682,2022-06-22,Social,United Kingdom
+U_001683,2023-04-15,Paid Search,United Kingdom
+U_001684,2024-06-26,Paid Search,United States
+U_001685,2024-12-14,Paid Search,South Africa
+U_001686,2022-03-13,Referral,United Kingdom
+U_001687,2024-09-02,Social,India
+U_001688,2023-07-12,Partnership,Germany
+U_001689,2022-10-04,Partnership,United States
+U_001690,2024-07-24,Partnership,Germany
+U_001691,2024-12-08,Partnership,United Kingdom
+U_001692,2023-12-13,Social,India
+U_001693,2023-04-11,Organic,Germany
+U_001694,2023-09-23,Referral,Germany
+U_001695,2023-06-17,Paid Search,United Kingdom
+U_001696,2022-01-22,Organic,India
+U_001697,2022-10-07,Referral,United Kingdom
+U_001698,2024-08-18,Partnership,South Africa
+U_001699,2024-10-04,Social,United Kingdom
+U_001700,2022-01-19,Social,United Kingdom
+U_001701,2023-04-19,Organic,India
+U_001702,2024-02-05,Paid Search,Germany
+U_001703,2024-06-14,Social,United States
+U_001704,2022-12-01,Social,Germany
+U_001705,2023-03-28,Referral,South Africa
+U_001706,2024-05-14,Paid Search,India
+U_001707,2023-07-11,Referral,India
+U_001708,2023-07-05,Social,United States
+U_001709,2022-05-21,Paid Search,United States
+U_001710,2023-08-17,Organic,Germany
+U_001711,2024-07-16,Referral,India
+U_001712,2024-10-04,Paid Search,United Kingdom
+U_001713,2022-02-09,Paid Search,South Africa
+U_001714,2024-12-31,Organic,United States
+U_001715,2022-07-29,Referral,United Kingdom
+U_001716,2022-09-14,Social,South Africa
+U_001717,2023-04-22,Organic,United States
+U_001718,2022-01-31,Social,United States
+U_001719,2023-12-02,Social,United Kingdom
+U_001720,2024-10-17,Referral,Germany
+U_001721,2022-03-06,Referral,South Africa
+U_001722,2022-10-27,Organic,United Kingdom
+U_001723,2024-03-14,Organic,India
+U_001724,2024-08-20,Paid Search,United States
+U_001725,2023-05-28,Social,South Africa
+U_001726,2022-09-07,Paid Search,Germany
+U_001727,2024-06-26,Paid Search,South Africa
+U_001728,2023-02-12,Social,South Africa
+U_001729,2024-12-03,Paid Search,Germany
+U_001730,2024-03-07,Referral,United Kingdom
+U_001731,2022-11-21,Organic,India
+U_001732,2024-12-02,Organic,United Kingdom
+U_001733,2024-09-12,Referral,United States
+U_001734,2024-01-09,Organic,United States
+U_001735,2022-08-20,Paid Search,Germany
+U_001736,2023-10-27,Organic,United States
+U_001737,2023-07-20,Partnership,South Africa
+U_001738,2024-03-21,Paid Search,South Africa
+U_001739,2022-03-28,Partnership,Germany
+U_001740,2022-11-14,Referral,South Africa
+U_001741,2023-05-25,Paid Search,Germany
+U_001742,2022-07-07,Partnership,United Kingdom
+U_001743,2022-05-03,Organic,United Kingdom
+U_001744,2022-11-12,Partnership,South Africa
+U_001745,2022-09-15,Social,United States
+U_001746,2023-10-11,Partnership,United Kingdom
+U_001747,2024-06-17,Paid Search,South Africa
+U_001748,2024-02-13,Referral,United States
+U_001749,2023-05-29,Organic,Germany
+U_001750,2024-06-15,Partnership,United Kingdom
+U_001751,2024-09-30,Paid Search,India
+U_001752,2023-01-18,Partnership,United Kingdom
+U_001753,2023-10-25,Social,United Kingdom
+U_001754,2022-11-25,Organic,India
+U_001755,2022-11-14,Social,United Kingdom
+U_001756,2023-06-24,Partnership,United Kingdom
+U_001757,2024-07-18,Organic,India
+U_001758,2024-02-16,Paid Search,South Africa
+U_001759,2024-01-16,Partnership,United States
+U_001760,2023-10-19,Organic,India
+U_001761,2024-03-04,Paid Search,India
+U_001762,2024-10-15,Partnership,United States
+U_001763,2023-08-03,Referral,Germany
+U_001764,2023-10-22,Organic,South Africa
+U_001765,2024-12-07,Organic,South Africa
+U_001766,2022-09-23,Paid Search,South Africa
+U_001767,2023-02-18,Organic,Germany
+U_001768,2023-01-28,Organic,South Africa
+U_001769,2024-03-06,Social,India
+U_001770,2023-06-09,Organic,United Kingdom
+U_001771,2023-03-29,Partnership,South Africa
+U_001772,2022-01-27,Paid Search,Germany
+U_001773,2022-06-13,Social,South Africa
+U_001774,2024-01-10,Partnership,Germany
+U_001775,2024-01-26,Organic,India
+U_001776,2023-06-29,Partnership,South Africa
+U_001777,2022-05-25,Referral,South Africa
+U_001778,2023-03-19,Partnership,South Africa
+U_001779,2022-07-27,Paid Search,India
+U_001780,2024-02-29,Paid Search,United States
+U_001781,2024-12-13,Paid Search,India
+U_001782,2023-01-02,Partnership,India
+U_001783,2024-04-30,Organic,India
+U_001784,2024-01-04,Social,Germany
+U_001785,2022-08-02,Paid Search,United States
+U_001786,2024-04-02,Partnership,United Kingdom
+U_001787,2022-11-20,Partnership,India
+U_001788,2024-06-26,Referral,United Kingdom
+U_001789,2023-10-27,Referral,Germany
+U_001790,2024-05-31,Referral,India
+U_001791,2023-05-08,Partnership,India
+U_001792,2023-03-15,Social,India
+U_001793,2023-06-05,Referral,Germany
+U_001794,2024-07-05,Social,South Africa
+U_001795,2022-03-12,Referral,India
+U_001796,2022-02-03,Partnership,United States
+U_001797,2023-09-11,Organic,United Kingdom
+U_001798,2023-03-31,Paid Search,United Kingdom
+U_001799,2022-02-14,Referral,India
+U_001800,2024-11-13,Partnership,India
+U_001801,2022-11-13,Organic,South Africa
+U_001802,2024-07-31,Referral,United States
+U_001803,2022-10-11,Referral,United Kingdom
+U_001804,2023-05-27,Paid Search,United Kingdom
+U_001805,2023-09-08,Organic,India
+U_001806,2024-03-29,Partnership,United States
+U_001807,2022-06-08,Referral,Germany
+U_001808,2022-12-21,Social,India
+U_001809,2022-07-15,Partnership,United Kingdom
+U_001810,2022-03-18,Partnership,Germany
+U_001811,2022-06-10,Organic,United Kingdom
+U_001812,2023-12-14,Social,Germany
+U_001813,2022-09-04,Paid Search,India
+U_001814,2022-01-24,Social,South Africa
+U_001815,2023-09-17,Partnership,South Africa
+U_001816,2023-10-16,Partnership,India
+U_001817,2022-11-03,Referral,India
+U_001818,2023-03-29,Paid Search,South Africa
+U_001819,2024-03-15,Social,India
+U_001820,2024-10-30,Organic,United States
+U_001821,2024-06-03,Referral,Germany
+U_001822,2022-10-31,Paid Search,United Kingdom
+U_001823,2022-06-19,Social,India
+U_001824,2022-04-11,Partnership,Germany
+U_001825,2023-06-22,Organic,Germany
+U_001826,2024-10-24,Social,United States
+U_001827,2022-10-04,Social,India
+U_001828,2023-02-10,Social,Germany
+U_001829,2023-02-06,Partnership,India
+U_001830,2024-12-09,Paid Search,United States
+U_001831,2022-05-27,Referral,Germany
+U_001832,2023-10-25,Partnership,South Africa
+U_001833,2022-08-19,Social,Germany
+U_001834,2024-01-19,Referral,United States
+U_001835,2023-10-19,Referral,India
+U_001836,2022-02-19,Referral,United States
+U_001837,2023-12-18,Partnership,Germany
+U_001838,2022-10-26,Social,South Africa
+U_001839,2023-04-24,Paid Search,United Kingdom
+U_001840,2022-11-16,Organic,South Africa
+U_001841,2022-04-22,Paid Search,India
+U_001842,2022-10-30,Referral,South Africa
+U_001843,2023-12-05,Organic,United Kingdom
+U_001844,2024-07-10,Social,South Africa
+U_001845,2023-11-11,Paid Search,India
+U_001846,2023-03-10,Paid Search,India
+U_001847,2024-12-07,Referral,India
+U_001848,2024-09-16,Partnership,United States
+U_001849,2022-02-07,Social,India
+U_001850,2024-12-14,Organic,United Kingdom
+U_001851,2022-12-15,Organic,United Kingdom
+U_001852,2023-02-16,Partnership,United Kingdom
+U_001853,2022-04-19,Social,South Africa
+U_001854,2022-05-17,Social,United Kingdom
+U_001855,2024-01-08,Organic,South Africa
+U_001856,2023-08-23,Social,United States
+U_001857,2024-02-19,Partnership,South Africa
+U_001858,2023-10-09,Social,India
+U_001859,2024-12-24,Organic,United States
+U_001860,2023-02-12,Partnership,Germany
+U_001861,2022-02-14,Organic,United States
+U_001862,2024-12-20,Referral,United Kingdom
+U_001863,2024-09-30,Social,United States
+U_001864,2022-02-07,Referral,United Kingdom
+U_001865,2023-12-29,Referral,United States
+U_001866,2024-10-23,Referral,South Africa
+U_001867,2023-06-12,Social,South Africa
+U_001868,2023-07-28,Paid Search,United States
+U_001869,2023-12-01,Social,United States
+U_001870,2022-06-29,Social,India
+U_001871,2023-04-11,Social,United States
+U_001872,2022-11-09,Social,United Kingdom
+U_001873,2023-11-06,Social,India
+U_001874,2022-09-27,Paid Search,United States
+U_001875,2023-02-19,Paid Search,United Kingdom
+U_001876,2024-12-08,Paid Search,Germany
+U_001877,2022-10-25,Partnership,United States
+U_001878,2023-10-13,Organic,India
+U_001879,2024-12-27,Organic,United States
+U_001880,2023-10-13,Paid Search,South Africa
+U_001881,2023-10-15,Social,Germany
+U_001882,2023-09-14,Social,United Kingdom
+U_001883,2022-11-08,Paid Search,South Africa
+U_001884,2022-09-27,Paid Search,South Africa
+U_001885,2023-07-01,Partnership,India
+U_001886,2023-04-18,Partnership,United States
+U_001887,2023-04-18,Organic,United Kingdom
+U_001888,2022-06-12,Social,United States
+U_001889,2024-10-25,Partnership,Germany
+U_001890,2024-02-05,Paid Search,Germany
+U_001891,2024-10-03,Social,United States
+U_001892,2022-12-02,Paid Search,United States
+U_001893,2022-03-08,Social,South Africa
+U_001894,2023-07-07,Social,United States
+U_001895,2023-02-20,Paid Search,South Africa
+U_001896,2022-12-29,Social,India
+U_001897,2024-09-30,Referral,Germany
+U_001898,2023-05-21,Social,Germany
+U_001899,2022-03-27,Partnership,Germany
+U_001900,2023-10-03,Social,India
+U_001901,2024-12-11,Organic,India
+U_001902,2022-08-12,Social,Germany
+U_001903,2022-03-28,Paid Search,India
+U_001904,2024-03-21,Organic,India
+U_001905,2024-03-04,Partnership,South Africa
+U_001906,2023-01-24,Referral,Germany
+U_001907,2024-03-26,Referral,United Kingdom
+U_001908,2024-08-02,Paid Search,Germany
+U_001909,2023-08-26,Partnership,South Africa
+U_001910,2024-11-24,Paid Search,Germany
+U_001911,2024-07-14,Organic,India
+U_001912,2022-08-20,Paid Search,India
+U_001913,2022-10-05,Social,Germany
+U_001914,2023-10-25,Social,South Africa
+U_001915,2023-01-02,Social,India
+U_001916,2023-02-18,Social,South Africa
+U_001917,2023-05-28,Referral,United States
+U_001918,2022-09-11,Organic,South Africa
+U_001919,2024-07-09,Referral,South Africa
+U_001920,2024-12-08,Social,India
+U_001921,2022-11-24,Social,India
+U_001922,2024-02-19,Organic,United States
+U_001923,2023-11-18,Partnership,United States
+U_001924,2022-11-29,Paid Search,United States
+U_001925,2022-04-16,Social,United Kingdom
+U_001926,2023-09-26,Social,United Kingdom
+U_001927,2023-01-06,Organic,United States
+U_001928,2023-02-20,Organic,India
+U_001929,2023-06-03,Organic,Germany
+U_001930,2024-10-16,Social,India
+U_001931,2022-01-12,Partnership,Germany
+U_001932,2023-05-03,Paid Search,India
+U_001933,2024-09-01,Social,Germany
+U_001934,2024-06-23,Organic,India
+U_001935,2022-01-14,Paid Search,India
+U_001936,2023-07-24,Partnership,India
+U_001937,2023-03-02,Organic,United States
+U_001938,2022-10-31,Organic,United Kingdom
+U_001939,2022-03-17,Paid Search,South Africa
+U_001940,2023-09-04,Referral,South Africa
+U_001941,2022-04-11,Organic,Germany
+U_001942,2023-01-01,Paid Search,United Kingdom
+U_001943,2022-12-30,Social,India
+U_001944,2024-01-08,Organic,South Africa
+U_001945,2023-09-05,Referral,United Kingdom
+U_001946,2024-02-16,Organic,Germany
+U_001947,2022-05-13,Referral,Germany
+U_001948,2022-10-03,Organic,United Kingdom
+U_001949,2023-11-06,Partnership,Germany
+U_001950,2024-12-10,Paid Search,United States
+U_001951,2022-04-30,Organic,India
+U_001952,2024-12-19,Organic,Germany
+U_001953,2023-08-12,Social,India
+U_001954,2023-10-11,Referral,India
+U_001955,2023-12-26,Paid Search,India
+U_001956,2024-10-13,Partnership,Germany
+U_001957,2024-10-05,Paid Search,India
+U_001958,2023-04-22,Referral,United States
+U_001959,2022-01-04,Organic,South Africa
+U_001960,2024-08-10,Organic,United States
+U_001961,2024-04-29,Social,South Africa
+U_001962,2023-11-15,Referral,India
+U_001963,2023-03-11,Organic,United States
+U_001964,2023-07-31,Referral,South Africa
+U_001965,2023-09-23,Referral,India
+U_001966,2023-10-26,Organic,South Africa
+U_001967,2023-11-14,Referral,Germany
+U_001968,2022-03-01,Paid Search,United States
+U_001969,2023-11-08,Referral,Germany
+U_001970,2024-08-29,Organic,United States
+U_001971,2024-09-13,Paid Search,Germany
+U_001972,2023-11-18,Social,Germany
+U_001973,2022-04-25,Partnership,United Kingdom
+U_001974,2023-10-09,Partnership,India
+U_001975,2022-02-08,Paid Search,India
+U_001976,2023-11-11,Referral,South Africa
+U_001977,2022-11-02,Referral,South Africa
+U_001978,2023-11-26,Social,India
+U_001979,2022-12-06,Partnership,India
+U_001980,2024-03-08,Paid Search,India
+U_001981,2022-08-28,Referral,United Kingdom
+U_001982,2022-03-06,Referral,Germany
+U_001983,2022-06-27,Social,United States
+U_001984,2024-02-01,Social,United Kingdom
+U_001985,2023-03-19,Partnership,United Kingdom
+U_001986,2022-12-25,Organic,United Kingdom
+U_001987,2022-03-18,Paid Search,South Africa
+U_001988,2024-06-27,Partnership,South Africa
+U_001989,2024-09-15,Partnership,United States
+U_001990,2023-01-25,Referral,Germany
+U_001991,2024-12-08,Referral,United Kingdom
+U_001992,2022-10-21,Organic,India
+U_001993,2022-09-29,Paid Search,South Africa
+U_001994,2024-07-29,Social,India
+U_001995,2022-08-26,Organic,United Kingdom
+U_001996,2022-04-01,Partnership,South Africa
+U_001997,2023-11-14,Social,South Africa
+U_001998,2022-07-31,Partnership,United Kingdom
+U_001999,2022-02-16,Partnership,United Kingdom
+U_002000,2023-03-06,Referral,United States
+U_002001,2023-01-30,Referral,United Kingdom
+U_002002,2024-12-26,Referral,Germany
+U_002003,2022-08-29,Referral,United States
+U_002004,2022-11-19,Referral,South Africa
+U_002005,2022-02-01,Partnership,India
+U_002006,2024-11-18,Organic,United States
+U_002007,2023-12-19,Partnership,United Kingdom
+U_002008,2023-07-10,Paid Search,United Kingdom
+U_002009,2023-05-17,Paid Search,South Africa
+U_002010,2023-09-30,Partnership,United Kingdom
+U_002011,2024-06-27,Organic,United States
+U_002012,2022-03-01,Social,South Africa
+U_002013,2022-08-05,Social,South Africa
+U_002014,2022-06-26,Social,Germany
+U_002015,2023-01-02,Partnership,India
+U_002016,2024-07-02,Partnership,United Kingdom
+U_002017,2023-10-02,Referral,United States
+U_002018,2024-12-28,Organic,Germany
+U_002019,2022-09-27,Organic,Germany
+U_002020,2022-07-19,Social,United Kingdom
+U_002021,2024-08-11,Social,United States
+U_002022,2023-04-04,Paid Search,India
+U_002023,2023-06-13,Referral,Germany
+U_002024,2023-01-11,Referral,United Kingdom
+U_002025,2024-07-17,Social,South Africa
+U_002026,2022-05-14,Social,South Africa
+U_002027,2023-12-21,Social,Germany
+U_002028,2022-12-16,Referral,United Kingdom
+U_002029,2022-09-18,Partnership,South Africa
+U_002030,2024-04-10,Organic,United Kingdom
+U_002031,2022-05-26,Referral,India
+U_002032,2024-08-02,Social,India
+U_002033,2024-04-26,Paid Search,India
+U_002034,2023-05-15,Partnership,United States
+U_002035,2024-09-14,Social,South Africa
+U_002036,2023-11-29,Paid Search,India
+U_002037,2024-06-01,Social,India
+U_002038,2023-12-02,Partnership,United States
+U_002039,2022-12-21,Organic,India
+U_002040,2024-09-23,Organic,India
+U_002041,2024-08-06,Referral,India
+U_002042,2022-07-19,Social,United States
+U_002043,2023-09-23,Social,South Africa
+U_002044,2022-08-11,Partnership,Germany
+U_002045,2023-11-02,Social,South Africa
+U_002046,2022-07-05,Paid Search,United States
+U_002047,2022-01-01,Paid Search,United States
+U_002048,2024-07-16,Partnership,United Kingdom
+U_002049,2024-03-09,Partnership,India
+U_002050,2024-07-04,Paid Search,United States
+U_002051,2023-10-11,Referral,India
+U_002052,2023-09-16,Social,United Kingdom
+U_002053,2022-07-02,Partnership,South Africa
+U_002054,2024-11-11,Social,United States
+U_002055,2023-08-26,Organic,United Kingdom
+U_002056,2022-04-19,Organic,India
+U_002057,2024-01-06,Organic,United Kingdom
+U_002058,2022-03-05,Paid Search,Germany
+U_002059,2024-03-18,Referral,Germany
+U_002060,2024-04-11,Social,Germany
+U_002061,2023-03-09,Paid Search,Germany
+U_002062,2022-10-12,Paid Search,India
+U_002063,2024-02-27,Referral,Germany
+U_002064,2022-11-12,Referral,United States
+U_002065,2022-10-03,Organic,South Africa
+U_002066,2022-02-02,Paid Search,Germany
+U_002067,2024-06-13,Paid Search,South Africa
+U_002068,2022-10-09,Social,Germany
+U_002069,2024-05-21,Partnership,United States
+U_002070,2024-07-19,Partnership,Germany
+U_002071,2024-07-10,Social,United Kingdom
+U_002072,2023-04-08,Paid Search,Germany
+U_002073,2022-01-16,Partnership,Germany
+U_002074,2023-04-30,Partnership,United Kingdom
+U_002075,2024-04-21,Partnership,India
+U_002076,2024-01-22,Organic,South Africa
+U_002077,2024-09-16,Referral,South Africa
+U_002078,2024-09-13,Organic,United States
+U_002079,2024-12-14,Referral,Germany
+U_002080,2024-11-24,Organic,India
+U_002081,2022-07-01,Paid Search,Germany
+U_002082,2022-06-09,Partnership,India
+U_002083,2023-10-02,Partnership,South Africa
+U_002084,2023-12-05,Partnership,South Africa
+U_002085,2024-08-18,Social,India
+U_002086,2024-08-18,Partnership,United Kingdom
+U_002087,2024-05-12,Referral,United Kingdom
+U_002088,2023-08-16,Paid Search,South Africa
+U_002089,2023-09-15,Partnership,United Kingdom
+U_002090,2022-05-06,Social,India
+U_002091,2022-12-13,Partnership,South Africa
+U_002092,2023-08-21,Partnership,South Africa
+U_002093,2023-08-11,Social,South Africa
+U_002094,2022-09-17,Partnership,South Africa
+U_002095,2023-07-24,Referral,United States
+U_002096,2023-07-30,Referral,United Kingdom
+U_002097,2022-01-30,Organic,India
+U_002098,2022-12-24,Partnership,United States
+U_002099,2024-07-03,Referral,United States
+U_002100,2023-06-20,Paid Search,Germany
+U_002101,2023-01-06,Partnership,South Africa
+U_002102,2023-12-04,Organic,United States
+U_002103,2022-11-12,Social,Germany
+U_002104,2024-02-24,Paid Search,Germany
+U_002105,2022-12-09,Paid Search,India
+U_002106,2023-12-08,Organic,United Kingdom
+U_002107,2022-08-26,Organic,United States
+U_002108,2024-08-08,Social,Germany
+U_002109,2023-09-10,Social,India
+U_002110,2023-04-24,Social,Germany
+U_002111,2024-08-29,Referral,United States
+U_002112,2024-12-22,Social,South Africa
+U_002113,2023-08-15,Social,Germany
+U_002114,2023-10-09,Partnership,South Africa
+U_002115,2022-07-19,Partnership,United Kingdom
+U_002116,2024-06-03,Partnership,United Kingdom
+U_002117,2023-11-18,Referral,United Kingdom
+U_002118,2022-07-21,Referral,India
+U_002119,2024-03-12,Social,United States
+U_002120,2023-02-04,Partnership,United Kingdom
+U_002121,2023-01-04,Referral,India
+U_002122,2022-01-22,Organic,South Africa
+U_002123,2022-01-25,Social,South Africa
+U_002124,2024-12-11,Organic,Germany
+U_002125,2023-12-21,Paid Search,United Kingdom
+U_002126,2023-05-31,Paid Search,South Africa
+U_002127,2022-02-18,Partnership,South Africa
+U_002128,2022-04-27,Partnership,United States
+U_002129,2022-09-07,Organic,South Africa
+U_002130,2022-09-24,Social,India
+U_002131,2023-01-14,Organic,United States
+U_002132,2023-06-03,Referral,Germany
+U_002133,2022-06-05,Social,United Kingdom
+U_002134,2024-05-24,Referral,United Kingdom
+U_002135,2022-11-28,Organic,United Kingdom
+U_002136,2022-05-08,Social,Germany
+U_002137,2023-11-13,Organic,United Kingdom
+U_002138,2023-06-27,Paid Search,Germany
+U_002139,2022-05-23,Social,United States
+U_002140,2024-03-15,Paid Search,Germany
+U_002141,2022-08-11,Paid Search,India
+U_002142,2024-06-02,Paid Search,India
+U_002143,2022-08-06,Social,United Kingdom
+U_002144,2022-07-31,Organic,South Africa
+U_002145,2022-05-25,Partnership,United Kingdom
+U_002146,2024-07-02,Organic,Germany
+U_002147,2022-11-01,Organic,South Africa
+U_002148,2024-03-10,Referral,United States
+U_002149,2023-11-07,Social,India
+U_002150,2022-01-08,Partnership,Germany
+U_002151,2024-09-06,Social,Germany
+U_002152,2022-05-24,Partnership,United States
+U_002153,2022-01-07,Social,Germany
+U_002154,2022-09-06,Partnership,India
+U_002155,2024-01-06,Referral,United Kingdom
+U_002156,2024-03-31,Organic,South Africa
+U_002157,2024-01-19,Partnership,United Kingdom
+U_002158,2022-06-14,Social,United Kingdom
+U_002159,2023-02-20,Paid Search,India
+U_002160,2022-03-22,Social,United States
+U_002161,2023-09-05,Social,South Africa
+U_002162,2024-01-06,Social,South Africa
+U_002163,2024-06-15,Paid Search,United States
+U_002164,2022-03-15,Paid Search,South Africa
+U_002165,2023-05-04,Social,Germany
+U_002166,2022-05-10,Partnership,United Kingdom
+U_002167,2024-10-20,Partnership,Germany
+U_002168,2022-02-03,Organic,United Kingdom
+U_002169,2022-04-25,Referral,South Africa
+U_002170,2024-04-10,Organic,United States
+U_002171,2024-12-07,Social,India
+U_002172,2022-11-02,Partnership,United States
+U_002173,2022-05-28,Organic,United States
+U_002174,2024-09-28,Organic,Germany
+U_002175,2022-04-04,Paid Search,United States
+U_002176,2022-01-30,Paid Search,South Africa
+U_002177,2023-09-22,Organic,Germany
+U_002178,2022-12-16,Partnership,South Africa
+U_002179,2022-08-06,Organic,Germany
+U_002180,2023-03-28,Organic,United States
+U_002181,2024-05-22,Referral,Germany
+U_002182,2023-10-27,Organic,India
+U_002183,2022-10-09,Referral,United States
+U_002184,2022-04-04,Partnership,United States
+U_002185,2023-11-19,Organic,South Africa
+U_002186,2023-07-15,Paid Search,Germany
+U_002187,2022-12-11,Referral,India
+U_002188,2022-12-04,Social,United States
+U_002189,2022-03-25,Paid Search,South Africa
+U_002190,2024-02-10,Paid Search,South Africa
+U_002191,2024-09-24,Organic,South Africa
+U_002192,2022-01-15,Paid Search,South Africa
+U_002193,2023-08-05,Social,Germany
+U_002194,2022-09-17,Paid Search,United States
+U_002195,2023-07-09,Partnership,Germany
+U_002196,2024-04-23,Paid Search,United States
+U_002197,2022-03-19,Partnership,United States
+U_002198,2024-10-20,Partnership,South Africa
+U_002199,2023-09-09,Referral,Germany
+U_002200,2022-01-10,Partnership,United States
+U_002201,2023-01-29,Organic,India
+U_002202,2022-07-15,Partnership,United Kingdom
+U_002203,2024-11-05,Paid Search,Germany
+U_002204,2023-03-03,Referral,South Africa
+U_002205,2023-02-01,Organic,United States
+U_002206,2024-08-29,Social,United States
+U_002207,2022-11-24,Organic,South Africa
+U_002208,2024-01-16,Referral,United States
+U_002209,2024-06-09,Referral,United Kingdom
+U_002210,2024-07-17,Organic,South Africa
+U_002211,2022-04-18,Partnership,United States
+U_002212,2022-11-20,Organic,Germany
+U_002213,2024-11-20,Organic,South Africa
+U_002214,2023-04-27,Social,India
+U_002215,2023-10-30,Social,United States
+U_002216,2023-10-30,Paid Search,South Africa
+U_002217,2023-10-30,Paid Search,South Africa
+U_002218,2023-05-01,Social,United States
+U_002219,2024-02-09,Paid Search,South Africa
+U_002220,2024-08-22,Partnership,Germany
+U_002221,2022-04-22,Social,United States
+U_002222,2023-03-19,Partnership,Germany
+U_002223,2022-12-31,Social,United Kingdom
+U_002224,2022-10-07,Social,United States
+U_002225,2024-01-05,Referral,United States
+U_002226,2023-11-19,Paid Search,South Africa
+U_002227,2022-05-03,Referral,United States
+U_002228,2022-08-16,Social,Germany
+U_002229,2024-05-06,Paid Search,United Kingdom
+U_002230,2023-03-27,Referral,India
+U_002231,2022-11-18,Partnership,United States
+U_002232,2023-04-16,Organic,Germany
+U_002233,2024-12-04,Social,United States
+U_002234,2024-08-27,Social,United Kingdom
+U_002235,2022-01-30,Social,United States
+U_002236,2023-05-23,Referral,Germany
+U_002237,2023-04-01,Partnership,United States
+U_002238,2022-01-11,Social,South Africa
+U_002239,2022-03-24,Social,India
+U_002240,2022-03-10,Social,India
+U_002241,2024-03-18,Social,South Africa
+U_002242,2024-07-15,Social,United States
+U_002243,2022-06-20,Partnership,South Africa
+U_002244,2024-04-12,Paid Search,United States
+U_002245,2024-01-05,Referral,United States
+U_002246,2022-07-05,Organic,Germany
+U_002247,2023-09-17,Paid Search,Germany
+U_002248,2022-02-19,Social,Germany
+U_002249,2022-10-11,Social,United States
+U_002250,2024-01-29,Social,South Africa
+U_002251,2022-05-25,Social,United Kingdom
+U_002252,2024-12-23,Organic,United Kingdom
+U_002253,2024-05-22,Referral,India
+U_002254,2023-03-01,Organic,India
+U_002255,2023-11-19,Organic,India
+U_002256,2024-01-16,Organic,South Africa
+U_002257,2024-02-24,Referral,Germany
+U_002258,2022-03-25,Referral,United Kingdom
+U_002259,2022-12-25,Partnership,South Africa
+U_002260,2023-02-24,Paid Search,United Kingdom
+U_002261,2023-05-04,Partnership,South Africa
+U_002262,2024-09-06,Partnership,United States
+U_002263,2023-04-07,Referral,United Kingdom
+U_002264,2023-07-02,Partnership,Germany
+U_002265,2023-07-22,Organic,South Africa
+U_002266,2024-02-03,Referral,Germany
+U_002267,2024-09-22,Partnership,India
+U_002268,2022-09-09,Social,India
+U_002269,2024-12-27,Referral,Germany
+U_002270,2024-01-24,Organic,United States
+U_002271,2024-07-26,Organic,South Africa
+U_002272,2024-03-11,Paid Search,United Kingdom
+U_002273,2022-06-07,Organic,United States
+U_002274,2023-07-20,Organic,United States
+U_002275,2024-10-13,Paid Search,United States
+U_002276,2024-12-02,Organic,United Kingdom
+U_002277,2024-05-03,Partnership,United States
+U_002278,2024-08-28,Referral,Germany
+U_002279,2024-06-28,Organic,United Kingdom
+U_002280,2023-01-23,Organic,South Africa
+U_002281,2023-04-21,Partnership,United Kingdom
+U_002282,2024-04-23,Partnership,United Kingdom
+U_002283,2023-10-31,Social,India
+U_002284,2024-12-21,Partnership,Germany
+U_002285,2024-07-26,Referral,India
+U_002286,2022-09-28,Referral,United States
+U_002287,2023-06-17,Paid Search,Germany
+U_002288,2024-02-01,Referral,South Africa
+U_002289,2022-10-31,Referral,United Kingdom
+U_002290,2024-07-22,Paid Search,India
+U_002291,2022-11-26,Partnership,United Kingdom
+U_002292,2023-01-09,Paid Search,United States
+U_002293,2022-11-27,Paid Search,South Africa
+U_002294,2022-03-26,Referral,India
+U_002295,2022-09-17,Social,United Kingdom
+U_002296,2024-01-28,Paid Search,United States
+U_002297,2022-03-13,Referral,United Kingdom
+U_002298,2022-10-30,Referral,Germany
+U_002299,2022-11-29,Partnership,United Kingdom
+U_002300,2022-09-06,Organic,Germany
+U_002301,2024-10-19,Paid Search,Germany
+U_002302,2023-10-18,Paid Search,South Africa
+U_002303,2024-11-05,Referral,United Kingdom
+U_002304,2024-08-28,Referral,India
+U_002305,2022-10-29,Partnership,Germany
+U_002306,2023-11-25,Organic,Germany
+U_002307,2022-03-24,Paid Search,India
+U_002308,2022-08-28,Referral,South Africa
+U_002309,2024-04-02,Partnership,United States
+U_002310,2024-07-02,Referral,South Africa
+U_002311,2023-10-31,Organic,India
+U_002312,2023-02-04,Partnership,India
+U_002313,2023-03-31,Referral,United States
+U_002314,2022-02-16,Organic,India
+U_002315,2024-07-01,Organic,India
+U_002316,2024-03-18,Paid Search,Germany
+U_002317,2023-10-13,Partnership,India
+U_002318,2024-11-13,Organic,United Kingdom
+U_002319,2024-03-25,Paid Search,Germany
+U_002320,2024-01-28,Social,United Kingdom
+U_002321,2022-01-25,Referral,United Kingdom
+U_002322,2023-12-21,Referral,Germany
+U_002323,2022-06-29,Paid Search,Germany
+U_002324,2024-05-01,Social,United Kingdom
+U_002325,2022-12-02,Social,Germany
+U_002326,2022-10-13,Partnership,India
+U_002327,2022-06-26,Paid Search,United States
+U_002328,2023-09-14,Social,India
+U_002329,2023-11-18,Organic,India
+U_002330,2024-02-09,Organic,South Africa
+U_002331,2024-04-18,Referral,Germany
+U_002332,2022-12-25,Partnership,Germany
+U_002333,2022-10-08,Paid Search,United States
+U_002334,2024-02-21,Referral,India
+U_002335,2024-10-01,Organic,United Kingdom
+U_002336,2023-09-15,Social,India
+U_002337,2024-08-07,Paid Search,South Africa
+U_002338,2022-01-06,Paid Search,United Kingdom
+U_002339,2023-09-07,Social,South Africa
+U_002340,2023-08-13,Social,United States
+U_002341,2024-10-04,Paid Search,South Africa
+U_002342,2022-09-02,Referral,Germany
+U_002343,2022-05-17,Partnership,United Kingdom
+U_002344,2024-09-11,Partnership,Germany
+U_002345,2023-06-13,Social,South Africa
+U_002346,2024-02-04,Partnership,India
+U_002347,2022-02-05,Referral,United States
+U_002348,2022-04-30,Paid Search,United Kingdom
+U_002349,2024-08-02,Paid Search,United Kingdom
+U_002350,2022-12-01,Organic,United Kingdom
+U_002351,2024-01-10,Social,United Kingdom
+U_002352,2022-04-10,Referral,United Kingdom
+U_002353,2024-12-20,Organic,India
+U_002354,2023-02-01,Paid Search,South Africa
+U_002355,2022-12-09,Partnership,United Kingdom
+U_002356,2023-10-10,Referral,United Kingdom
+U_002357,2024-01-13,Organic,India
+U_002358,2023-12-22,Paid Search,South Africa
+U_002359,2022-10-08,Partnership,United Kingdom
+U_002360,2024-02-03,Social,Germany
+U_002361,2023-11-28,Paid Search,South Africa
+U_002362,2023-03-23,Paid Search,India
+U_002363,2023-03-29,Paid Search,India
+U_002364,2024-12-12,Partnership,India
+U_002365,2022-08-22,Social,Germany
+U_002366,2022-06-06,Organic,United States
+U_002367,2022-02-05,Social,United Kingdom
+U_002368,2023-10-01,Referral,United States
+U_002369,2024-06-24,Partnership,India
+U_002370,2023-12-02,Paid Search,United Kingdom
+U_002371,2022-02-28,Organic,United States
+U_002372,2022-09-21,Paid Search,United States
+U_002373,2023-09-22,Paid Search,United States
+U_002374,2022-09-24,Organic,Germany
+U_002375,2022-08-17,Organic,South Africa
+U_002376,2024-09-18,Social,South Africa
+U_002377,2023-02-07,Organic,South Africa
+U_002378,2024-11-17,Partnership,South Africa
+U_002379,2024-08-18,Organic,United Kingdom
+U_002380,2022-03-30,Organic,United Kingdom
+U_002381,2022-01-22,Organic,South Africa
+U_002382,2023-02-25,Partnership,United States
+U_002383,2023-01-14,Referral,South Africa
+U_002384,2022-07-05,Paid Search,United Kingdom
+U_002385,2023-12-14,Referral,United States
+U_002386,2024-10-22,Partnership,United States
+U_002387,2024-10-31,Partnership,South Africa
+U_002388,2022-07-22,Partnership,South Africa
+U_002389,2024-12-19,Paid Search,United States
+U_002390,2023-08-01,Paid Search,India
+U_002391,2022-01-09,Organic,United States
+U_002392,2024-10-29,Social,United Kingdom
+U_002393,2023-01-15,Social,South Africa
+U_002394,2023-01-06,Referral,Germany
+U_002395,2024-05-18,Paid Search,India
+U_002396,2023-04-12,Social,South Africa
+U_002397,2023-10-06,Organic,Germany
+U_002398,2022-08-14,Partnership,United States
+U_002399,2024-10-12,Referral,United Kingdom
+U_002400,2022-03-25,Organic,United Kingdom
+U_002401,2024-10-08,Organic,Germany
+U_002402,2023-08-04,Social,India
+U_002403,2023-10-01,Social,United States
+U_002404,2024-04-14,Referral,Germany
+U_002405,2023-01-22,Organic,Germany
+U_002406,2024-01-23,Paid Search,South Africa
+U_002407,2024-10-03,Organic,Germany
+U_002408,2024-06-16,Partnership,South Africa
+U_002409,2022-09-02,Paid Search,Germany
+U_002410,2024-03-31,Partnership,South Africa
+U_002411,2022-12-12,Organic,United Kingdom
+U_002412,2023-02-12,Referral,United States
+U_002413,2024-04-07,Organic,United States
+U_002414,2024-05-19,Social,United Kingdom
+U_002415,2023-07-14,Social,United Kingdom
+U_002416,2024-09-01,Partnership,Germany
+U_002417,2024-09-19,Partnership,United Kingdom
+U_002418,2022-10-29,Social,South Africa
+U_002419,2022-09-08,Referral,Germany
+U_002420,2024-10-15,Paid Search,United States
+U_002421,2022-03-02,Organic,South Africa
+U_002422,2022-05-20,Social,South Africa
+U_002423,2023-01-02,Social,India
+U_002424,2023-11-01,Paid Search,United Kingdom
+U_002425,2022-07-17,Organic,India
+U_002426,2024-10-05,Social,United States
+U_002427,2023-08-25,Social,Germany
+U_002428,2024-10-30,Referral,India
+U_002429,2023-12-05,Partnership,India
+U_002430,2022-02-06,Organic,Germany
+U_002431,2022-09-01,Social,Germany
+U_002432,2023-10-07,Social,Germany
+U_002433,2024-07-30,Organic,South Africa
+U_002434,2022-12-29,Partnership,United Kingdom
+U_002435,2022-12-03,Social,Germany
+U_002436,2022-10-03,Referral,Germany
+U_002437,2024-09-25,Organic,India
+U_002438,2024-10-01,Partnership,India
+U_002439,2024-08-20,Social,India
+U_002440,2022-11-17,Partnership,South Africa
+U_002441,2024-03-12,Referral,Germany
+U_002442,2024-02-13,Partnership,United Kingdom
+U_002443,2023-08-06,Referral,South Africa
+U_002444,2022-02-27,Partnership,South Africa
+U_002445,2022-09-20,Referral,United Kingdom
+U_002446,2022-02-25,Referral,Germany
+U_002447,2022-07-19,Social,United Kingdom
+U_002448,2024-01-02,Social,United Kingdom
+U_002449,2022-04-26,Paid Search,United States
+U_002450,2023-04-26,Referral,India
+U_002451,2022-06-23,Organic,United Kingdom
+U_002452,2022-08-23,Referral,United States
+U_002453,2022-02-10,Partnership,United Kingdom
+U_002454,2022-03-18,Social,Germany
+U_002455,2024-11-20,Social,United Kingdom
+U_002456,2022-02-11,Social,India
+U_002457,2022-02-15,Referral,Germany
+U_002458,2024-03-10,Referral,India
+U_002459,2022-07-20,Social,South Africa
+U_002460,2023-02-26,Referral,Germany
+U_002461,2024-10-26,Referral,United States
+U_002462,2023-09-06,Referral,Germany
+U_002463,2023-02-18,Social,South Africa
+U_002464,2023-03-15,Referral,United Kingdom
+U_002465,2022-04-08,Referral,India
+U_002466,2024-04-03,Paid Search,India
+U_002467,2022-07-08,Partnership,South Africa
+U_002468,2023-11-21,Referral,South Africa
+U_002469,2024-12-23,Social,Germany
+U_002470,2023-03-06,Referral,South Africa
+U_002471,2023-09-11,Partnership,United Kingdom
+U_002472,2024-06-05,Partnership,United Kingdom
+U_002473,2023-02-14,Social,Germany
+U_002474,2023-05-30,Partnership,India
+U_002475,2024-07-17,Partnership,United States
+U_002476,2022-02-08,Partnership,United States
+U_002477,2024-10-19,Paid Search,Germany
+U_002478,2023-07-03,Partnership,India
+U_002479,2024-06-07,Partnership,South Africa
+U_002480,2024-12-05,Paid Search,United Kingdom
+U_002481,2024-08-05,Paid Search,United States
+U_002482,2022-11-05,Referral,Germany
+U_002483,2024-04-20,Referral,South Africa
+U_002484,2023-02-21,Social,United Kingdom
+U_002485,2023-08-11,Paid Search,United Kingdom
+U_002486,2023-04-29,Social,United States
+U_002487,2022-08-21,Paid Search,United States
+U_002488,2022-02-26,Paid Search,United Kingdom
+U_002489,2024-08-08,Social,India
+U_002490,2024-06-12,Social,South Africa
+U_002491,2023-02-18,Paid Search,United Kingdom
+U_002492,2022-10-07,Organic,United Kingdom
+U_002493,2023-07-23,Partnership,United States
+U_002494,2022-03-28,Social,South Africa
+U_002495,2022-04-24,Organic,United Kingdom
+U_002496,2023-09-03,Organic,Germany
+U_002497,2024-01-15,Organic,Germany
+U_002498,2022-10-15,Paid Search,South Africa
+U_002499,2024-10-21,Organic,India
+U_002500,2024-12-11,Referral,Germany
+U_002501,2022-07-04,Paid Search,India
+U_002502,2022-09-08,Referral,United Kingdom
+U_002503,2024-03-09,Paid Search,Germany
+U_002504,2023-03-23,Paid Search,South Africa
+U_002505,2022-12-25,Paid Search,United Kingdom
+U_002506,2024-06-19,Social,United Kingdom
+U_002507,2022-04-25,Social,India
+U_002508,2024-02-07,Organic,United Kingdom
+U_002509,2024-05-17,Social,United States
+U_002510,2023-07-23,Paid Search,United Kingdom
+U_002511,2024-08-31,Referral,United Kingdom
+U_002512,2022-02-13,Partnership,South Africa
+U_002513,2022-04-22,Paid Search,United Kingdom
+U_002514,2024-02-27,Referral,United Kingdom
+U_002515,2022-09-07,Partnership,United States
+U_002516,2024-06-25,Social,South Africa
+U_002517,2024-03-15,Referral,United Kingdom
+U_002518,2022-07-04,Paid Search,United Kingdom
+U_002519,2023-03-07,Paid Search,Germany
+U_002520,2023-10-12,Social,South Africa
+U_002521,2023-07-16,Organic,Germany
+U_002522,2024-08-22,Social,United Kingdom
+U_002523,2024-05-15,Organic,United States
+U_002524,2023-06-19,Partnership,South Africa
+U_002525,2023-12-22,Social,India
+U_002526,2023-11-01,Social,South Africa
+U_002527,2022-04-17,Paid Search,Germany
+U_002528,2022-10-06,Organic,Germany
+U_002529,2023-02-14,Referral,United Kingdom
+U_002530,2022-06-18,Organic,United States
+U_002531,2023-05-27,Partnership,United States
+U_002532,2024-04-20,Referral,Germany
+U_002533,2024-09-06,Paid Search,United Kingdom
+U_002534,2022-12-22,Partnership,United Kingdom
+U_002535,2023-08-01,Paid Search,South Africa
+U_002536,2024-04-28,Referral,United States
+U_002537,2024-03-16,Social,India
+U_002538,2023-04-05,Organic,South Africa
+U_002539,2023-04-14,Organic,Germany
+U_002540,2023-02-11,Referral,United States
+U_002541,2022-04-12,Social,India
+U_002542,2024-05-28,Partnership,United Kingdom
+U_002543,2022-11-02,Organic,United Kingdom
+U_002544,2022-12-15,Partnership,South Africa
+U_002545,2022-01-29,Partnership,Germany
+U_002546,2024-07-18,Social,South Africa
+U_002547,2023-04-05,Paid Search,United States
+U_002548,2023-06-30,Referral,Germany
+U_002549,2024-02-22,Paid Search,Germany
+U_002550,2023-02-28,Partnership,United States
+U_002551,2023-08-03,Paid Search,Germany
+U_002552,2023-01-05,Social,United States
+U_002553,2022-02-28,Referral,United Kingdom
+U_002554,2023-04-28,Partnership,Germany
+U_002555,2023-05-24,Referral,India
+U_002556,2024-07-27,Organic,South Africa
+U_002557,2024-08-18,Paid Search,United Kingdom
+U_002558,2024-03-25,Paid Search,Germany
+U_002559,2024-05-16,Partnership,United Kingdom
+U_002560,2022-05-30,Organic,India
+U_002561,2022-05-01,Organic,United Kingdom
+U_002562,2023-04-26,Social,United Kingdom
+U_002563,2022-04-04,Organic,United Kingdom
+U_002564,2024-10-30,Partnership,Germany
+U_002565,2023-09-12,Social,United Kingdom
+U_002566,2022-09-28,Partnership,South Africa
+U_002567,2023-01-03,Referral,United States
+U_002568,2024-10-28,Social,United Kingdom
+U_002569,2024-08-16,Paid Search,South Africa
+U_002570,2023-10-12,Partnership,Germany
+U_002571,2022-10-18,Referral,South Africa
+U_002572,2023-10-04,Organic,United States
+U_002573,2024-10-19,Referral,United Kingdom
+U_002574,2024-05-30,Referral,United Kingdom
+U_002575,2023-06-25,Partnership,United Kingdom
+U_002576,2024-06-11,Paid Search,United Kingdom
+U_002577,2024-10-03,Paid Search,India
+U_002578,2024-06-20,Organic,United States
+U_002579,2022-11-01,Organic,United States
+U_002580,2023-01-11,Organic,Germany
+U_002581,2023-06-17,Paid Search,Germany
+U_002582,2024-06-12,Organic,Germany
+U_002583,2022-03-25,Social,United Kingdom
+U_002584,2024-09-20,Social,Germany
+U_002585,2022-08-19,Paid Search,South Africa
+U_002586,2023-12-17,Organic,United States
+U_002587,2023-08-05,Paid Search,United States
+U_002588,2024-11-07,Referral,India
+U_002589,2023-03-11,Partnership,South Africa
+U_002590,2024-12-13,Partnership,United States
+U_002591,2024-05-02,Organic,United States
+U_002592,2024-10-17,Organic,United Kingdom
+U_002593,2022-02-23,Referral,South Africa
+U_002594,2024-03-18,Referral,India
+U_002595,2022-08-06,Referral,United States
+U_002596,2022-03-01,Organic,Germany
+U_002597,2024-09-09,Social,United Kingdom
+U_002598,2022-01-12,Referral,South Africa
+U_002599,2024-07-16,Referral,India
+U_002600,2022-09-22,Paid Search,South Africa
+U_002601,2023-08-03,Referral,South Africa
+U_002602,2022-05-25,Partnership,India
+U_002603,2024-02-21,Organic,Germany
+U_002604,2023-06-07,Paid Search,United States
+U_002605,2024-03-27,Organic,South Africa
+U_002606,2023-03-03,Paid Search,Germany
+U_002607,2024-04-04,Referral,United States
+U_002608,2022-09-04,Referral,Germany
+U_002609,2024-06-04,Referral,India
+U_002610,2022-09-26,Referral,South Africa
+U_002611,2024-01-23,Partnership,United States
+U_002612,2024-09-29,Social,Germany
+U_002613,2024-09-02,Referral,India
+U_002614,2024-05-16,Organic,Germany
+U_002615,2024-01-25,Partnership,United States
+U_002616,2024-06-08,Social,South Africa
+U_002617,2022-03-24,Partnership,United Kingdom
+U_002618,2024-08-07,Paid Search,United States
+U_002619,2024-10-11,Partnership,India
+U_002620,2022-06-21,Referral,Germany
+U_002621,2024-06-14,Organic,Germany
+U_002622,2023-09-08,Paid Search,United States
+U_002623,2023-09-08,Paid Search,India
+U_002624,2024-05-25,Referral,India
+U_002625,2022-04-08,Partnership,South Africa
+U_002626,2022-04-03,Partnership,South Africa
+U_002627,2024-11-11,Social,Germany
+U_002628,2022-07-13,Social,India
+U_002629,2023-06-03,Referral,United Kingdom
+U_002630,2022-06-17,Partnership,South Africa
+U_002631,2022-08-22,Social,United States
+U_002632,2023-01-09,Social,South Africa
+U_002633,2022-06-20,Social,United Kingdom
+U_002634,2023-10-05,Partnership,Germany
+U_002635,2024-07-10,Partnership,United Kingdom
+U_002636,2023-12-01,Paid Search,United States
+U_002637,2023-01-15,Organic,India
+U_002638,2023-06-16,Organic,Germany
+U_002639,2024-12-30,Organic,South Africa
+U_002640,2024-03-19,Organic,South Africa
+U_002641,2022-12-18,Social,Germany
+U_002642,2024-04-09,Partnership,Germany
+U_002643,2023-09-13,Partnership,India
+U_002644,2024-01-09,Social,United Kingdom
+U_002645,2022-06-29,Paid Search,United States
+U_002646,2022-01-29,Paid Search,South Africa
+U_002647,2022-02-02,Paid Search,South Africa
+U_002648,2023-03-05,Social,United States
+U_002649,2023-05-11,Social,India
+U_002650,2023-01-26,Organic,United Kingdom
+U_002651,2024-08-07,Paid Search,Germany
+U_002652,2024-05-14,Organic,South Africa
+U_002653,2022-12-07,Paid Search,Germany
+U_002654,2024-09-20,Social,South Africa
+U_002655,2024-07-09,Partnership,United States
+U_002656,2023-02-17,Referral,India
+U_002657,2024-03-13,Organic,United Kingdom
+U_002658,2022-01-17,Organic,Germany
+U_002659,2024-05-01,Social,India
+U_002660,2023-08-19,Organic,Germany
+U_002661,2024-03-29,Social,India
+U_002662,2024-09-26,Paid Search,South Africa
+U_002663,2024-12-17,Organic,Germany
+U_002664,2023-10-09,Partnership,South Africa
+U_002665,2023-07-03,Social,Germany
+U_002666,2022-08-28,Social,India
+U_002667,2023-12-12,Social,Germany
+U_002668,2022-02-12,Paid Search,United Kingdom
+U_002669,2023-01-29,Social,United Kingdom
+U_002670,2024-06-16,Paid Search,India
+U_002671,2023-03-26,Partnership,United Kingdom
+U_002672,2024-08-17,Paid Search,United Kingdom
+U_002673,2024-03-10,Social,United Kingdom
+U_002674,2024-08-25,Paid Search,India
+U_002675,2023-03-01,Referral,South Africa
+U_002676,2024-09-15,Paid Search,United States
+U_002677,2023-02-13,Paid Search,India
+U_002678,2024-10-04,Organic,Germany
+U_002679,2024-10-08,Referral,United States
+U_002680,2023-03-05,Partnership,South Africa
+U_002681,2022-02-07,Referral,United Kingdom
+U_002682,2024-01-02,Paid Search,United States
+U_002683,2024-10-28,Organic,South Africa
+U_002684,2023-11-23,Social,South Africa
+U_002685,2023-04-10,Organic,India
+U_002686,2023-04-04,Social,United Kingdom
+U_002687,2023-11-28,Referral,South Africa
+U_002688,2023-07-02,Paid Search,India
+U_002689,2022-08-02,Organic,Germany
+U_002690,2024-07-25,Organic,South Africa
+U_002691,2022-07-28,Partnership,South Africa
+U_002692,2024-11-04,Organic,United States
+U_002693,2022-08-30,Paid Search,United Kingdom
+U_002694,2022-11-18,Referral,Germany
+U_002695,2024-11-02,Social,South Africa
+U_002696,2022-11-12,Referral,United Kingdom
+U_002697,2022-10-10,Organic,United States
+U_002698,2024-06-18,Social,South Africa
+U_002699,2023-05-18,Social,United Kingdom
+U_002700,2023-08-11,Partnership,United States
+U_002701,2022-06-24,Referral,United Kingdom
+U_002702,2024-04-29,Referral,United States
+U_002703,2022-11-07,Partnership,Germany
+U_002704,2023-04-13,Paid Search,Germany
+U_002705,2024-04-26,Social,Germany
+U_002706,2024-11-23,Referral,South Africa
+U_002707,2024-06-25,Paid Search,South Africa
+U_002708,2024-11-25,Organic,South Africa
+U_002709,2023-11-24,Referral,Germany
+U_002710,2022-12-03,Social,South Africa
+U_002711,2024-03-16,Organic,United States
+U_002712,2022-04-29,Partnership,United Kingdom
+U_002713,2024-05-08,Social,India
+U_002714,2023-09-16,Referral,United Kingdom
+U_002715,2022-01-17,Referral,India
+U_002716,2022-10-28,Social,Germany
+U_002717,2023-02-25,Partnership,India
+U_002718,2024-06-24,Referral,Germany
+U_002719,2023-02-09,Referral,South Africa
+U_002720,2022-03-17,Partnership,United Kingdom
+U_002721,2024-03-09,Paid Search,India
+U_002722,2023-08-05,Paid Search,South Africa
+U_002723,2024-11-13,Partnership,United Kingdom
+U_002724,2024-12-03,Referral,United States
+U_002725,2022-02-17,Organic,India
+U_002726,2023-06-14,Paid Search,United Kingdom
+U_002727,2024-05-15,Partnership,South Africa
+U_002728,2022-05-03,Referral,United Kingdom
+U_002729,2024-11-05,Referral,South Africa
+U_002730,2022-04-08,Organic,Germany
+U_002731,2023-09-03,Partnership,South Africa
+U_002732,2024-07-17,Referral,United States
+U_002733,2024-12-28,Partnership,United States
+U_002734,2023-12-19,Referral,United Kingdom
+U_002735,2022-10-14,Social,India
+U_002736,2023-05-23,Organic,United Kingdom
+U_002737,2024-11-23,Partnership,United States
+U_002738,2024-01-10,Social,South Africa
+U_002739,2022-10-28,Social,Germany
+U_002740,2022-06-17,Organic,South Africa
+U_002741,2024-05-20,Paid Search,Germany
+U_002742,2023-03-16,Social,South Africa
+U_002743,2024-01-27,Partnership,Germany
+U_002744,2024-11-28,Social,United Kingdom
+U_002745,2024-10-18,Social,Germany
+U_002746,2024-09-29,Social,United States
+U_002747,2022-10-23,Partnership,United States
+U_002748,2024-09-19,Social,United States
+U_002749,2024-11-17,Partnership,South Africa
+U_002750,2023-03-12,Social,Germany
+U_002751,2022-03-08,Paid Search,India
+U_002752,2024-01-27,Organic,India
+U_002753,2024-04-16,Organic,South Africa
+U_002754,2024-01-27,Partnership,United Kingdom
+U_002755,2022-03-24,Partnership,United States
+U_002756,2022-08-30,Referral,United Kingdom
+U_002757,2024-02-06,Referral,United Kingdom
+U_002758,2024-09-22,Organic,United States
+U_002759,2022-10-19,Partnership,Germany
+U_002760,2022-04-10,Referral,United Kingdom
+U_002761,2023-03-18,Paid Search,Germany
+U_002762,2022-01-05,Organic,India
+U_002763,2023-12-16,Organic,South Africa
+U_002764,2024-05-05,Social,India
+U_002765,2023-09-27,Partnership,Germany
+U_002766,2023-11-23,Social,Germany
+U_002767,2022-09-29,Paid Search,India
+U_002768,2024-08-01,Social,Germany
+U_002769,2022-11-02,Referral,South Africa
+U_002770,2024-04-18,Social,United States
+U_002771,2024-03-20,Referral,India
+U_002772,2022-04-04,Social,United Kingdom
+U_002773,2022-07-01,Paid Search,South Africa
+U_002774,2023-09-25,Partnership,South Africa
+U_002775,2022-06-24,Paid Search,India
+U_002776,2022-04-19,Partnership,India
+U_002777,2023-01-23,Social,India
+U_002778,2022-02-08,Organic,India
+U_002779,2023-01-04,Organic,United Kingdom
+U_002780,2023-02-26,Paid Search,India
+U_002781,2024-06-28,Organic,India
+U_002782,2023-10-19,Social,India
+U_002783,2022-04-03,Social,South Africa
+U_002784,2023-11-28,Social,United States
+U_002785,2024-04-29,Organic,India
+U_002786,2023-10-12,Social,United Kingdom
+U_002787,2022-07-06,Organic,South Africa
+U_002788,2022-12-11,Referral,United States
+U_002789,2023-01-10,Referral,South Africa
+U_002790,2022-11-12,Referral,Germany
+U_002791,2022-12-13,Organic,India
+U_002792,2023-10-29,Paid Search,South Africa
+U_002793,2022-04-30,Referral,Germany
+U_002794,2022-07-22,Referral,United States
+U_002795,2024-04-25,Referral,United Kingdom
+U_002796,2024-02-09,Organic,South Africa
+U_002797,2023-02-19,Paid Search,India
+U_002798,2023-04-30,Social,India
+U_002799,2024-10-30,Social,South Africa
+U_002800,2023-07-06,Organic,United Kingdom
+U_002801,2024-08-09,Partnership,Germany
+U_002802,2022-05-15,Social,South Africa
+U_002803,2024-04-14,Paid Search,South Africa
+U_002804,2023-07-06,Partnership,India
+U_002805,2022-07-27,Paid Search,India
+U_002806,2022-09-15,Referral,India
+U_002807,2024-04-13,Social,South Africa
+U_002808,2024-10-21,Paid Search,United States
+U_002809,2024-02-04,Partnership,United States
+U_002810,2023-05-18,Partnership,Germany
+U_002811,2024-07-14,Organic,South Africa
+U_002812,2024-08-09,Partnership,United Kingdom
+U_002813,2022-12-09,Organic,South Africa
+U_002814,2024-09-14,Referral,India
+U_002815,2023-05-29,Social,United Kingdom
+U_002816,2023-03-12,Partnership,India
+U_002817,2023-07-31,Organic,United States
+U_002818,2024-12-29,Partnership,South Africa
+U_002819,2023-09-08,Organic,Germany
+U_002820,2022-09-09,Paid Search,India
+U_002821,2023-07-27,Social,United States
+U_002822,2024-10-30,Referral,United Kingdom
+U_002823,2023-06-20,Social,United Kingdom
+U_002824,2023-05-19,Referral,United Kingdom
+U_002825,2023-03-08,Social,India
+U_002826,2023-11-04,Organic,United States
+U_002827,2022-01-05,Partnership,Germany
+U_002828,2022-01-09,Organic,United States
+U_002829,2024-04-26,Partnership,Germany
+U_002830,2024-03-15,Partnership,South Africa
+U_002831,2022-06-08,Partnership,South Africa
+U_002832,2024-06-30,Organic,United Kingdom
+U_002833,2024-02-10,Partnership,United Kingdom
+U_002834,2024-03-03,Paid Search,South Africa
+U_002835,2022-09-13,Social,United Kingdom
+U_002836,2023-01-31,Social,South Africa
+U_002837,2023-03-30,Organic,United Kingdom
+U_002838,2024-01-03,Paid Search,South Africa
+U_002839,2023-09-13,Paid Search,United States
+U_002840,2024-10-08,Referral,South Africa
+U_002841,2023-07-29,Social,India
+U_002842,2023-03-05,Organic,United States
+U_002843,2024-03-22,Organic,United Kingdom
+U_002844,2024-10-21,Social,United States
+U_002845,2023-02-01,Partnership,India
+U_002846,2022-12-26,Organic,India
+U_002847,2022-09-20,Organic,United States
+U_002848,2023-06-16,Partnership,United States
+U_002849,2024-12-07,Referral,United States
+U_002850,2022-02-17,Partnership,India
+U_002851,2023-06-02,Partnership,Germany
+U_002852,2022-01-05,Social,South Africa
+U_002853,2023-10-24,Social,Germany
+U_002854,2023-07-16,Organic,India
+U_002855,2024-08-13,Social,United Kingdom
+U_002856,2024-11-25,Organic,United States
+U_002857,2022-04-07,Referral,Germany
+U_002858,2024-12-26,Social,United Kingdom
+U_002859,2022-01-11,Social,United States
+U_002860,2023-11-17,Organic,India
+U_002861,2022-02-21,Paid Search,Germany
+U_002862,2022-06-02,Paid Search,United States
+U_002863,2022-12-03,Referral,United Kingdom
+U_002864,2022-05-09,Organic,South Africa
+U_002865,2024-09-09,Social,South Africa
+U_002866,2023-11-16,Referral,United States
+U_002867,2022-08-09,Social,United States
+U_002868,2023-11-29,Organic,United Kingdom
+U_002869,2024-11-30,Paid Search,South Africa
+U_002870,2024-06-17,Organic,Germany
+U_002871,2022-09-13,Organic,South Africa
+U_002872,2022-03-10,Social,United Kingdom
+U_002873,2022-05-14,Paid Search,South Africa
+U_002874,2024-06-24,Organic,United Kingdom
+U_002875,2024-06-03,Organic,South Africa
+U_002876,2022-04-25,Partnership,South Africa
+U_002877,2023-08-27,Social,Germany
+U_002878,2022-07-16,Partnership,Germany
+U_002879,2023-04-23,Partnership,India
+U_002880,2022-01-22,Social,Germany
+U_002881,2024-08-08,Social,India
+U_002882,2022-07-27,Referral,South Africa
+U_002883,2024-07-18,Partnership,United Kingdom
+U_002884,2023-01-30,Organic,South Africa
+U_002885,2022-01-26,Partnership,South Africa
+U_002886,2023-02-01,Partnership,United States
+U_002887,2024-11-08,Referral,United Kingdom
+U_002888,2024-05-12,Social,India
+U_002889,2024-06-29,Paid Search,United States
+U_002890,2022-10-09,Organic,South Africa
+U_002891,2022-09-19,Referral,India
+U_002892,2024-06-11,Partnership,United Kingdom
+U_002893,2023-09-30,Partnership,India
+U_002894,2022-10-26,Paid Search,Germany
+U_002895,2023-09-25,Partnership,United Kingdom
+U_002896,2023-08-20,Referral,South Africa
+U_002897,2024-11-26,Partnership,United States
+U_002898,2022-04-28,Paid Search,India
+U_002899,2022-04-22,Social,United Kingdom
+U_002900,2023-02-05,Paid Search,United States
+U_002901,2022-05-21,Referral,United States
+U_002902,2024-09-01,Social,India
+U_002903,2023-11-10,Partnership,India
+U_002904,2023-11-19,Partnership,United Kingdom
+U_002905,2024-05-07,Referral,United States
+U_002906,2022-08-03,Social,South Africa
+U_002907,2024-10-12,Paid Search,South Africa
+U_002908,2023-04-02,Paid Search,Germany
+U_002909,2023-03-13,Paid Search,Germany
+U_002910,2023-11-10,Social,United States
+U_002911,2024-03-30,Paid Search,South Africa
+U_002912,2024-01-14,Organic,South Africa
+U_002913,2024-01-03,Organic,India
+U_002914,2022-08-24,Paid Search,United Kingdom
+U_002915,2024-06-20,Paid Search,India
+U_002916,2024-01-08,Organic,South Africa
+U_002917,2023-02-12,Paid Search,United Kingdom
+U_002918,2022-12-23,Paid Search,United Kingdom
+U_002919,2022-12-23,Referral,India
+U_002920,2023-05-19,Paid Search,United States
+U_002921,2022-02-14,Paid Search,United Kingdom
+U_002922,2022-07-27,Organic,United States
+U_002923,2024-02-16,Organic,United Kingdom
+U_002924,2023-03-07,Referral,Germany
+U_002925,2023-05-07,Referral,United Kingdom
+U_002926,2022-12-17,Partnership,India
+U_002927,2024-06-07,Organic,South Africa
+U_002928,2022-10-23,Paid Search,United States
+U_002929,2023-01-28,Partnership,Germany
+U_002930,2024-02-06,Referral,India
+U_002931,2024-05-29,Paid Search,South Africa
+U_002932,2023-01-23,Partnership,United Kingdom
+U_002933,2022-11-01,Referral,United States
+U_002934,2022-04-20,Referral,United States
+U_002935,2024-11-06,Partnership,Germany
+U_002936,2023-03-05,Organic,Germany
+U_002937,2022-05-13,Paid Search,India
+U_002938,2024-03-05,Partnership,United Kingdom
+U_002939,2024-10-18,Partnership,Germany
+U_002940,2023-01-02,Referral,United Kingdom
+U_002941,2024-12-12,Social,Germany
+U_002942,2024-08-28,Referral,India
+U_002943,2024-04-01,Partnership,South Africa
+U_002944,2023-03-01,Paid Search,United States
+U_002945,2024-07-14,Paid Search,Germany
+U_002946,2023-03-24,Referral,Germany
+U_002947,2024-02-12,Partnership,United States
+U_002948,2024-02-06,Referral,India
+U_002949,2022-06-23,Paid Search,South Africa
+U_002950,2023-08-28,Social,India
+U_002951,2023-12-22,Paid Search,India
+U_002952,2022-03-26,Social,India
+U_002953,2023-11-20,Social,Germany
+U_002954,2024-08-15,Social,Germany
+U_002955,2024-01-23,Social,United Kingdom
+U_002956,2023-07-14,Social,South Africa
+U_002957,2023-01-03,Social,United States
+U_002958,2023-06-28,Organic,United Kingdom
+U_002959,2022-06-18,Referral,India
+U_002960,2024-11-16,Partnership,South Africa
+U_002961,2023-07-21,Paid Search,South Africa
+U_002962,2022-08-31,Organic,United Kingdom
+U_002963,2022-03-20,Partnership,United States
+U_002964,2023-11-15,Paid Search,United Kingdom
+U_002965,2023-05-28,Referral,United Kingdom
+U_002966,2023-01-26,Partnership,United States
+U_002967,2023-06-19,Organic,United Kingdom
+U_002968,2023-08-01,Referral,Germany
+U_002969,2024-04-10,Partnership,South Africa
+U_002970,2024-08-24,Partnership,United States
+U_002971,2024-03-25,Paid Search,United States
+U_002972,2023-03-06,Social,United States
+U_002973,2024-11-22,Partnership,India
+U_002974,2024-08-17,Social,United Kingdom
+U_002975,2022-06-25,Referral,United States
+U_002976,2024-05-28,Social,United States
+U_002977,2024-06-17,Social,India
+U_002978,2022-03-03,Referral,United States
+U_002979,2022-09-20,Referral,South Africa
+U_002980,2024-10-20,Referral,United Kingdom
+U_002981,2023-04-07,Social,Germany
+U_002982,2024-04-06,Partnership,United Kingdom
+U_002983,2023-10-30,Partnership,South Africa
+U_002984,2022-03-07,Paid Search,United States
+U_002985,2023-11-08,Partnership,India
+U_002986,2024-03-11,Social,United States
+U_002987,2024-03-11,Organic,India
+U_002988,2024-03-02,Paid Search,Germany
+U_002989,2022-08-11,Referral,India
+U_002990,2024-07-13,Referral,South Africa
+U_002991,2022-12-18,Organic,India
+U_002992,2022-12-30,Organic,India
+U_002993,2024-09-27,Organic,United States
+U_002994,2023-02-12,Organic,Germany
+U_002995,2023-08-05,Paid Search,United States
+U_002996,2023-08-20,Partnership,South Africa
+U_002997,2024-07-20,Organic,United Kingdom
+U_002998,2024-11-27,Organic,United States
+U_002999,2023-11-01,Social,Germany
+U_003000,2022-11-18,Organic,United States
