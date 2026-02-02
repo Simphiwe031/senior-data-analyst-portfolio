@@ -1,0 +1,1001 @@
+﻿user_id,signup_date,acquisition_channel,country
+U00001,2024-08-02,Organic,USA
+U00002,2022-07-18,Paid Search,UK
+U00003,2021-10-13,Organic,South Africa
+U00004,2024-01-22,Organic,Canada
+U00005,2023-05-15,Organic,USA
+U00006,2021-07-11,Paid Search,UK
+U00007,2023-11-01,Sales,USA
+U00008,2024-02-24,Paid Search,South Africa
+U00009,2024-08-23,Sales,India
+U00010,2022-03-28,Social,Canada
+U00011,2022-07-24,Organic,UK
+U00012,2024-11-30,Social,Germany
+U00013,2022-07-24,Paid Search,UK
+U00014,2022-11-21,Organic,USA
+U00015,2023-02-18,Organic,Germany
+U00016,2022-12-06,Sales,Germany
+U00017,2021-03-30,Social,Canada
+U00018,2021-09-13,Social,USA
+U00019,2024-02-05,Referral,South Africa
+U00020,2024-06-20,Referral,Canada
+U00021,2022-01-29,Organic,USA
+U00022,2024-09-16,Paid Search,Germany
+U00023,2021-06-13,Paid Search,USA
+U00024,2023-02-18,Referral,India
+U00025,2024-07-25,Referral,UK
+U00026,2023-01-29,Referral,UK
+U00027,2024-10-04,Referral,South Africa
+U00028,2024-10-31,Organic,Canada
+U00029,2024-07-24,Paid Search,Canada
+U00030,2022-05-17,Paid Search,India
+U00031,2023-02-17,Referral,South Africa
+U00032,2024-11-10,Sales,UK
+U00033,2024-11-03,Referral,USA
+U00034,2022-04-15,Organic,Germany
+U00035,2023-04-02,Referral,USA
+U00036,2022-03-09,Sales,South Africa
+U00037,2022-10-07,Paid Search,South Africa
+U00038,2023-10-20,Social,South Africa
+U00039,2023-07-29,Paid Search,Germany
+U00040,2021-10-13,Paid Search,South Africa
+U00041,2024-02-24,Sales,Germany
+U00042,2024-04-12,Social,Canada
+U00043,2023-03-29,Referral,UK
+U00044,2021-10-11,Sales,India
+U00045,2021-07-06,Organic,USA
+U00046,2021-11-10,Paid Search,South Africa
+U00047,2023-05-15,Sales,USA
+U00048,2023-02-28,Social,Canada
+U00049,2023-08-17,Sales,Germany
+U00050,2024-02-08,Organic,South Africa
+U00051,2021-08-23,Sales,Germany
+U00052,2024-08-05,Referral,USA
+U00053,2022-08-25,Social,UK
+U00054,2023-07-19,Organic,South Africa
+U00055,2022-06-24,Sales,UK
+U00056,2023-11-06,Organic,South Africa
+U00057,2022-09-04,Sales,Canada
+U00058,2022-02-12,Paid Search,Germany
+U00059,2021-11-27,Sales,Canada
+U00060,2021-01-02,Sales,Germany
+U00061,2023-09-28,Organic,USA
+U00062,2023-01-14,Referral,UK
+U00063,2021-04-29,Paid Search,Canada
+U00064,2021-06-11,Organic,South Africa
+U00065,2023-09-23,Organic,Canada
+U00066,2021-09-15,Paid Search,South Africa
+U00067,2023-09-01,Sales,UK
+U00068,2022-06-27,Sales,Canada
+U00069,2023-05-17,Paid Search,Canada
+U00070,2024-11-13,Paid Search,South Africa
+U00071,2022-10-01,Social,South Africa
+U00072,2024-08-23,Referral,India
+U00073,2023-11-26,Social,USA
+U00074,2022-05-23,Paid Search,USA
+U00075,2022-11-24,Organic,Canada
+U00076,2024-02-09,Paid Search,Canada
+U00077,2022-03-28,Organic,USA
+U00078,2024-12-20,Organic,UK
+U00079,2021-05-19,Organic,Germany
+U00080,2021-05-26,Sales,UK
+U00081,2022-07-25,Social,UK
+U00082,2024-01-10,Paid Search,South Africa
+U00083,2024-03-15,Sales,India
+U00084,2022-05-13,Social,India
+U00085,2022-01-25,Organic,USA
+U00086,2024-09-11,Social,Germany
+U00087,2023-05-18,Social,India
+U00088,2021-04-21,Organic,USA
+U00089,2023-04-05,Referral,USA
+U00090,2022-05-25,Paid Search,UK
+U00091,2024-01-04,Social,UK
+U00092,2023-05-15,Paid Search,Germany
+U00093,2023-08-06,Paid Search,USA
+U00094,2023-06-27,Sales,USA
+U00095,2021-04-14,Sales,USA
+U00096,2021-07-11,Paid Search,UK
+U00097,2023-04-13,Social,India
+U00098,2022-03-14,Social,USA
+U00099,2021-12-04,Social,USA
+U00100,2023-03-11,Referral,India
+U00101,2022-08-08,Social,South Africa
+U00102,2024-02-13,Social,UK
+U00103,2022-01-24,Referral,UK
+U00104,2021-04-30,Sales,South Africa
+U00105,2024-01-16,Organic,South Africa
+U00106,2022-10-05,Organic,USA
+U00107,2024-04-11,Social,Canada
+U00108,2023-12-24,Paid Search,USA
+U00109,2023-11-07,Organic,UK
+U00110,2021-05-21,Sales,USA
+U00111,2024-10-14,Paid Search,India
+U00112,2021-09-03,Sales,UK
+U00113,2024-03-31,Sales,USA
+U00114,2024-06-22,Organic,India
+U00115,2024-09-08,Sales,Canada
+U00116,2023-12-07,Referral,Germany
+U00117,2022-02-23,Referral,UK
+U00118,2022-06-28,Social,UK
+U00119,2024-10-07,Referral,India
+U00120,2022-10-10,Organic,USA
+U00121,2023-07-28,Sales,Canada
+U00122,2021-07-24,Organic,Canada
+U00123,2022-03-13,Sales,Germany
+U00124,2021-09-29,Referral,USA
+U00125,2022-05-16,Referral,Germany
+U00126,2021-11-20,Social,Canada
+U00127,2024-12-11,Referral,Canada
+U00128,2024-09-01,Sales,USA
+U00129,2024-09-29,Sales,Germany
+U00130,2024-09-20,Organic,UK
+U00131,2022-06-26,Organic,USA
+U00132,2024-02-08,Paid Search,Germany
+U00133,2022-08-01,Sales,UK
+U00134,2022-12-04,Paid Search,South Africa
+U00135,2024-07-22,Referral,Canada
+U00136,2023-09-28,Referral,USA
+U00137,2021-07-09,Social,Germany
+U00138,2021-04-01,Organic,Germany
+U00139,2021-09-25,Referral,UK
+U00140,2023-06-24,Sales,South Africa
+U00141,2023-05-26,Sales,USA
+U00142,2021-08-18,Organic,South Africa
+U00143,2021-11-02,Sales,USA
+U00144,2023-01-27,Sales,Canada
+U00145,2021-10-31,Social,UK
+U00146,2021-03-27,Referral,Germany
+U00147,2021-03-23,Referral,UK
+U00148,2024-10-28,Paid Search,South Africa
+U00149,2021-07-30,Referral,Canada
+U00150,2023-04-13,Sales,South Africa
+U00151,2021-11-13,Paid Search,UK
+U00152,2021-12-29,Social,USA
+U00153,2022-01-03,Referral,India
+U00154,2024-10-03,Paid Search,Germany
+U00155,2021-11-23,Organic,India
+U00156,2021-03-21,Social,UK
+U00157,2022-02-13,Social,Germany
+U00158,2022-09-18,Paid Search,UK
+U00159,2021-02-18,Paid Search,India
+U00160,2022-11-04,Referral,USA
+U00161,2022-07-26,Referral,South Africa
+U00162,2023-11-10,Social,South Africa
+U00163,2024-01-04,Referral,USA
+U00164,2021-08-25,Referral,UK
+U00165,2024-04-04,Referral,USA
+U00166,2021-08-11,Sales,India
+U00167,2022-12-09,Referral,India
+U00168,2024-05-26,Sales,USA
+U00169,2023-02-28,Sales,UK
+U00170,2022-06-06,Organic,South Africa
+U00171,2023-06-13,Organic,Canada
+U00172,2024-01-08,Paid Search,Germany
+U00173,2023-06-03,Organic,South Africa
+U00174,2022-11-08,Sales,Germany
+U00175,2024-09-20,Organic,South Africa
+U00176,2022-09-08,Sales,Germany
+U00177,2024-09-27,Social,Germany
+U00178,2023-04-05,Referral,Canada
+U00179,2021-09-18,Paid Search,India
+U00180,2024-09-23,Social,South Africa
+U00181,2021-12-23,Sales,Canada
+U00182,2022-09-09,Social,Canada
+U00183,2021-01-01,Referral,Germany
+U00184,2022-03-07,Social,Canada
+U00185,2024-05-27,Referral,India
+U00186,2023-06-24,Social,South Africa
+U00187,2022-03-14,Sales,India
+U00188,2021-12-14,Organic,Germany
+U00189,2023-11-22,Sales,Germany
+U00190,2021-07-11,Paid Search,South Africa
+U00191,2022-09-28,Paid Search,UK
+U00192,2021-10-29,Organic,USA
+U00193,2022-05-17,Social,Canada
+U00194,2021-05-30,Social,India
+U00195,2024-07-13,Sales,UK
+U00196,2024-11-27,Social,India
+U00197,2023-03-30,Paid Search,UK
+U00198,2024-09-05,Organic,USA
+U00199,2023-05-21,Paid Search,UK
+U00200,2024-11-26,Sales,India
+U00201,2021-04-13,Sales,UK
+U00202,2021-09-06,Social,UK
+U00203,2023-08-10,Sales,Canada
+U00204,2024-05-04,Referral,India
+U00205,2024-06-08,Sales,India
+U00206,2024-01-28,Social,UK
+U00207,2023-08-31,Social,Germany
+U00208,2022-05-22,Referral,Canada
+U00209,2023-09-20,Paid Search,Germany
+U00210,2023-06-20,Organic,South Africa
+U00211,2022-08-09,Paid Search,Germany
+U00212,2022-11-19,Referral,Canada
+U00213,2021-06-15,Paid Search,UK
+U00214,2022-04-19,Social,South Africa
+U00215,2021-11-09,Paid Search,USA
+U00216,2023-04-30,Social,Germany
+U00217,2024-01-17,Social,India
+U00218,2021-05-08,Paid Search,India
+U00219,2023-03-09,Sales,South Africa
+U00220,2021-02-10,Sales,India
+U00221,2023-09-04,Organic,Germany
+U00222,2022-09-04,Social,India
+U00223,2024-01-08,Sales,Canada
+U00224,2022-03-28,Social,UK
+U00225,2022-07-13,Social,India
+U00226,2021-03-01,Social,Germany
+U00227,2024-10-01,Social,South Africa
+U00228,2021-12-05,Social,UK
+U00229,2024-06-28,Sales,USA
+U00230,2023-03-18,Sales,Canada
+U00231,2024-09-19,Organic,USA
+U00232,2024-08-09,Social,UK
+U00233,2023-08-04,Paid Search,USA
+U00234,2022-06-17,Social,Germany
+U00235,2022-03-10,Social,Germany
+U00236,2022-11-23,Social,Germany
+U00237,2023-05-14,Referral,USA
+U00238,2023-08-22,Organic,South Africa
+U00239,2024-01-10,Organic,Germany
+U00240,2022-04-05,Organic,South Africa
+U00241,2021-03-24,Organic,UK
+U00242,2022-02-13,Organic,Canada
+U00243,2021-11-09,Paid Search,UK
+U00244,2023-08-28,Organic,Canada
+U00245,2022-03-23,Social,South Africa
+U00246,2022-06-09,Referral,UK
+U00247,2024-05-25,Sales,South Africa
+U00248,2021-08-23,Paid Search,Germany
+U00249,2021-08-10,Sales,USA
+U00250,2022-10-01,Sales,South Africa
+U00251,2023-02-08,Social,South Africa
+U00252,2022-02-11,Organic,Canada
+U00253,2024-11-15,Paid Search,USA
+U00254,2024-11-28,Referral,South Africa
+U00255,2024-05-14,Organic,Canada
+U00256,2021-03-26,Referral,Canada
+U00257,2023-05-28,Referral,USA
+U00258,2023-11-03,Referral,USA
+U00259,2023-05-11,Social,USA
+U00260,2023-06-07,Referral,South Africa
+U00261,2023-07-31,Paid Search,India
+U00262,2021-12-27,Sales,South Africa
+U00263,2022-07-08,Sales,Canada
+U00264,2023-09-18,Social,India
+U00265,2024-04-28,Referral,Germany
+U00266,2022-05-18,Organic,Germany
+U00267,2023-07-13,Paid Search,India
+U00268,2024-03-13,Sales,South Africa
+U00269,2023-02-16,Referral,USA
+U00270,2023-10-10,Referral,UK
+U00271,2023-09-26,Paid Search,Germany
+U00272,2022-06-14,Referral,Germany
+U00273,2024-05-05,Referral,Canada
+U00274,2021-01-21,Sales,UK
+U00275,2021-06-25,Paid Search,South Africa
+U00276,2023-04-13,Social,Canada
+U00277,2022-05-08,Social,South Africa
+U00278,2024-12-28,Social,India
+U00279,2021-02-05,Organic,Germany
+U00280,2022-03-30,Social,South Africa
+U00281,2022-05-14,Referral,South Africa
+U00282,2024-04-06,Referral,India
+U00283,2024-02-08,Sales,Germany
+U00284,2023-05-22,Sales,Germany
+U00285,2022-12-22,Social,Germany
+U00286,2022-09-20,Referral,UK
+U00287,2021-09-05,Paid Search,Germany
+U00288,2021-09-02,Sales,South Africa
+U00289,2022-01-15,Paid Search,UK
+U00290,2023-09-19,Referral,South Africa
+U00291,2024-04-22,Sales,Canada
+U00292,2022-08-03,Organic,UK
+U00293,2022-08-30,Paid Search,Germany
+U00294,2022-01-03,Referral,USA
+U00295,2024-12-21,Sales,UK
+U00296,2022-07-16,Organic,USA
+U00297,2024-02-08,Referral,South Africa
+U00298,2021-09-16,Social,USA
+U00299,2021-01-26,Sales,Germany
+U00300,2023-08-20,Social,India
+U00301,2022-11-29,Paid Search,USA
+U00302,2022-06-02,Social,USA
+U00303,2021-05-14,Social,India
+U00304,2021-06-01,Sales,South Africa
+U00305,2024-11-06,Organic,UK
+U00306,2021-11-02,Sales,Germany
+U00307,2021-06-24,Paid Search,USA
+U00308,2024-02-17,Social,Canada
+U00309,2024-05-05,Sales,UK
+U00310,2023-12-07,Social,India
+U00311,2023-06-26,Referral,Canada
+U00312,2023-05-29,Referral,Canada
+U00313,2024-06-25,Organic,Canada
+U00314,2021-07-23,Paid Search,South Africa
+U00315,2022-03-09,Referral,South Africa
+U00316,2021-06-16,Paid Search,UK
+U00317,2021-12-22,Sales,USA
+U00318,2021-11-17,Organic,India
+U00319,2023-07-12,Sales,India
+U00320,2022-08-20,Organic,UK
+U00321,2022-08-14,Referral,South Africa
+U00322,2023-07-19,Organic,South Africa
+U00323,2022-04-24,Referral,South Africa
+U00324,2024-04-22,Paid Search,India
+U00325,2021-08-24,Sales,UK
+U00326,2024-08-19,Paid Search,Germany
+U00327,2021-10-19,Organic,USA
+U00328,2021-12-06,Referral,Canada
+U00329,2024-03-11,Referral,India
+U00330,2021-09-12,Social,South Africa
+U00331,2022-09-15,Social,Germany
+U00332,2023-10-22,Sales,India
+U00333,2023-06-16,Organic,Canada
+U00334,2021-03-23,Social,South Africa
+U00335,2022-10-23,Sales,Germany
+U00336,2021-02-22,Organic,UK
+U00337,2024-10-12,Sales,Canada
+U00338,2021-02-12,Referral,Canada
+U00339,2021-03-24,Paid Search,India
+U00340,2023-11-29,Social,Germany
+U00341,2022-01-07,Sales,India
+U00342,2024-07-24,Social,USA
+U00343,2023-08-21,Referral,India
+U00344,2022-11-14,Referral,South Africa
+U00345,2021-08-03,Paid Search,Germany
+U00346,2023-04-24,Social,Germany
+U00347,2024-09-18,Social,Canada
+U00348,2021-03-17,Social,USA
+U00349,2022-10-07,Referral,Germany
+U00350,2021-08-26,Social,Canada
+U00351,2021-01-03,Sales,India
+U00352,2023-04-27,Organic,UK
+U00353,2023-11-28,Referral,Canada
+U00354,2023-10-18,Social,USA
+U00355,2022-02-21,Referral,Canada
+U00356,2021-09-26,Referral,India
+U00357,2024-12-01,Social,USA
+U00358,2021-03-01,Sales,UK
+U00359,2024-12-24,Paid Search,Germany
+U00360,2024-02-03,Organic,Canada
+U00361,2023-04-16,Organic,UK
+U00362,2021-08-21,Social,USA
+U00363,2024-08-19,Paid Search,India
+U00364,2022-08-21,Sales,South Africa
+U00365,2022-07-14,Social,India
+U00366,2023-08-26,Paid Search,India
+U00367,2024-02-03,Paid Search,India
+U00368,2022-01-26,Sales,Canada
+U00369,2021-10-07,Organic,Germany
+U00370,2023-04-30,Referral,Canada
+U00371,2022-07-02,Organic,Germany
+U00372,2022-09-04,Sales,Canada
+U00373,2024-09-13,Social,UK
+U00374,2023-07-04,Sales,India
+U00375,2022-12-08,Referral,Canada
+U00376,2024-01-18,Social,India
+U00377,2022-10-22,Paid Search,South Africa
+U00378,2022-05-05,Sales,India
+U00379,2022-04-24,Social,USA
+U00380,2022-10-14,Social,South Africa
+U00381,2023-02-20,Social,South Africa
+U00382,2024-08-28,Paid Search,India
+U00383,2021-03-17,Paid Search,Canada
+U00384,2024-04-23,Referral,USA
+U00385,2023-06-21,Organic,Canada
+U00386,2023-07-25,Organic,South Africa
+U00387,2021-10-23,Social,South Africa
+U00388,2021-11-13,Organic,India
+U00389,2022-06-27,Referral,Canada
+U00390,2024-11-19,Social,South Africa
+U00391,2021-06-14,Referral,South Africa
+U00392,2023-12-29,Social,Germany
+U00393,2024-07-07,Social,Canada
+U00394,2021-03-15,Sales,USA
+U00395,2022-04-26,Referral,UK
+U00396,2021-07-05,Social,USA
+U00397,2024-07-21,Organic,India
+U00398,2021-12-07,Referral,USA
+U00399,2021-04-05,Referral,USA
+U00400,2022-08-24,Referral,Germany
+U00401,2023-06-02,Paid Search,UK
+U00402,2023-12-24,Social,Canada
+U00403,2024-10-28,Paid Search,UK
+U00404,2021-12-25,Organic,Canada
+U00405,2023-02-23,Sales,South Africa
+U00406,2022-05-09,Social,Canada
+U00407,2021-10-21,Paid Search,India
+U00408,2024-07-30,Referral,India
+U00409,2022-06-07,Organic,India
+U00410,2022-08-13,Sales,UK
+U00411,2021-06-01,Social,Germany
+U00412,2024-04-18,Referral,South Africa
+U00413,2023-05-19,Referral,India
+U00414,2022-09-11,Paid Search,India
+U00415,2023-09-17,Organic,UK
+U00416,2023-02-21,Sales,Germany
+U00417,2024-03-23,Referral,South Africa
+U00418,2022-08-28,Organic,South Africa
+U00419,2023-03-22,Referral,USA
+U00420,2024-03-05,Organic,Canada
+U00421,2023-10-15,Referral,UK
+U00422,2024-05-28,Referral,UK
+U00423,2024-07-27,Paid Search,Canada
+U00424,2022-05-29,Paid Search,South Africa
+U00425,2021-07-18,Organic,Germany
+U00426,2023-06-22,Organic,Canada
+U00427,2023-01-18,Paid Search,USA
+U00428,2022-08-28,Referral,South Africa
+U00429,2023-05-01,Paid Search,UK
+U00430,2021-09-28,Sales,Germany
+U00431,2023-12-24,Sales,Germany
+U00432,2021-12-03,Referral,India
+U00433,2022-08-28,Referral,USA
+U00434,2023-08-18,Organic,UK
+U00435,2022-04-08,Social,Canada
+U00436,2023-01-20,Organic,India
+U00437,2021-01-29,Referral,Canada
+U00438,2021-09-11,Social,Germany
+U00439,2024-10-09,Referral,Canada
+U00440,2023-02-20,Referral,USA
+U00441,2024-10-14,Paid Search,India
+U00442,2021-02-21,Sales,Canada
+U00443,2022-11-03,Sales,UK
+U00444,2024-08-19,Organic,South Africa
+U00445,2023-08-09,Referral,South Africa
+U00446,2023-04-17,Organic,UK
+U00447,2021-04-03,Organic,Germany
+U00448,2023-10-06,Organic,USA
+U00449,2022-04-26,Sales,UK
+U00450,2023-03-07,Social,Germany
+U00451,2024-10-05,Sales,India
+U00452,2024-04-17,Paid Search,India
+U00453,2024-09-03,Organic,India
+U00454,2024-06-14,Social,Germany
+U00455,2021-03-09,Referral,UK
+U00456,2023-06-28,Social,UK
+U00457,2023-01-13,Organic,South Africa
+U00458,2023-01-23,Sales,South Africa
+U00459,2023-01-05,Organic,India
+U00460,2022-07-20,Paid Search,USA
+U00461,2023-07-21,Organic,South Africa
+U00462,2022-03-11,Sales,USA
+U00463,2021-04-14,Referral,UK
+U00464,2021-09-15,Sales,UK
+U00465,2021-05-21,Sales,UK
+U00466,2024-04-15,Paid Search,UK
+U00467,2022-11-04,Paid Search,Canada
+U00468,2021-01-06,Referral,UK
+U00469,2021-09-24,Sales,Germany
+U00470,2021-12-24,Organic,South Africa
+U00471,2021-02-22,Paid Search,USA
+U00472,2023-01-04,Paid Search,Canada
+U00473,2022-10-26,Organic,UK
+U00474,2022-06-28,Organic,UK
+U00475,2023-05-13,Sales,USA
+U00476,2021-05-11,Social,India
+U00477,2023-01-12,Sales,Canada
+U00478,2021-08-12,Social,Canada
+U00479,2022-03-30,Sales,USA
+U00480,2024-09-11,Sales,Germany
+U00481,2023-07-28,Organic,USA
+U00482,2023-09-08,Social,India
+U00483,2024-11-06,Organic,India
+U00484,2024-12-29,Social,USA
+U00485,2021-06-15,Referral,Canada
+U00486,2021-10-31,Organic,UK
+U00487,2022-07-18,Sales,South Africa
+U00488,2024-04-13,Sales,South Africa
+U00489,2022-10-28,Social,Canada
+U00490,2023-12-23,Referral,India
+U00491,2023-11-02,Sales,India
+U00492,2021-07-23,Organic,South Africa
+U00493,2024-08-26,Sales,South Africa
+U00494,2022-03-17,Social,India
+U00495,2022-04-13,Social,Germany
+U00496,2023-07-18,Social,India
+U00497,2021-07-14,Referral,India
+U00498,2022-10-03,Referral,Germany
+U00499,2021-11-09,Social,USA
+U00500,2021-07-06,Organic,USA
+U00501,2023-06-04,Organic,South Africa
+U00502,2023-02-03,Paid Search,Canada
+U00503,2021-05-03,Sales,Canada
+U00504,2024-02-25,Referral,South Africa
+U00505,2021-09-08,Social,Germany
+U00506,2024-09-24,Social,South Africa
+U00507,2021-04-16,Referral,Canada
+U00508,2022-10-02,Referral,USA
+U00509,2024-03-29,Sales,UK
+U00510,2021-11-13,Social,UK
+U00511,2021-08-10,Referral,Canada
+U00512,2023-01-23,Organic,Germany
+U00513,2024-03-21,Paid Search,India
+U00514,2024-02-23,Sales,Canada
+U00515,2024-10-14,Sales,USA
+U00516,2024-06-01,Referral,USA
+U00517,2022-01-05,Referral,South Africa
+U00518,2022-09-25,Referral,Germany
+U00519,2021-01-13,Paid Search,UK
+U00520,2024-03-05,Social,USA
+U00521,2021-10-18,Organic,USA
+U00522,2023-12-23,Paid Search,India
+U00523,2023-05-10,Social,Germany
+U00524,2021-11-19,Referral,Germany
+U00525,2022-10-27,Sales,Canada
+U00526,2021-06-23,Organic,UK
+U00527,2021-11-19,Sales,USA
+U00528,2024-10-12,Organic,Germany
+U00529,2023-06-27,Social,India
+U00530,2024-05-28,Social,India
+U00531,2022-07-14,Paid Search,Canada
+U00532,2021-08-22,Referral,India
+U00533,2021-08-16,Referral,South Africa
+U00534,2024-10-21,Sales,India
+U00535,2023-12-16,Referral,USA
+U00536,2022-03-28,Social,Canada
+U00537,2021-04-23,Organic,UK
+U00538,2022-09-10,Paid Search,UK
+U00539,2022-06-08,Referral,Germany
+U00540,2021-09-03,Organic,India
+U00541,2023-06-01,Paid Search,UK
+U00542,2023-02-18,Sales,South Africa
+U00543,2022-04-17,Sales,Canada
+U00544,2024-09-30,Referral,USA
+U00545,2023-03-25,Organic,India
+U00546,2021-02-08,Social,USA
+U00547,2022-10-04,Sales,India
+U00548,2024-03-20,Social,South Africa
+U00549,2024-08-04,Social,Germany
+U00550,2021-08-24,Social,USA
+U00551,2022-10-28,Paid Search,Canada
+U00552,2023-08-01,Referral,USA
+U00553,2023-06-14,Organic,UK
+U00554,2023-06-12,Sales,India
+U00555,2023-12-10,Organic,India
+U00556,2022-09-28,Referral,UK
+U00557,2022-11-14,Paid Search,USA
+U00558,2023-11-12,Organic,Canada
+U00559,2023-11-11,Paid Search,Germany
+U00560,2022-12-21,Paid Search,UK
+U00561,2021-07-30,Paid Search,Germany
+U00562,2022-02-09,Paid Search,Canada
+U00563,2021-11-10,Organic,UK
+U00564,2024-07-10,Social,India
+U00565,2024-02-29,Sales,India
+U00566,2024-10-26,Sales,South Africa
+U00567,2024-07-25,Sales,Germany
+U00568,2024-07-08,Referral,UK
+U00569,2023-06-20,Organic,India
+U00570,2023-06-25,Referral,Germany
+U00571,2024-04-26,Organic,Germany
+U00572,2023-11-06,Organic,Germany
+U00573,2023-08-04,Social,USA
+U00574,2021-04-27,Referral,Germany
+U00575,2021-06-07,Organic,Canada
+U00576,2024-05-01,Sales,India
+U00577,2023-08-06,Sales,Canada
+U00578,2021-03-26,Social,Canada
+U00579,2024-08-27,Paid Search,Germany
+U00580,2024-05-24,Social,Canada
+U00581,2021-11-05,Organic,India
+U00582,2021-07-31,Referral,South Africa
+U00583,2021-06-22,Sales,South Africa
+U00584,2021-12-20,Organic,UK
+U00585,2024-12-20,Social,India
+U00586,2023-12-10,Sales,Canada
+U00587,2021-11-22,Referral,Germany
+U00588,2022-08-03,Social,India
+U00589,2022-11-24,Sales,USA
+U00590,2024-07-16,Referral,USA
+U00591,2022-11-07,Organic,Canada
+U00592,2024-10-21,Social,Germany
+U00593,2022-06-01,Sales,UK
+U00594,2022-11-14,Organic,Canada
+U00595,2024-09-21,Paid Search,Germany
+U00596,2022-09-28,Social,UK
+U00597,2024-05-03,Organic,Germany
+U00598,2024-02-19,Social,South Africa
+U00599,2022-11-04,Paid Search,South Africa
+U00600,2024-12-10,Sales,USA
+U00601,2024-08-16,Social,Canada
+U00602,2023-01-12,Organic,Germany
+U00603,2022-09-25,Paid Search,UK
+U00604,2022-12-01,Social,UK
+U00605,2022-04-09,Paid Search,UK
+U00606,2021-06-08,Referral,USA
+U00607,2023-11-06,Sales,South Africa
+U00608,2023-12-15,Organic,South Africa
+U00609,2022-11-21,Sales,UK
+U00610,2024-05-08,Social,UK
+U00611,2021-11-29,Paid Search,South Africa
+U00612,2024-07-03,Paid Search,South Africa
+U00613,2023-06-16,Organic,India
+U00614,2023-01-17,Paid Search,India
+U00615,2024-06-04,Referral,South Africa
+U00616,2023-07-09,Paid Search,Canada
+U00617,2022-05-05,Referral,India
+U00618,2022-02-02,Referral,South Africa
+U00619,2024-03-14,Social,India
+U00620,2022-08-01,Social,Canada
+U00621,2023-12-17,Social,UK
+U00622,2022-02-13,Sales,UK
+U00623,2022-05-28,Organic,South Africa
+U00624,2023-09-12,Referral,Canada
+U00625,2021-07-30,Sales,USA
+U00626,2022-08-07,Organic,UK
+U00627,2022-07-13,Social,Canada
+U00628,2021-10-29,Social,USA
+U00629,2022-03-31,Social,Germany
+U00630,2021-02-24,Social,USA
+U00631,2023-03-23,Sales,Germany
+U00632,2022-04-28,Social,USA
+U00633,2023-02-07,Paid Search,USA
+U00634,2022-10-15,Organic,South Africa
+U00635,2024-08-24,Referral,UK
+U00636,2021-10-09,Organic,Germany
+U00637,2023-08-26,Paid Search,South Africa
+U00638,2023-08-19,Social,Canada
+U00639,2021-01-11,Organic,USA
+U00640,2022-06-09,Paid Search,UK
+U00641,2024-01-29,Sales,Canada
+U00642,2023-05-17,Organic,Germany
+U00643,2022-05-02,Referral,USA
+U00644,2021-04-08,Paid Search,India
+U00645,2024-08-01,Sales,India
+U00646,2021-05-09,Organic,India
+U00647,2024-05-07,Sales,USA
+U00648,2024-07-18,Sales,Canada
+U00649,2022-05-11,Paid Search,Germany
+U00650,2023-05-30,Organic,Canada
+U00651,2022-12-24,Paid Search,Canada
+U00652,2023-05-04,Paid Search,South Africa
+U00653,2024-09-30,Organic,Canada
+U00654,2023-01-09,Organic,Canada
+U00655,2024-01-20,Sales,Canada
+U00656,2024-02-09,Organic,India
+U00657,2023-08-21,Organic,South Africa
+U00658,2023-03-04,Referral,Germany
+U00659,2021-02-03,Referral,USA
+U00660,2022-12-08,Paid Search,South Africa
+U00661,2024-09-07,Organic,Canada
+U00662,2022-11-12,Paid Search,USA
+U00663,2022-12-23,Sales,Germany
+U00664,2024-08-09,Paid Search,South Africa
+U00665,2023-08-10,Social,South Africa
+U00666,2022-01-09,Paid Search,USA
+U00667,2023-07-27,Organic,Germany
+U00668,2022-02-17,Organic,UK
+U00669,2021-03-27,Referral,Germany
+U00670,2023-11-22,Social,Canada
+U00671,2023-08-28,Referral,USA
+U00672,2024-08-17,Paid Search,Germany
+U00673,2023-01-02,Organic,South Africa
+U00674,2022-11-11,Referral,USA
+U00675,2023-01-24,Social,India
+U00676,2023-06-20,Social,Germany
+U00677,2022-01-18,Social,South Africa
+U00678,2023-10-16,Referral,Canada
+U00679,2022-07-01,Organic,South Africa
+U00680,2023-05-20,Organic,India
+U00681,2024-05-18,Paid Search,Canada
+U00682,2022-08-25,Referral,USA
+U00683,2021-06-13,Referral,South Africa
+U00684,2022-08-29,Referral,India
+U00685,2024-05-19,Social,UK
+U00686,2024-11-13,Social,Germany
+U00687,2023-07-05,Organic,South Africa
+U00688,2022-12-24,Sales,India
+U00689,2022-07-17,Organic,USA
+U00690,2024-10-06,Social,Germany
+U00691,2023-11-17,Paid Search,USA
+U00692,2021-10-20,Sales,South Africa
+U00693,2023-06-17,Organic,UK
+U00694,2021-05-18,Paid Search,South Africa
+U00695,2023-01-21,Referral,India
+U00696,2024-03-07,Organic,Canada
+U00697,2021-11-11,Social,Germany
+U00698,2023-02-01,Social,USA
+U00699,2024-03-21,Paid Search,Canada
+U00700,2023-01-22,Social,Germany
+U00701,2024-08-23,Referral,UK
+U00702,2021-08-21,Organic,South Africa
+U00703,2022-01-17,Social,Canada
+U00704,2023-03-04,Sales,USA
+U00705,2022-06-21,Referral,South Africa
+U00706,2023-07-03,Paid Search,Canada
+U00707,2022-08-08,Social,UK
+U00708,2021-09-09,Paid Search,USA
+U00709,2023-07-15,Paid Search,South Africa
+U00710,2023-07-01,Organic,South Africa
+U00711,2022-10-17,Referral,South Africa
+U00712,2021-05-13,Sales,Canada
+U00713,2022-08-18,Referral,UK
+U00714,2024-12-28,Paid Search,Germany
+U00715,2023-11-08,Paid Search,USA
+U00716,2022-02-16,Paid Search,UK
+U00717,2023-10-09,Organic,Germany
+U00718,2024-02-09,Sales,Germany
+U00719,2023-08-16,Sales,UK
+U00720,2024-06-07,Organic,USA
+U00721,2022-09-26,Social,South Africa
+U00722,2023-09-08,Sales,India
+U00723,2023-04-19,Sales,USA
+U00724,2021-09-14,Referral,South Africa
+U00725,2021-06-01,Social,India
+U00726,2024-10-24,Sales,Germany
+U00727,2021-09-20,Sales,South Africa
+U00728,2024-04-18,Paid Search,UK
+U00729,2023-06-06,Sales,USA
+U00730,2021-09-12,Sales,UK
+U00731,2022-09-15,Paid Search,UK
+U00732,2022-10-23,Paid Search,Germany
+U00733,2023-11-29,Referral,USA
+U00734,2022-05-29,Paid Search,South Africa
+U00735,2024-02-03,Referral,UK
+U00736,2024-07-04,Referral,Canada
+U00737,2023-12-29,Organic,Canada
+U00738,2024-08-05,Paid Search,Canada
+U00739,2024-04-04,Paid Search,UK
+U00740,2024-09-11,Sales,South Africa
+U00741,2024-05-24,Referral,Canada
+U00742,2021-03-26,Organic,USA
+U00743,2021-04-04,Sales,Germany
+U00744,2024-08-26,Paid Search,Canada
+U00745,2023-05-04,Sales,South Africa
+U00746,2021-03-04,Social,South Africa
+U00747,2024-01-23,Referral,South Africa
+U00748,2022-09-11,Social,UK
+U00749,2024-11-03,Social,Germany
+U00750,2023-07-18,Organic,South Africa
+U00751,2021-05-03,Paid Search,India
+U00752,2023-05-02,Social,India
+U00753,2022-02-22,Referral,Canada
+U00754,2021-10-22,Referral,South Africa
+U00755,2022-10-16,Referral,India
+U00756,2021-09-25,Referral,Canada
+U00757,2024-02-25,Organic,Germany
+U00758,2022-05-11,Social,USA
+U00759,2022-07-02,Social,UK
+U00760,2021-10-16,Organic,USA
+U00761,2022-08-18,Social,Canada
+U00762,2023-05-07,Paid Search,UK
+U00763,2022-11-02,Sales,South Africa
+U00764,2022-10-03,Paid Search,UK
+U00765,2023-10-18,Sales,India
+U00766,2023-10-19,Referral,India
+U00767,2021-02-17,Organic,India
+U00768,2023-11-02,Social,UK
+U00769,2022-03-17,Sales,Germany
+U00770,2021-04-10,Organic,Germany
+U00771,2023-10-11,Sales,South Africa
+U00772,2024-10-09,Social,Germany
+U00773,2024-01-05,Organic,USA
+U00774,2023-06-02,Paid Search,Germany
+U00775,2023-01-20,Social,Germany
+U00776,2021-04-03,Social,USA
+U00777,2024-03-13,Sales,UK
+U00778,2023-01-13,Sales,Germany
+U00779,2021-05-31,Social,Canada
+U00780,2023-07-12,Sales,Germany
+U00781,2024-06-30,Sales,USA
+U00782,2021-09-21,Organic,India
+U00783,2023-02-04,Referral,Canada
+U00784,2023-01-19,Paid Search,UK
+U00785,2024-05-18,Sales,India
+U00786,2023-10-22,Organic,USA
+U00787,2021-03-21,Paid Search,South Africa
+U00788,2022-11-14,Social,Canada
+U00789,2023-07-25,Paid Search,Canada
+U00790,2023-11-22,Paid Search,Germany
+U00791,2024-06-09,Referral,UK
+U00792,2023-03-16,Sales,South Africa
+U00793,2022-09-05,Sales,Germany
+U00794,2023-11-05,Sales,Canada
+U00795,2023-10-01,Sales,Germany
+U00796,2023-08-31,Organic,Germany
+U00797,2022-11-10,Organic,India
+U00798,2024-04-10,Referral,South Africa
+U00799,2024-11-10,Organic,Canada
+U00800,2023-08-30,Referral,South Africa
+U00801,2024-03-30,Sales,UK
+U00802,2021-04-16,Sales,India
+U00803,2021-12-16,Sales,South Africa
+U00804,2024-06-23,Social,UK
+U00805,2024-10-26,Paid Search,USA
+U00806,2024-03-18,Organic,UK
+U00807,2021-02-08,Social,Germany
+U00808,2023-05-08,Paid Search,India
+U00809,2024-11-15,Paid Search,India
+U00810,2023-10-25,Sales,India
+U00811,2021-05-08,Paid Search,Canada
+U00812,2022-03-01,Sales,Germany
+U00813,2024-09-18,Social,Canada
+U00814,2023-02-11,Referral,UK
+U00815,2023-07-31,Sales,Germany
+U00816,2024-01-24,Referral,South Africa
+U00817,2024-10-26,Referral,Canada
+U00818,2023-09-19,Paid Search,UK
+U00819,2022-07-26,Sales,Germany
+U00820,2022-04-06,Referral,Germany
+U00821,2024-12-14,Paid Search,South Africa
+U00822,2024-12-14,Social,Germany
+U00823,2023-09-10,Referral,Canada
+U00824,2022-07-15,Referral,USA
+U00825,2024-03-20,Sales,India
+U00826,2023-03-20,Referral,UK
+U00827,2022-08-18,Organic,Germany
+U00828,2021-06-11,Referral,India
+U00829,2024-09-05,Referral,South Africa
+U00830,2023-09-09,Paid Search,UK
+U00831,2024-01-09,Referral,Canada
+U00832,2024-11-26,Referral,UK
+U00833,2021-08-12,Sales,South Africa
+U00834,2024-04-16,Paid Search,UK
+U00835,2021-04-14,Sales,UK
+U00836,2024-07-30,Paid Search,USA
+U00837,2021-07-25,Social,Germany
+U00838,2023-08-26,Organic,South Africa
+U00839,2021-10-09,Organic,Canada
+U00840,2021-11-20,Social,South Africa
+U00841,2023-09-02,Social,South Africa
+U00842,2022-02-13,Referral,Germany
+U00843,2022-08-08,Organic,USA
+U00844,2024-08-28,Sales,UK
+U00845,2024-01-01,Organic,UK
+U00846,2023-05-06,Paid Search,USA
+U00847,2023-03-25,Social,UK
+U00848,2022-08-16,Organic,USA
+U00849,2022-09-04,Sales,Canada
+U00850,2021-08-08,Referral,Germany
+U00851,2023-07-20,Sales,Canada
+U00852,2023-10-09,Paid Search,Canada
+U00853,2023-08-17,Referral,UK
+U00854,2021-08-19,Referral,UK
+U00855,2023-07-29,Referral,South Africa
+U00856,2022-01-17,Organic,South Africa
+U00857,2022-11-22,Referral,Canada
+U00858,2024-10-13,Paid Search,UK
+U00859,2024-06-05,Social,India
+U00860,2023-11-22,Referral,USA
+U00861,2023-04-01,Organic,UK
+U00862,2021-10-15,Social,Germany
+U00863,2022-05-24,Organic,Germany
+U00864,2023-02-25,Paid Search,India
+U00865,2022-07-01,Referral,Germany
+U00866,2024-04-07,Sales,USA
+U00867,2022-06-20,Referral,South Africa
+U00868,2022-04-29,Organic,South Africa
+U00869,2021-08-31,Social,Germany
+U00870,2021-11-24,Social,South Africa
+U00871,2023-10-27,Referral,South Africa
+U00872,2021-08-29,Referral,Germany
+U00873,2024-06-12,Paid Search,UK
+U00874,2021-10-01,Social,UK
+U00875,2023-07-21,Sales,Germany
+U00876,2023-05-02,Sales,India
+U00877,2024-01-06,Paid Search,UK
+U00878,2024-10-25,Sales,USA
+U00879,2023-12-13,Social,Canada
+U00880,2024-12-12,Referral,USA
+U00881,2024-03-01,Organic,USA
+U00882,2024-01-27,Sales,UK
+U00883,2024-03-18,Sales,UK
+U00884,2021-12-03,Referral,Canada
+U00885,2023-06-24,Organic,South Africa
+U00886,2022-02-25,Sales,India
+U00887,2021-07-06,Sales,India
+U00888,2021-04-24,Social,UK
+U00889,2023-11-18,Social,India
+U00890,2024-02-29,Organic,Canada
+U00891,2023-08-05,Referral,South Africa
+U00892,2021-02-14,Social,Germany
+U00893,2021-01-07,Paid Search,Canada
+U00894,2021-05-30,Organic,India
+U00895,2022-12-07,Organic,Canada
+U00896,2021-05-04,Organic,India
+U00897,2021-03-06,Referral,India
+U00898,2022-01-04,Paid Search,South Africa
+U00899,2024-08-15,Social,Germany
+U00900,2023-02-23,Social,India
+U00901,2023-02-09,Organic,South Africa
+U00902,2024-09-17,Sales,UK
+U00903,2024-08-31,Referral,USA
+U00904,2022-01-01,Sales,India
+U00905,2023-12-20,Paid Search,South Africa
+U00906,2022-04-02,Organic,USA
+U00907,2022-09-04,Social,South Africa
+U00908,2024-01-21,Social,Canada
+U00909,2023-02-16,Paid Search,UK
+U00910,2023-08-02,Referral,UK
+U00911,2022-07-19,Paid Search,South Africa
+U00912,2021-08-20,Organic,South Africa
+U00913,2023-05-09,Sales,USA
+U00914,2022-05-08,Paid Search,USA
+U00915,2021-07-26,Sales,USA
+U00916,2023-07-04,Sales,South Africa
+U00917,2024-12-11,Organic,UK
+U00918,2021-04-01,Social,India
+U00919,2022-04-25,Sales,UK
+U00920,2021-04-26,Paid Search,Canada
+U00921,2022-08-16,Paid Search,South Africa
+U00922,2024-03-25,Referral,Canada
+U00923,2024-05-09,Referral,UK
+U00924,2022-09-11,Paid Search,South Africa
+U00925,2023-12-04,Paid Search,India
+U00926,2022-09-08,Referral,USA
+U00927,2024-02-15,Sales,South Africa
+U00928,2021-12-25,Social,Canada
+U00929,2023-10-13,Organic,Germany
+U00930,2024-08-10,Social,Canada
+U00931,2022-10-15,Social,India
+U00932,2021-11-02,Referral,India
+U00933,2022-01-12,Sales,India
+U00934,2022-05-09,Paid Search,Germany
+U00935,2024-12-20,Paid Search,India
+U00936,2021-04-29,Sales,India
+U00937,2023-05-04,Sales,Canada
+U00938,2021-10-02,Social,UK
+U00939,2022-06-07,Paid Search,Germany
+U00940,2024-08-17,Organic,India
+U00941,2023-01-30,Organic,Canada
+U00942,2022-01-26,Organic,Germany
+U00943,2023-02-12,Sales,Canada
+U00944,2021-03-22,Organic,UK
+U00945,2024-04-18,Sales,UK
+U00946,2023-09-09,Paid Search,Germany
+U00947,2022-09-13,Organic,UK
+U00948,2022-01-25,Organic,South Africa
+U00949,2023-09-08,Paid Search,South Africa
+U00950,2024-05-22,Paid Search,India
+U00951,2022-05-06,Sales,Germany
+U00952,2022-08-03,Social,India
+U00953,2023-12-29,Referral,Germany
+U00954,2022-06-20,Referral,Canada
+U00955,2023-10-16,Social,USA
+U00956,2023-08-20,Referral,UK
+U00957,2023-01-30,Referral,India
+U00958,2021-04-04,Sales,UK
+U00959,2021-10-26,Organic,Germany
+U00960,2024-02-08,Sales,Canada
+U00961,2023-05-06,Referral,UK
+U00962,2022-02-06,Referral,UK
+U00963,2023-02-17,Sales,UK
+U00964,2023-10-20,Sales,South Africa
+U00965,2024-11-03,Referral,Germany
+U00966,2023-09-28,Social,India
+U00967,2021-12-11,Referral,UK
+U00968,2021-10-14,Sales,India
+U00969,2022-01-12,Sales,South Africa
+U00970,2021-05-01,Sales,USA
+U00971,2021-06-02,Organic,USA
+U00972,2023-04-25,Paid Search,South Africa
+U00973,2022-04-19,Organic,South Africa
+U00974,2021-11-06,Organic,UK
+U00975,2023-11-02,Social,Germany
+U00976,2021-05-04,Sales,South Africa
+U00977,2024-09-27,Sales,India
+U00978,2024-09-12,Social,USA
+U00979,2021-01-14,Sales,Canada
+U00980,2023-04-23,Organic,USA
+U00981,2023-12-21,Referral,Canada
+U00982,2022-08-11,Organic,Canada
+U00983,2024-11-30,Social,UK
+U00984,2021-08-08,Organic,Canada
+U00985,2021-11-01,Paid Search,UK
+U00986,2024-06-23,Sales,Germany
+U00987,2022-12-27,Referral,India
+U00988,2021-06-11,Referral,India
+U00989,2023-07-30,Sales,UK
+U00990,2024-11-28,Paid Search,Germany
+U00991,2024-11-01,Organic,South Africa
+U00992,2024-08-23,Organic,USA
+U00993,2023-04-11,Social,India
+U00994,2024-02-06,Social,USA
+U00995,2024-07-28,Organic,South Africa
+U00996,2021-12-17,Organic,India
+U00997,2023-06-08,Referral,Canada
+U00998,2021-07-15,Sales,USA
+U00999,2022-04-16,Paid Search,South Africa
+U01000,2024-03-06,Social,Germany
